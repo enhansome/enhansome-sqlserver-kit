@@ -40,7 +40,7 @@
                 "last_commit": "2026-07-16T17:42:29Z",
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11194
+                "stars": 11196
               }
             }
           ]
@@ -66,7 +66,7 @@
                     "last_commit": "2025-04-14T15:06:31Z",
                     "owner": "NUKnightLab",
                     "repo": "sql-mysteries",
-                    "stars": 2165
+                    "stars": 2169
                   }
                 },
                 {
@@ -135,7 +135,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-13T15:43:52Z",
+                "last_commit": "2026-08-14T14:26:14Z",
                 "owner": "sqlfluff",
                 "repo": "sqlfluff",
                 "stars": 9852
@@ -163,7 +163,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "C#",
-                "last_commit": "2026-08-01T04:43:21Z",
+                "last_commit": "2026-08-14T12:25:19Z",
                 "owner": "borisdj",
                 "repo": "EFCore.BulkExtensions",
                 "stars": 3999
@@ -222,7 +222,7 @@
                 "last_commit": "2026-08-12T20:06:55Z",
                 "owner": "olahallengren",
                 "repo": "sql-server-maintenance-solution",
-                "stars": 3457
+                "stars": 3458
               }
             },
             {
@@ -250,7 +250,7 @@
                 "last_commit": "2026-04-10T11:27:35Z",
                 "owner": "sqlkata",
                 "repo": "querybuilder",
-                "stars": 3375
+                "stars": 3377
               }
             },
             {
@@ -306,7 +306,7 @@
                 "last_commit": "2026-05-16T16:22:47Z",
                 "owner": "amachanic",
                 "repo": "sp_whoisactive",
-                "stars": 1392
+                "stars": 1393
               }
             },
             {
@@ -390,7 +390,7 @@
                 "last_commit": "2026-08-07T10:03:05Z",
                 "owner": "erikdarlingdata",
                 "repo": "DarlingData",
-                "stars": 719
+                "stars": 718
               }
             },
             {
@@ -600,7 +600,7 @@
                 "last_commit": "2019-04-28T20:56:42Z",
                 "owner": "yorek",
                 "repo": "ssis-dashboard",
-                "stars": 260
+                "stars": 259
               }
             },
             {
@@ -698,7 +698,7 @@
                 "last_commit": "2026-08-11T18:05:46Z",
                 "owner": "microsoft",
                 "repo": "sql-server-language-extensions",
-                "stars": 114
+                "stars": 115
               }
             },
             {
@@ -857,20 +857,6 @@
             },
             {
               "node_type": "item",
-              "title": "stpChecklist_Seguranca - stored procedure with more than 70 security items to validate your SQL Server database",
-              "description": "(by Dirceu Resende)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "TSQL",
-                "last_commit": "2023-06-21T14:04:17Z",
-                "owner": "dirceuresende",
-                "repo": "checklist_seguranca",
-                "stars": 79
-              }
-            },
-            {
-              "node_type": "item",
               "title": "AwesomeSQLServer - collection of SQL Server Queries and documentations to fix your SQL Server's bottle neck",
               "description": "(by SqlAdmin)",
               "children": [],
@@ -880,6 +866,20 @@
                 "last_commit": "2017-12-11T04:27:52Z",
                 "owner": "SQLadmin",
                 "repo": "AwesomeSQLServer",
+                "stars": 80
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "stpChecklist_Seguranca - stored procedure with more than 70 security items to validate your SQL Server database",
+              "description": "(by Dirceu Resende)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TSQL",
+                "last_commit": "2023-06-21T14:04:17Z",
+                "owner": "dirceuresende",
+                "repo": "checklist_seguranca",
                 "stars": 79
               }
             },
@@ -1520,10 +1520,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-08-13T13:31:54Z",
+                "last_commit": "2026-08-14T13:57:08Z",
                 "owner": "influxdata",
                 "repo": "telegraf",
-                "stars": 17746
+                "stars": 17750
               }
             },
             {
@@ -1537,7 +1537,7 @@
                 "last_commit": "2026-07-16T17:42:29Z",
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11194
+                "stars": 11196
               }
             },
             {
@@ -1674,7 +1674,7 @@
           "repo_info": {
             "archived": false,
             "language": "PowerShell",
-            "last_commit": "2026-08-13T15:19:18Z",
+            "last_commit": "2026-08-14T13:48:28Z",
             "owner": "dataplat",
             "repo": "dbatools",
             "stars": 2823
@@ -1842,7 +1842,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T15:43:55.345Z",
+    "last_updated": "2026-08-14T15:37:54.379Z",
     "original_repository": "ktaranov/sqlserver-kit",
     "original_repository_sha": "887ec1ee8317b04542b80170925498b5b4ff04fa",
     "enhanced_repository": "enhansome/enhansome-sqlserver-kit",
