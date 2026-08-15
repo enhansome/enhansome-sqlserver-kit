@@ -77,7 +77,7 @@
                   "repo_info": {
                     "archived": false,
                     "language": "TSQL",
-                    "last_commit": "2026-08-13T14:52:56Z",
+                    "last_commit": "2026-08-15T00:40:20Z",
                     "owner": "smpetersgithub",
                     "repo": "AdvancedSQLPuzzles",
                     "stars": 916
@@ -135,10 +135,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-14T14:26:14Z",
+                "last_commit": "2026-08-14T22:59:37Z",
                 "owner": "sqlfluff",
                 "repo": "sqlfluff",
-                "stars": 9852
+                "stars": 9853
               }
             },
             {
@@ -208,7 +208,7 @@
                 "last_commit": "2026-08-12T22:20:08Z",
                 "owner": "fluentmigrator",
                 "repo": "fluentmigrator",
-                "stars": 3506
+                "stars": 3507
               }
             },
             {
@@ -222,7 +222,7 @@
                 "last_commit": "2026-08-12T20:06:55Z",
                 "owner": "olahallengren",
                 "repo": "sql-server-maintenance-solution",
-                "stars": 3458
+                "stars": 3457
               }
             },
             {
@@ -264,7 +264,7 @@
                 "last_commit": "2026-08-12T12:25:27Z",
                 "owner": "ErikEJ",
                 "repo": "EFCorePowerTools",
-                "stars": 2507
+                "stars": 2508
               }
             },
             {
@@ -695,7 +695,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "C++",
-                "last_commit": "2026-08-11T18:05:46Z",
+                "last_commit": "2026-08-14T22:58:21Z",
                 "owner": "microsoft",
                 "repo": "sql-server-language-extensions",
                 "stars": 115
@@ -1087,7 +1087,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "PowerShell",
-                "last_commit": "2026-07-30T13:38:27Z",
+                "last_commit": "2026-08-15T13:14:30Z",
                 "owner": "lowlydba",
                 "repo": "lowlydba.sqlserver",
                 "stars": 26
@@ -1520,10 +1520,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-08-14T13:57:08Z",
+                "last_commit": "2026-08-14T15:43:56Z",
                 "owner": "influxdata",
                 "repo": "telegraf",
-                "stars": 17750
+                "stars": 17754
               }
             },
             {
@@ -1674,7 +1674,7 @@
           "repo_info": {
             "archived": false,
             "language": "PowerShell",
-            "last_commit": "2026-08-14T13:48:28Z",
+            "last_commit": "2026-08-15T14:14:23Z",
             "owner": "dataplat",
             "repo": "dbatools",
             "stars": 2823
@@ -1842,7 +1842,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T15:37:54.379Z",
+    "last_updated": "2026-08-15T15:02:28.060Z",
     "original_repository": "ktaranov/sqlserver-kit",
     "original_repository_sha": "887ec1ee8317b04542b80170925498b5b4ff04fa",
     "enhanced_repository": "enhansome/enhansome-sqlserver-kit",
