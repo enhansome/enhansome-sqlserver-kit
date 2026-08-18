@@ -168,7 +168,7 @@ Useful links, scripts, tools and best practice for Microsoft SQL Server Database
   * [Kohera SQL Server Blog](https://kohera.be/blog/category/sql-server/)
   * [SQL Queries Cheat Sheet](https://helpercodes.com/sql-query-cheatsheet-tutorial/)
 * Security (great thanks to [Troy Hunt](https://www.troyhunt.com/troys-ultimate-list-of-security-links/)) <a id="security"></a>
-  * [Microsoft SQL Server Permissions Posters](https://github.com/Microsoft/sql-server-samples/tree/master/samples/features/security/permissions-posters) ⭐ 11,199 | 🐛 297 | 📅 2026-07-16
+  * [Microsoft SQL Server Permissions Posters](https://github.com/Microsoft/sql-server-samples/tree/master/samples/features/security/permissions-posters) ⭐ 11,200 | 🐛 297 | 📅 2026-07-16
   * SQL injection
     * [sqlmap - The tool for mounting SQL injection attacks tests against a running site](http://sqlmap.org/)
     * [Drupal 7 SQL injection flaw of 2014](https://www.drupal.org/PSA-2014-003) – great example of how impactful it still is (patch it within 7 hours or you are owned)
@@ -226,8 +226,8 @@ Useful links, scripts, tools and best practice for Microsoft SQL Server Database
   * [Mixed Extents](https://youtu.be/hBgMadT9fuU) (by EightKB)
 * Courses <a id="courses"></a>
   * Free
-    * [SQL Murder Mystery](https://github.com/NUKnightLab/sql-mysteries) ⭐ 2,169 | 🐛 20 | 🌐 JavaScript | 📅 2025-04-14 (by NUKnightLab)
-    * [Advanced T-SQL Puzzles](https://github.com/smpetersgithub/AdvancedSQLPuzzles) ⭐ 916 | 🐛 0 | 🌐 TSQL | 📅 2026-08-15 (by Scott Peters)
+    * [SQL Murder Mystery](https://github.com/NUKnightLab/sql-mysteries) ⭐ 2,171 | 🐛 20 | 🌐 JavaScript | 📅 2025-04-14 (by NUKnightLab)
+    * [Advanced T-SQL Puzzles](https://github.com/smpetersgithub/AdvancedSQLPuzzles) ⭐ 917 | 🐛 0 | 🌐 TSQL | 📅 2026-08-18 (by Scott Peters)
     * [SQL Murder Mystery with answers](https://github.com/erika-e/sql-mysteries) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2020-05-08 (by Erika Pullum)
     * [SQLBolt - Learn SQL with simple, interactive exercises](https://sqlbolt.com/)
     * [Learning Extended Events in 60 Days](https://jasonbrimhall.info/2015/09/08/learning-extended-events-in-60-days/) and new [link](http://sqlxevents.com/) (by Jason Brimhall)
@@ -336,22 +336,22 @@ Useful links, scripts, tools and best practice for Microsoft SQL Server Database
   * [DataMinutes](https://datagrillen.com/dataminutes/)
   * [Data & AI Summit](https://databricks.com/dataaisummit)
 * Open Source Projects <a id="open-source">
-  * [SQLFluff - A SQL linter and auto-formatter for Humans](https://github.com/sqlfluff/sqlfluff) ⭐ 9,855 | 🐛 310 | 🌐 Python | 📅 2026-08-17
-  * [Opserver - Stack Exchange's Monitoring System](https://github.com/opserver/Opserver) ⭐ 4,563 | 🐛 76 | 🌐 C# | 📅 2024-11-30 (by Stack Exchange)
-  * [EFCore.BulkExtensions - Entity Framework Core Bulk Batch Extensions for Insert Update Delete and Read (CRUD) operations on SQL Server and SQLite](https://github.com/borisdj/EFCore.BulkExtensions) ⭐ 3,999 | 🐛 127 | 🌐 C# | 📅 2026-08-14 (by Boris Djurdjevic)
-  * [Brent Ozar SQL Server First Responder Kit](https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit) ⭐ 3,875 | 🐛 5 | 🌐 TSQL | 📅 2026-08-11 (Github)
-  * [php-crud-api - Single file PHP script that adds a REST API to a SQL database](https://github.com/mevdschee/php-crud-api) ⭐ 3,738 | 🐛 87 | 🌐 PHP | 📅 2026-08-12 (by Maurits van der Schee)
-  * [Fluent Migrator is a migration framework for .NET much like Ruby on Rails Migrations](https://github.com/fluentmigrator/fluentmigrator) ⭐ 3,508 | 🐛 212 | 🌐 C# | 📅 2026-08-12 (by Eivind Gussiås Løksetheloekset, Mark Junker, Tom Marien)
-  * [SQL Server Ola Hallengren's Maintenance Solution](https://github.com/olahallengren/sql-server-maintenance-solution) ⭐ 3,459 | 🐛 237 | 🌐 TSQL | 📅 2026-08-16 (by Ola Hallengren) (Github)
+  * [SQLFluff - A SQL linter and auto-formatter for Humans](https://github.com/sqlfluff/sqlfluff) ⭐ 9,855 | 🐛 321 | 🌐 Python | 📅 2026-08-18
+  * [Opserver - Stack Exchange's Monitoring System](https://github.com/opserver/Opserver) ⭐ 4,564 | 🐛 76 | 🌐 C# | 📅 2024-11-30 (by Stack Exchange)
+  * [EFCore.BulkExtensions - Entity Framework Core Bulk Batch Extensions for Insert Update Delete and Read (CRUD) operations on SQL Server and SQLite](https://github.com/borisdj/EFCore.BulkExtensions) ⭐ 4,000 | 🐛 127 | 🌐 C# | 📅 2026-08-14 (by Boris Djurdjevic)
+  * [Brent Ozar SQL Server First Responder Kit](https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit) ⭐ 3,878 | 🐛 5 | 🌐 TSQL | 📅 2026-08-11 (Github)
+  * [php-crud-api - Single file PHP script that adds a REST API to a SQL database](https://github.com/mevdschee/php-crud-api) ⭐ 3,737 | 🐛 87 | 🌐 PHP | 📅 2026-08-12 (by Maurits van der Schee)
+  * [Fluent Migrator is a migration framework for .NET much like Ruby on Rails Migrations](https://github.com/fluentmigrator/fluentmigrator) ⭐ 3,508 | 🐛 213 | 🌐 C# | 📅 2026-08-12 (by Eivind Gussiås Løksetheloekset, Mark Junker, Tom Marien)
+  * [SQL Server Ola Hallengren's Maintenance Solution](https://github.com/olahallengren/sql-server-maintenance-solution) ⭐ 3,461 | 🐛 237 | 🌐 TSQL | 📅 2026-08-17 (by Ola Hallengren) (Github)
   * [Bosum - Time Series Alerting Framework](https://github.com/bosun-monitor/bosun) ⚠️ Archived (by Stack Exchange)
-  * [SQL query builder, written in C#](https://github.com/sqlkata/querybuilder) ⭐ 3,377 | 🐛 179 | 🌐 C# | 📅 2026-04-10
-  * [EFCorePowerTools - Reverse engineering, model visualization and migrations UI for EF Core](https://github.com/ErikEJ/EFCorePowerTools) ⭐ 2,508 | 🐛 3 | 🌐 C# | 📅 2026-08-12 (by Erik Ejlskov Jensen)
+  * [SQL query builder, written in C#](https://github.com/sqlkata/querybuilder) ⭐ 3,378 | 🐛 179 | 🌐 C# | 📅 2026-04-10
+  * [EFCorePowerTools - Reverse engineering, model visualization and migrations UI for EF Core](https://github.com/ErikEJ/EFCorePowerTools) ⭐ 2,508 | 🐛 4 | 🌐 C# | 📅 2026-08-18 (by Erik Ejlskov Jensen)
   * [SQL Server in Docker](https://github.com/microsoft/mssql-docker) ⭐ 1,880 | 🐛 525 | 🌐 Dockerfile | 📅 2026-01-27 (by Microsoft)
   * [tigertoolbox - Repository for Tiger team for "as-is" solutions and tools/scripts that the team publishes for SQL Server](https://github.com/Microsoft/tigertoolbox) ⭐ 1,591 | 🐛 112 | 🌐 Jupyter Notebook | 📅 2026-04-10 (Github)
-  * [sp\_whoisactive](http://whoisactive.com/) (documentation) and github repo for it [sp\_WhoIsActive](https://github.com/amachanic/sp_whoisactive) ⭐ 1,393 | 🐛 19 | 🌐 TSQL | 📅 2026-05-16 (by Adam Machanic)
+  * [sp\_whoisactive](http://whoisactive.com/) (documentation) and github repo for it [sp\_WhoIsActive](https://github.com/amachanic/sp_whoisactive) ⭐ 1,394 | 🐛 19 | 🌐 TSQL | 📅 2026-05-16 (by Adam Machanic)
   * [SqlQueryStress - SQL query stress simulator for SQL Server](https://github.com/ErikEJ/SqlQueryStress) ⭐ 1,103 | 🐛 2 | 🌐 C# | 📅 2026-08-12 (by Adam Machanic and Erik Ejlskov Jensen)
   * [ActiveRecord SQL Server Adapter - SQL Server Adapter For Rails](https://github.com/rails-sqlserver/activerecord-sqlserver-adapter) ⭐ 981 | 🐛 21 | 🌐 Ruby | 📅 2026-08-07 (by rails-sqlserver)
-  * [Dotmim.Sync - a brand new database synchronization, multi platform, multi databases, developed on top of .Net Standard 2.0](https://github.com/Mimetis/Dotmim.Sync) ⭐ 978 | 🐛 64 | 🌐 C# | 📅 2025-08-28
+  * [Dotmim.Sync - a brand new database synchronization, multi platform, multi databases, developed on top of .Net Standard 2.0](https://github.com/Mimetis/Dotmim.Sync) ⭐ 977 | 🐛 64 | 🌐 C# | 📅 2025-08-28
   * [sql-xplat-cli - Repository for the new SQL cross-platform command line tools](https://github.com/Microsoft/sql-xplat-cli) ⚠️ Archived (by Microsoft)
   * [Analysis Services - Analysis Services samples and community projects](https://github.com/Microsoft/Analysis-Services) ⭐ 731 | 🐛 119 | 🌐 C# | 📅 2026-07-08 (by Microsoft)
   * [sp\_PressureDetector - stored procedure for quickly detecting CPU and Memory pressure on a SQL Server](https://github.com/erikdarlingdata/DarlingData/tree/main/sp_PressureDetector) ⭐ 718 | 🐛 4 | 🌐 TSQL | 📅 2026-08-07 (by Erik Darling)
@@ -376,9 +376,9 @@ Useful links, scripts, tools and best practice for Microsoft SQL Server Database
   * [Columnstore Indexes Scripts Library](https://github.com/NikoNeugebauer/CISL) ⭐ 184 | 🐛 20 | 🌐 TSQL | 📅 2021-07-31 (by Niko Neugebauer) (Github)
   * [dbops - Powershell module that provides continuous database deployments on any scale](https://github.com/sqlcollaborative/dbops) ⭐ 177 | 🐛 15 | 🌐 PowerShell | 📅 2026-01-29 (by Kirill Kravtsov)
   * [dba-database - Database containing DBA helper code and open source software](https://github.com/amtwo/dba-database) ⭐ 152 | 🐛 6 | 🌐 TSQL | 📅 2026-08-03 (by Andy Mallon)
-  * [language-extensions-sqlserver - SQL Server Language Extensions project](https://github.com/microsoft/sql-server-language-extensions) ⭐ 115 | 🐛 15 | 🌐 C++ | 📅 2026-08-14 (by Microsoft)
+  * [language-extensions-sqlserver - SQL Server Language Extensions project](https://github.com/microsoft/sql-server-language-extensions) ⭐ 115 | 🐛 15 | 🌐 C++ | 📅 2026-08-18 (by Microsoft)
   * [DBA MultiTool - T-SQL scripts for the long haul: optimizing storage, on-the-fly documentation, and general administrative needs.](https://github.com/LowlyDBA/dba-multitool) ⭐ 105 | 🐛 5 | 🌐 PLpgSQL | 📅 2026-07-21 (by John McCall)
-  * [Statistic Parser](https://github.com/Jorriss/StatisticsParser) ⭐ 104 | 🐛 12 | 🌐 JavaScript | 📅 2026-03-20 (by Richie Rump) (Github)
+  * [Statistic Parser](https://github.com/Jorriss/StatisticsParser) ⭐ 104 | 🐛 13 | 🌐 JavaScript | 📅 2026-03-20 (by Richie Rump) (Github)
   * [SQLSetupTools - FixMissingMSI, Product Browser, SQL Registry Viewer](https://github.com/suyouquan/SQLSetupTools) ⭐ 101 | 🐛 7 | 🌐 C# | 📅 2020-03-04 (by Simon Su)
   * [homebrew-mssql-release - brew formulae for Microsoft ODBC Driver for SQL Server and SQL Server Command Line Utilities](https://github.com/microsoft/homebrew-mssql-release) ⭐ 100 | 🐛 3 | 🌐 Ruby | 📅 2026-04-30 (by Microsoft)
   * [XESmartTarget - configurable target for SQL Server Extended Events](https://github.com/spaghettidba/XESmartTarget) ⭐ 92 | 🐛 13 | 🌐 C# | 📅 2026-04-17 (by Gianluca Sartori)
@@ -443,8 +443,8 @@ Useful links, scripts, tools and best practice for Microsoft SQL Server Database
   * [SQL Server and Azure SQL Labs and Workshops](https://microsoft.github.io/sqlworkshops/) (by Microsoft)
   * [SQLWatch - SQLWATCH is an Open Source and completely free SQL Server Monitoring project](https://sqlwatch.io/) (by Marcin Gminski)
 * Other
-  * [Telegraf SQL Server Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/sqlserver) ⭐ 17,757 | 🐛 387 | 🌐 Go | 📅 2026-08-17 (by influxdata)
-  * [SQL Assessment API rules in .csv format](https://github.com/microsoft/sql-server-samples/blob/master/samples/manage/sql-assessment-api/DefaultRuleset.csv) ⭐ 11,199 | 🐛 297 | 📅 2026-07-16 (by Microsoft)
+  * [Telegraf SQL Server Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/sqlserver) ⭐ 17,756 | 🐛 391 | 🌐 Go | 📅 2026-08-18 (by influxdata)
+  * [SQL Assessment API rules in .csv format](https://github.com/microsoft/sql-server-samples/blob/master/samples/manage/sql-assessment-api/DefaultRuleset.csv) ⭐ 11,200 | 🐛 297 | 📅 2026-07-16 (by Microsoft)
   * [Hermitage: Testing transaction isolation levels in relation databases](https://github.com/ept/hermitage) ⭐ 2,742 | 🐛 2 | 📅 2026-01-23 (by Martin Kleppmann)
   * [DbUp is a .NET library that helps you to deploy changes to SQL Server databases](https://github.com/DbUp/DbUp) ⭐ 2,619 | 🐛 80 | 🌐 C# | 📅 2026-02-23
   * [SQL Server monitor - manages sql server performance](https://github.com/unruledboy/SQLMonitor) ⭐ 294 | 🐛 4 | 🌐 C# | 📅 2022-02-07 (by Wilson Chen)
@@ -553,7 +553,7 @@ BIML Bloggers
 * [PowerShell dbatools for SQL Server](https://github.com/ctrlbold/dbatools) ⭐ 2,823 | 🐛 36 | 🌐 PowerShell | 📅 2026-08-17 (by Chrissy LeMaire) (Github)
 * [PowerUpSQL: A PowerShell Toolkit for Attacking SQL Server](https://github.com/NetSPI/PowerUpSQL) ⭐ 2,734 | 🐛 26 | 🌐 PowerShell | 📅 2024-12-12 (Github)
 * [ReportingServicesTools - Reporting Services Powershell Tools](https://github.com/Microsoft/ReportingServicesTools) ⭐ 509 | 🐛 129 | 🌐 PowerShell | 📅 2025-04-03 (by Microsoft)
-* [Powershell xSQLServer module contains DSC resources for deployment and configuration of SQL Server](https://github.com/PowerShell/xSQLServer) ⭐ 386 | 🐛 295 | 🌐 PowerShell | 📅 2026-08-10 (Github by Microsoft)
+* [Powershell xSQLServer module contains DSC resources for deployment and configuration of SQL Server](https://github.com/PowerShell/xSQLServer) ⭐ 386 | 🐛 295 | 🌐 PowerShell | 📅 2026-08-18 (Github by Microsoft)
 * [PowerShell DBA Reports](https://github.com/SQLDBAWithABeard/dbareports) ⚠️ Archived (Github)
 * [SQL Server PowerShell Extensions (SQLPSX)](https://github.com/MikeShepard/SQLPSX) ⭐ 97 | 🐛 12 | 🌐 PowerShell | 📅 2018-02-02 (by Mike Shepard) (Github)
 * [Powershell SQL Server Performance Health Check](https://github.com/SpeedySQL/HealthCheck) ⭐ 32 | 🐛 2 | 🌐 PowerShell | 📅 2015-12-03 (by Omid Afzalalghom) (Github)
@@ -699,4 +699,4 @@ Thanks for understanding and patience.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
