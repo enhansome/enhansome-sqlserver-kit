@@ -81,7 +81,7 @@
                     "archived": false,
                     "id": 398473376,
                     "language": "TSQL",
-                    "last_commit": "2026-08-19T03:43:45Z",
+                    "last_commit": "2026-08-19T15:10:54Z",
                     "owner": "smpetersgithub",
                     "repo": "AdvancedSQLPuzzles",
                     "stars": 917
@@ -445,7 +445,7 @@
                 "last_commit": "2024-01-16T19:22:20Z",
                 "owner": "IsNemoEqualTrue",
                 "repo": "monitor-table-change-with-sqltabledependency",
-                "stars": 665
+                "stars": 666
               }
             },
             {
@@ -1667,7 +1667,7 @@
                 "last_commit": "2026-02-23T23:09:58Z",
                 "owner": "DbUp",
                 "repo": "DbUp",
-                "stars": 2619
+                "stars": 2618
               }
             },
             {
@@ -1777,7 +1777,7 @@
             "archived": false,
             "id": 30215226,
             "language": "PowerShell",
-            "last_commit": "2026-08-18T23:25:35Z",
+            "last_commit": "2026-08-19T13:05:56Z",
             "owner": "dataplat",
             "repo": "dbatools",
             "stars": 2824
@@ -1938,7 +1938,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:55:09.455Z",
+    "last_updated": "2026-08-19T15:16:07.423Z",
     "original_repository": "ktaranov/sqlserver-kit",
     "original_repository_id": 24328843,
     "original_repository_sha": "887ec1ee8317b04542b80170925498b5b4ff04fa",
