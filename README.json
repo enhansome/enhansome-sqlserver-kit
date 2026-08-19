@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -15,6 +15,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 55706701,
                 "language": null,
                 "last_commit": "2025-07-15T22:54:02Z",
                 "owner": "BrentOzar",
@@ -36,6 +37,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 53698446,
                 "language": null,
                 "last_commit": "2026-07-16T17:42:29Z",
                 "owner": "microsoft",
@@ -62,11 +64,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 117861795,
                     "language": "JavaScript",
                     "last_commit": "2025-04-14T15:06:31Z",
                     "owner": "NUKnightLab",
                     "repo": "sql-mysteries",
-                    "stars": 2171
+                    "stars": 2173
                   }
                 },
                 {
@@ -76,8 +79,9 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 398473376,
                     "language": "TSQL",
-                    "last_commit": "2026-08-18T14:10:20Z",
+                    "last_commit": "2026-08-19T03:43:45Z",
                     "owner": "smpetersgithub",
                     "repo": "AdvancedSQLPuzzles",
                     "stars": 917
@@ -90,6 +94,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 262383822,
                     "language": "JavaScript",
                     "last_commit": "2020-05-08T19:43:37Z",
                     "owner": "erika-e",
@@ -113,11 +118,12 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 109200851,
                 "language": "TypeScript",
                 "last_commit": "2026-02-28T16:30:21Z",
                 "owner": "microsoft",
                 "repo": "azuredatastudio",
-                "stars": 7687
+                "stars": 7686
               }
             }
           ]
@@ -134,11 +140,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 155790228,
                 "language": "Python",
                 "last_commit": "2026-08-18T14:51:27Z",
                 "owner": "sqlfluff",
                 "repo": "sqlfluff",
-                "stars": 9855
+                "stars": 9854
               }
             },
             {
@@ -148,11 +155,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 13589461,
                 "language": "C#",
                 "last_commit": "2024-11-30T21:00:22Z",
                 "owner": "opserver",
                 "repo": "Opserver",
-                "stars": 4564
+                "stars": 4565
               }
             },
             {
@@ -162,6 +170,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 91096213,
                 "language": "C#",
                 "last_commit": "2026-08-14T12:25:19Z",
                 "owner": "borisdj",
@@ -176,11 +185,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 20408831,
                 "language": "TSQL",
                 "last_commit": "2026-08-11T01:25:31Z",
                 "owner": "BrentOzarULTD",
                 "repo": "SQL-Server-First-Responder-Kit",
-                "stars": 3878
+                "stars": 3879
               }
             },
             {
@@ -190,6 +200,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 30567860,
                 "language": "PHP",
                 "last_commit": "2026-08-12T00:11:22Z",
                 "owner": "mevdschee",
@@ -204,11 +215,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 589349,
                 "language": "C#",
                 "last_commit": "2026-08-12T22:20:08Z",
                 "owner": "fluentmigrator",
                 "repo": "fluentmigrator",
-                "stars": 3508
+                "stars": 3509
               }
             },
             {
@@ -218,11 +230,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 93431127,
                 "language": "TSQL",
                 "last_commit": "2026-08-17T20:27:16Z",
                 "owner": "olahallengren",
                 "repo": "sql-server-maintenance-solution",
-                "stars": 3461
+                "stars": 3462
               }
             },
             {
@@ -232,6 +245,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 14410778,
                 "language": "Go",
                 "last_commit": "2025-02-13T10:41:49Z",
                 "owner": "bosun-monitor",
@@ -246,6 +260,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 90608506,
                 "language": "C#",
                 "last_commit": "2026-04-10T11:27:35Z",
                 "owner": "sqlkata",
@@ -260,11 +275,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 131473375,
                 "language": "C#",
-                "last_commit": "2026-08-18T12:23:44Z",
+                "last_commit": "2026-08-19T08:54:04Z",
                 "owner": "ErikEJ",
                 "repo": "EFCorePowerTools",
-                "stars": 2508
+                "stars": 2509
               }
             },
             {
@@ -274,6 +290,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 76301022,
                 "language": "Dockerfile",
                 "last_commit": "2026-01-27T14:26:41Z",
                 "owner": "microsoft",
@@ -288,6 +305,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 70292144,
                 "language": "Jupyter Notebook",
                 "last_commit": "2026-04-10T17:28:55Z",
                 "owner": "microsoft",
@@ -302,6 +320,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 199326660,
                 "language": "TSQL",
                 "last_commit": "2026-05-16T16:22:47Z",
                 "owner": "amachanic",
@@ -316,6 +335,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 49008102,
                 "language": "C#",
                 "last_commit": "2026-08-12T05:29:41Z",
                 "owner": "ErikEJ",
@@ -330,6 +350,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 76404,
                 "language": "Ruby",
                 "last_commit": "2026-08-07T16:08:10Z",
                 "owner": "rails-sqlserver",
@@ -344,11 +365,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 76020516,
                 "language": "C#",
                 "last_commit": "2025-08-28T13:17:57Z",
                 "owner": "Mimetis",
                 "repo": "Dotmim.Sync",
-                "stars": 977
+                "stars": 978
               }
             },
             {
@@ -358,6 +380,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 80571801,
                 "language": "Python",
                 "last_commit": "2024-05-07T23:31:50Z",
                 "owner": "microsoft",
@@ -372,6 +395,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 75332122,
                 "language": "C#",
                 "last_commit": "2026-07-08T17:56:22Z",
                 "owner": "microsoft",
@@ -386,6 +410,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 169925829,
                 "language": "TSQL",
                 "last_commit": "2026-08-07T10:03:05Z",
                 "owner": "erikdarlingdata",
@@ -400,11 +425,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 84382796,
                 "language": "F#",
                 "last_commit": "2026-06-24T03:40:59Z",
                 "owner": "fsprojects",
                 "repo": "Rezoom.SQL",
-                "stars": 679
+                "stars": 680
               }
             },
             {
@@ -414,6 +440,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 86988065,
                 "language": "C#",
                 "last_commit": "2024-01-16T19:22:20Z",
                 "owner": "IsNemoEqualTrue",
@@ -428,11 +455,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 84195415,
                 "language": "Python",
                 "last_commit": "2026-08-01T09:06:24Z",
                 "owner": "albertodonato",
                 "repo": "query-exporter",
-                "stars": 535
+                "stars": 534
               }
             },
             {
@@ -442,6 +470,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 90311362,
                 "language": "Visual Basic .NET",
                 "last_commit": "2022-08-09T00:26:06Z",
                 "owner": "clinthuffman",
@@ -456,6 +485,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 45647202,
                 "language": "TSQL",
                 "last_commit": "2026-05-07T07:20:57Z",
                 "owner": "tSQLt-org",
@@ -470,6 +500,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 4758770,
                 "language": "C#",
                 "last_commit": "2026-01-12T13:40:43Z",
                 "owner": "MikaelEliasson",
@@ -484,6 +515,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 439129686,
                 "language": "C#",
                 "last_commit": "2026-08-12T12:32:15Z",
                 "owner": "trimble-oss",
@@ -498,6 +530,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 11151336,
                 "language": "JavaScript",
                 "last_commit": "2024-04-20T11:36:33Z",
                 "owner": "StackExchange",
@@ -512,6 +545,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 8315399,
                 "language": "C#",
                 "last_commit": "2024-01-17T10:23:59Z",
                 "owner": "sethreno",
@@ -526,6 +560,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 46535559,
                 "language": "C#",
                 "last_commit": "2024-06-19T09:53:47Z",
                 "owner": "bruce-dunwiddie",
@@ -540,6 +575,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 52936744,
                 "language": "TSQL",
                 "last_commit": "2023-06-14T15:18:33Z",
                 "owner": "microsoft",
@@ -554,6 +590,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 68515015,
                 "language": "C#",
                 "last_commit": "2020-02-15T08:11:56Z",
                 "owner": "VahidN",
@@ -568,6 +605,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 151138178,
                 "language": "TSQL",
                 "last_commit": "2023-06-21T15:18:00Z",
                 "owner": "microsoft",
@@ -582,6 +620,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 71370038,
                 "language": "TSQL",
                 "last_commit": "2025-10-20T12:59:49Z",
                 "owner": "microsoft",
@@ -596,6 +635,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 22955187,
                 "language": "JavaScript",
                 "last_commit": "2019-04-28T20:56:42Z",
                 "owner": "yorek",
@@ -610,6 +650,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 142265652,
                 "language": "C#",
                 "last_commit": "2026-06-19T13:30:30Z",
                 "owner": "spaghettidba",
@@ -624,6 +665,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 91122741,
                 "language": "C#",
                 "last_commit": "2026-06-25T01:07:13Z",
                 "owner": "tsqllint",
@@ -638,6 +680,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 256747265,
                 "language": "TSQL",
                 "last_commit": "2025-04-14T15:56:40Z",
                 "owner": "MadeiraData",
@@ -652,6 +695,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 41452712,
                 "language": "TSQL",
                 "last_commit": "2021-07-31T20:42:27Z",
                 "owner": "NikoNeugebauer",
@@ -666,6 +710,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 144904208,
                 "language": "PowerShell",
                 "last_commit": "2026-01-29T03:31:08Z",
                 "owner": "dataplat",
@@ -680,6 +725,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 103656529,
                 "language": "TSQL",
                 "last_commit": "2026-08-03T19:25:36Z",
                 "owner": "amtwo",
@@ -694,11 +740,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 181921311,
                 "language": "C++",
-                "last_commit": "2026-08-18T00:13:33Z",
+                "last_commit": "2026-08-18T23:19:38Z",
                 "owner": "microsoft",
                 "repo": "sql-server-language-extensions",
-                "stars": 115
+                "stars": 116
               }
             },
             {
@@ -708,6 +755,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 131221823,
                 "language": "PLpgSQL",
                 "last_commit": "2026-07-21T12:02:43Z",
                 "owner": "lowlydba",
@@ -722,11 +770,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 10003756,
                 "language": "JavaScript",
                 "last_commit": "2026-03-20T18:30:02Z",
                 "owner": "Jorriss",
                 "repo": "StatisticsParser",
-                "stars": 104
+                "stars": 103
               }
             },
             {
@@ -736,6 +785,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 116257847,
                 "language": "C#",
                 "last_commit": "2020-03-04T17:12:10Z",
                 "owner": "suyouquan",
@@ -750,6 +800,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 80165484,
                 "language": "Ruby",
                 "last_commit": "2026-04-30T18:20:09Z",
                 "owner": "microsoft",
@@ -764,6 +815,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 55555200,
                 "language": "C#",
                 "last_commit": "2026-04-17T10:18:56Z",
                 "owner": "spaghettidba",
@@ -778,6 +830,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 95749980,
                 "language": "TSQL",
                 "last_commit": "2025-09-30T16:21:06Z",
                 "owner": "SQLUndercover",
@@ -792,6 +845,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 91980729,
                 "language": "PLpgSQL",
                 "last_commit": "2019-01-07T09:44:36Z",
                 "owner": "OpenQueryStore",
@@ -806,6 +860,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 75345363,
                 "language": "C#",
                 "last_commit": "2018-10-26T03:56:21Z",
                 "owner": "DevNambi",
@@ -820,6 +875,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 14042396,
                 "language": "R",
                 "last_commit": "2018-02-18T09:53:46Z",
                 "owner": "agstudy",
@@ -834,6 +890,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 15978971,
                 "language": "C#",
                 "last_commit": "2018-06-18T11:57:03Z",
                 "owner": "BrentOzarULTD",
@@ -848,6 +905,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 149139863,
                 "language": "PowerShell",
                 "last_commit": "2019-07-30T19:27:09Z",
                 "owner": "kendalvandyke",
@@ -862,6 +920,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 89001093,
                 "language": "PLpgSQL",
                 "last_commit": "2017-12-11T04:27:52Z",
                 "owner": "SQLadmin",
@@ -876,6 +935,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 186193695,
                 "language": "TSQL",
                 "last_commit": "2023-06-21T14:04:17Z",
                 "owner": "dirceuresende",
@@ -890,6 +950,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 177047897,
                 "language": "TSQL",
                 "last_commit": "2025-09-09T19:53:57Z",
                 "owner": "sqlstudent144",
@@ -904,6 +965,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 177047897,
                 "language": "TSQL",
                 "last_commit": "2025-09-09T19:53:57Z",
                 "owner": "sqlstudent144",
@@ -918,6 +980,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 192567094,
                 "language": "TSQL",
                 "last_commit": "2022-08-15T09:47:27Z",
                 "owner": "red-gate",
@@ -932,11 +995,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 55635266,
                 "language": "TSQL",
                 "last_commit": "2024-01-16T19:30:28Z",
                 "owner": "GoEddie",
                 "repo": "SQLCover",
-                "stars": 67
+                "stars": 68
               }
             },
             {
@@ -946,6 +1010,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 87345225,
                 "language": "C++",
                 "last_commit": "2018-10-13T15:36:16Z",
                 "owner": "microsoft",
@@ -960,6 +1025,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 358119234,
                 "language": "TSQL",
                 "last_commit": "2024-03-10T20:37:33Z",
                 "owner": "kevinmartintech",
@@ -974,6 +1040,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 187358936,
                 "language": "HTML",
                 "last_commit": "2023-06-05T18:11:17Z",
                 "owner": "amtwo",
@@ -988,6 +1055,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 120946534,
                 "language": null,
                 "last_commit": "2018-02-12T14:21:23Z",
                 "owner": "mjswart-d2l",
@@ -1002,6 +1070,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 147885531,
                 "language": "C#",
                 "last_commit": "2026-04-16T07:41:30Z",
                 "owner": "suyouquan",
@@ -1016,6 +1085,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 72241044,
                 "language": "Jupyter Notebook",
                 "last_commit": "2023-06-12T20:01:40Z",
                 "owner": "microsoft",
@@ -1030,6 +1100,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 288308973,
                 "language": "TSQL",
                 "last_commit": "2023-05-16T21:32:25Z",
                 "owner": "EmergentSoftware",
@@ -1044,6 +1115,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 119972574,
                 "language": "C#",
                 "last_commit": "2019-03-14T15:15:40Z",
                 "owner": "ststeiger",
@@ -1058,6 +1130,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 99227212,
                 "language": "TSQL",
                 "last_commit": "2025-10-07T20:42:44Z",
                 "owner": "dgavrikov",
@@ -1072,6 +1145,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 281238348,
                 "language": "TSQL",
                 "last_commit": "2021-10-30T18:10:04Z",
                 "owner": "jobbish-sql",
@@ -1086,6 +1160,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 452760479,
                 "language": "PowerShell",
                 "last_commit": "2026-08-17T13:19:56Z",
                 "owner": "lowlydba",
@@ -1100,6 +1175,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 104937427,
                 "language": "TSQL",
                 "last_commit": "2021-06-03T13:28:37Z",
                 "owner": "ericcobb",
@@ -1114,6 +1190,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 69346863,
                 "language": "PLSQL",
                 "last_commit": "2016-11-08T17:46:40Z",
                 "owner": "NikoNeugebauer",
@@ -1128,6 +1205,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 49012285,
                 "language": "C#",
                 "last_commit": "2019-02-23T11:11:29Z",
                 "owner": "Kjonge",
@@ -1142,6 +1220,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 187547779,
                 "language": "R",
                 "last_commit": "2025-07-31T15:28:36Z",
                 "owner": "Azure",
@@ -1156,6 +1235,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 70960824,
                 "language": "C#",
                 "last_commit": "2023-09-29T18:58:54Z",
                 "owner": "christianwade",
@@ -1170,6 +1250,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 99968504,
                 "language": "C#",
                 "last_commit": "2017-12-10T19:35:39Z",
                 "owner": "SqlQuantumLeap",
@@ -1184,6 +1265,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 58937478,
                 "language": "PLSQL",
                 "last_commit": "2023-06-27T15:38:05Z",
                 "owner": "jzagelbaum",
@@ -1198,6 +1280,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 86881458,
                 "language": "TSQL",
                 "last_commit": "2026-07-31T19:57:37Z",
                 "owner": "pelsql",
@@ -1212,6 +1295,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 98445349,
                 "language": "SQLPL",
                 "last_commit": "2018-03-22T17:16:23Z",
                 "owner": "spaghettidba",
@@ -1226,6 +1310,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 123706049,
                 "language": "HTML",
                 "last_commit": "2020-10-24T15:30:57Z",
                 "owner": "jobgemws",
@@ -1240,6 +1325,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 169069011,
                 "language": "TSQL",
                 "last_commit": "2022-09-17T16:27:22Z",
                 "owner": "segovoni",
@@ -1254,6 +1340,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 256586857,
                 "language": "TSQL",
                 "last_commit": "2024-09-24T17:44:31Z",
                 "owner": "MadeiraData",
@@ -1268,6 +1355,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 175102037,
                 "language": "C#",
                 "last_commit": "2024-01-16T19:31:05Z",
                 "owner": "bornsql",
@@ -1282,6 +1370,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 130770982,
                 "language": "C#",
                 "last_commit": "2018-05-14T23:53:11Z",
                 "owner": "JSuder-xx",
@@ -1296,6 +1385,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 35453054,
                 "language": "C#",
                 "last_commit": "2022-12-08T04:39:26Z",
                 "owner": "bornsql",
@@ -1310,6 +1400,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 35453054,
                 "language": "C#",
                 "last_commit": "2022-12-08T04:39:26Z",
                 "owner": "bornsql",
@@ -1324,6 +1415,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 90300988,
                 "language": "C#",
                 "last_commit": "2022-12-07T19:41:17Z",
                 "owner": "usharik",
@@ -1338,6 +1430,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 109624263,
                 "language": "PLpgSQL",
                 "last_commit": "2018-01-21T17:38:06Z",
                 "owner": "tboggiano",
@@ -1352,6 +1445,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 110906780,
                 "language": "TSQL",
                 "last_commit": "2023-06-05T12:27:36Z",
                 "owner": "tboggiano",
@@ -1366,6 +1460,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 32259316,
                 "language": "HTML",
                 "last_commit": "2015-06-18T13:32:32Z",
                 "owner": "GuerrillaAnalytics",
@@ -1380,6 +1475,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 36574165,
                 "language": "JavaScript",
                 "last_commit": "2015-07-09T02:34:24Z",
                 "owner": "Jorriss",
@@ -1394,6 +1490,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 112007298,
                 "language": "SQLPL",
                 "last_commit": "2017-11-25T14:07:10Z",
                 "owner": "tboggiano",
@@ -1408,6 +1505,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 141298745,
                 "language": "PLpgSQL",
                 "last_commit": "2018-07-20T11:32:34Z",
                 "owner": "dreik",
@@ -1422,6 +1520,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 386058340,
                 "language": "PLpgSQL",
                 "last_commit": "2021-07-15T15:20:08Z",
                 "owner": "sqlsunday",
@@ -1436,6 +1535,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 131528868,
                 "language": "PLSQL",
                 "last_commit": "2018-04-30T13:33:55Z",
                 "owner": "SQLJana",
@@ -1450,6 +1550,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 358213216,
                 "language": "PowerShell",
                 "last_commit": "2021-06-01T21:22:32Z",
                 "owner": "swarchy",
@@ -1464,6 +1565,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 111404704,
                 "language": "SQLPL",
                 "last_commit": "2017-11-20T11:59:53Z",
                 "owner": "ionflux",
@@ -1478,6 +1580,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 46226827,
                 "language": "C#",
                 "last_commit": "2020-12-17T23:07:20Z",
                 "owner": "janhalama",
@@ -1492,18 +1595,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 94693868,
                 "language": "PowerShell",
                 "last_commit": "2017-05-26T07:38:18Z",
                 "owner": "ktaranov",
                 "repo": "mssql-docker",
                 "stars": 0
               }
-            },
-            {
-              "node_type": "item",
-              "title": "SQLtoExcel - Exports the output of one or more TSQL script queries to Excel",
-              "description": "(by Dave Mason)",
-              "children": []
             }
           ]
         },
@@ -1519,11 +1617,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 33258973,
                 "language": "Go",
-                "last_commit": "2026-08-18T09:47:21Z",
+                "last_commit": "2026-08-19T09:51:16Z",
                 "owner": "influxdata",
                 "repo": "telegraf",
-                "stars": 17756
+                "stars": 17757
               }
             },
             {
@@ -1533,6 +1632,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 53698446,
                 "language": null,
                 "last_commit": "2026-07-16T17:42:29Z",
                 "owner": "microsoft",
@@ -1547,6 +1647,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 26289803,
                 "language": null,
                 "last_commit": "2026-01-23T21:00:49Z",
                 "owner": "ept",
@@ -1561,6 +1662,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 4995017,
                 "language": "C#",
                 "last_commit": "2026-02-23T23:09:58Z",
                 "owner": "DbUp",
@@ -1575,6 +1677,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 41852282,
                 "language": "C#",
                 "last_commit": "2022-02-07T23:08:32Z",
                 "owner": "unruledboy",
@@ -1589,6 +1692,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1620104,
                 "language": "C#",
                 "last_commit": "2020-05-10T23:26:37Z",
                 "owner": "improvedk",
@@ -1603,6 +1707,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 79315569,
                 "language": null,
                 "last_commit": "2026-06-02T19:25:08Z",
                 "owner": "arvindsh",
@@ -1617,6 +1722,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 651440436,
                 "language": "C#",
                 "last_commit": "2026-08-03T23:54:31Z",
                 "owner": "trimble-oss",
@@ -1631,6 +1737,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 287451874,
                 "language": "TSQL",
                 "last_commit": "2020-08-20T06:11:31Z",
                 "owner": "SQLGrillen",
@@ -1645,18 +1752,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 80083875,
                 "language": "C#",
                 "last_commit": "2021-11-19T13:05:27Z",
                 "owner": "CoderAllan",
                 "repo": "SqlServerSearcher",
                 "stars": 6
               }
-            },
-            {
-              "node_type": "item",
-              "title": "Github SQL Trending",
-              "description": null,
-              "children": []
             }
           ]
         }
@@ -1664,7 +1766,7 @@
       "title": "SQL Server Web Resources"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1673,11 +1775,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30215226,
             "language": "PowerShell",
-            "last_commit": "2026-08-17T06:14:43Z",
+            "last_commit": "2026-08-18T23:25:35Z",
             "owner": "dataplat",
             "repo": "dbatools",
-            "stars": 2823
+            "stars": 2824
           }
         },
         {
@@ -1687,11 +1790,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61678850,
             "language": "PowerShell",
             "last_commit": "2024-12-12T18:09:39Z",
             "owner": "NetSPI",
             "repo": "PowerUpSQL",
-            "stars": 2734
+            "stars": 2735
           }
         },
         {
@@ -1701,6 +1805,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70360005,
             "language": "PowerShell",
             "last_commit": "2025-04-03T16:11:15Z",
             "owner": "microsoft",
@@ -1715,6 +1820,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34022262,
             "language": "PowerShell",
             "last_commit": "2026-08-18T14:36:39Z",
             "owner": "dsccommunity",
@@ -1729,6 +1835,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 66062174,
             "language": "PowerShell",
             "last_commit": "2018-12-08T11:13:02Z",
             "owner": "dataplat",
@@ -1743,6 +1850,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37301006,
             "language": "PowerShell",
             "last_commit": "2018-02-02T21:02:08Z",
             "owner": "MikeShepard",
@@ -1757,6 +1865,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45649777,
             "language": "PowerShell",
             "last_commit": "2015-12-03T01:03:07Z",
             "owner": "SpeedySQL",
@@ -1771,6 +1880,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68296593,
             "language": "PowerShell",
             "last_commit": "2017-04-20T08:27:01Z",
             "owner": "sanderstad",
@@ -1785,6 +1895,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 41026992,
             "language": "PowerShell",
             "last_commit": "2017-01-13T09:29:20Z",
             "owner": "sanderstad",
@@ -1799,6 +1910,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117019103,
             "language": "PowerShell",
             "last_commit": "2018-06-04T18:55:01Z",
             "owner": "SQLJana",
@@ -1813,37 +1925,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49833892,
             "language": "PowerShell",
             "last_commit": "2015-09-19T05:25:47Z",
             "owner": "ktaranov",
             "repo": "Universal-SQL-Installation-Scripts",
             "stars": 1
           }
-        },
-        {
-          "node_type": "item",
-          "title": "PSCI - Powershell Continuous Integration",
-          "description": "(by Objectivity Bespoke Software Specialists) (Github)",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "SQLTranscriptase - SQL Server Documentation in Powershell",
-          "description": "(by Vijay Bandi) (Github)",
-          "children": []
         }
       ],
       "title": "PowerShell and SQL Server"
-    },
-    {
-      "description": "MIT\nIf some procedures or scripts are restricted due to ELUA (or we can not find original author), please email us or add issue - we remove/update it immediately. Thanks for understanding and patience.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:16:24.674Z",
+    "last_updated": "2026-08-19T12:55:09.455Z",
     "original_repository": "ktaranov/sqlserver-kit",
+    "original_repository_id": 24328843,
     "original_repository_sha": "887ec1ee8317b04542b80170925498b5b4ff04fa",
     "enhanced_repository": "enhansome/enhansome-sqlserver-kit",
     "enhanced_repository_description": null,
