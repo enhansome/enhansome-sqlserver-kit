@@ -69,7 +69,7 @@
                     "last_commit": "2025-04-14T15:06:31Z",
                     "owner": "NUKnightLab",
                     "repo": "sql-mysteries",
-                    "stars": 2173
+                    "stars": 2175
                   }
                 },
                 {
@@ -81,7 +81,7 @@
                     "archived": false,
                     "id": 398473376,
                     "language": "TSQL",
-                    "last_commit": "2026-08-19T15:10:54Z",
+                    "last_commit": "2026-08-19T15:18:57Z",
                     "owner": "smpetersgithub",
                     "repo": "AdvancedSQLPuzzles",
                     "stars": 917
@@ -123,7 +123,7 @@
                 "last_commit": "2026-02-28T16:30:21Z",
                 "owner": "microsoft",
                 "repo": "azuredatastudio",
-                "stars": 7686
+                "stars": 7685
               }
             }
           ]
@@ -145,7 +145,7 @@
                 "last_commit": "2026-08-18T14:51:27Z",
                 "owner": "sqlfluff",
                 "repo": "sqlfluff",
-                "stars": 9854
+                "stars": 9857
               }
             },
             {
@@ -190,7 +190,7 @@
                 "last_commit": "2026-08-11T01:25:31Z",
                 "owner": "BrentOzarULTD",
                 "repo": "SQL-Server-First-Responder-Kit",
-                "stars": 3879
+                "stars": 3882
               }
             },
             {
@@ -220,7 +220,7 @@
                 "last_commit": "2026-08-12T22:20:08Z",
                 "owner": "fluentmigrator",
                 "repo": "fluentmigrator",
-                "stars": 3509
+                "stars": 3510
               }
             },
             {
@@ -325,7 +325,7 @@
                 "last_commit": "2026-05-16T16:22:47Z",
                 "owner": "amachanic",
                 "repo": "sp_whoisactive",
-                "stars": 1394
+                "stars": 1395
               }
             },
             {
@@ -337,7 +337,7 @@
                 "archived": false,
                 "id": 49008102,
                 "language": "C#",
-                "last_commit": "2026-08-12T05:29:41Z",
+                "last_commit": "2026-08-20T08:23:24Z",
                 "owner": "ErikEJ",
                 "repo": "SqlQueryStress",
                 "stars": 1103
@@ -742,7 +742,7 @@
                 "archived": false,
                 "id": 181921311,
                 "language": "C++",
-                "last_commit": "2026-08-18T23:19:38Z",
+                "last_commit": "2026-08-19T22:57:35Z",
                 "owner": "microsoft",
                 "repo": "sql-server-language-extensions",
                 "stars": 116
@@ -1619,10 +1619,10 @@
                 "archived": false,
                 "id": 33258973,
                 "language": "Go",
-                "last_commit": "2026-08-19T09:51:16Z",
+                "last_commit": "2026-08-19T16:27:33Z",
                 "owner": "influxdata",
                 "repo": "telegraf",
-                "stars": 17757
+                "stars": 17762
               }
             },
             {
@@ -1667,7 +1667,7 @@
                 "last_commit": "2026-02-23T23:09:58Z",
                 "owner": "DbUp",
                 "repo": "DbUp",
-                "stars": 2618
+                "stars": 2619
               }
             },
             {
@@ -1938,7 +1938,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T15:16:07.423Z",
+    "last_updated": "2026-08-20T15:19:44.886Z",
     "original_repository": "ktaranov/sqlserver-kit",
     "original_repository_id": 24328843,
     "original_repository_sha": "887ec1ee8317b04542b80170925498b5b4ff04fa",
