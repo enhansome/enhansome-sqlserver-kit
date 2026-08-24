@@ -42,7 +42,7 @@
                 "last_commit": "2026-07-16T17:42:29Z",
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11199
+                "stars": 11198
               }
             }
           ]
@@ -69,7 +69,7 @@
                     "last_commit": "2025-04-14T15:06:31Z",
                     "owner": "NUKnightLab",
                     "repo": "sql-mysteries",
-                    "stars": 2178
+                    "stars": 2181
                   }
                 },
                 {
@@ -84,7 +84,7 @@
                     "last_commit": "2026-08-21T14:19:15Z",
                     "owner": "smpetersgithub",
                     "repo": "AdvancedSQLPuzzles",
-                    "stars": 917
+                    "stars": 918
                   }
                 },
                 {
@@ -145,7 +145,7 @@
                 "last_commit": "2026-08-22T08:01:18Z",
                 "owner": "sqlfluff",
                 "repo": "sqlfluff",
-                "stars": 9860
+                "stars": 9861
               }
             },
             {
@@ -160,7 +160,7 @@
                 "last_commit": "2024-11-30T21:00:22Z",
                 "owner": "opserver",
                 "repo": "Opserver",
-                "stars": 4565
+                "stars": 4566
               }
             },
             {
@@ -190,7 +190,7 @@
                 "last_commit": "2026-08-23T13:45:40Z",
                 "owner": "BrentOzarULTD",
                 "repo": "SQL-Server-First-Responder-Kit",
-                "stars": 3881
+                "stars": 3883
               }
             },
             {
@@ -415,7 +415,7 @@
                 "last_commit": "2026-08-07T10:03:05Z",
                 "owner": "erikdarlingdata",
                 "repo": "DarlingData",
-                "stars": 718
+                "stars": 720
               }
             },
             {
@@ -475,7 +475,7 @@
                 "last_commit": "2022-08-09T00:26:06Z",
                 "owner": "clinthuffman",
                 "repo": "PAL",
-                "stars": 509
+                "stars": 510
               }
             },
             {
@@ -520,7 +520,7 @@
                 "last_commit": "2026-08-12T12:32:15Z",
                 "owner": "trimble-oss",
                 "repo": "dba-dash",
-                "stars": 427
+                "stars": 428
               }
             },
             {
@@ -1622,7 +1622,7 @@
                 "last_commit": "2026-08-21T19:06:08Z",
                 "owner": "influxdata",
                 "repo": "telegraf",
-                "stars": 17763
+                "stars": 17764
               }
             },
             {
@@ -1637,7 +1637,7 @@
                 "last_commit": "2026-07-16T17:42:29Z",
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11199
+                "stars": 11198
               }
             },
             {
@@ -1667,7 +1667,7 @@
                 "last_commit": "2026-02-23T23:09:58Z",
                 "owner": "DbUp",
                 "repo": "DbUp",
-                "stars": 2619
+                "stars": 2621
               }
             },
             {
@@ -1777,7 +1777,7 @@
             "archived": false,
             "id": 30215226,
             "language": "PowerShell",
-            "last_commit": "2026-08-23T14:06:43Z",
+            "last_commit": "2026-08-24T10:21:31Z",
             "owner": "dataplat",
             "repo": "dbatools",
             "stars": 2825
@@ -1795,7 +1795,7 @@
             "last_commit": "2024-12-12T18:09:39Z",
             "owner": "NetSPI",
             "repo": "PowerUpSQL",
-            "stars": 2736
+            "stars": 2737
           }
         },
         {
@@ -1938,7 +1938,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:07:42.661Z",
+    "last_updated": "2026-08-24T14:01:57.318Z",
     "original_repository": "ktaranov/sqlserver-kit",
     "original_repository_id": 24328843,
     "original_repository_sha": "887ec1ee8317b04542b80170925498b5b4ff04fa",
