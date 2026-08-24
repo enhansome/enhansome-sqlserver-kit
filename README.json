@@ -1777,7 +1777,7 @@
             "archived": false,
             "id": 30215226,
             "language": "PowerShell",
-            "last_commit": "2026-08-24T10:21:31Z",
+            "last_commit": "2026-08-24T15:08:16Z",
             "owner": "dataplat",
             "repo": "dbatools",
             "stars": 2825
@@ -1822,7 +1822,7 @@
             "archived": false,
             "id": 34022262,
             "language": "PowerShell",
-            "last_commit": "2026-08-18T14:36:39Z",
+            "last_commit": "2026-08-24T15:13:59Z",
             "owner": "dsccommunity",
             "repo": "SqlServerDsc",
             "stars": 386
@@ -1938,7 +1938,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:01:57.318Z",
+    "last_updated": "2026-08-24T15:24:55.581Z",
     "original_repository": "ktaranov/sqlserver-kit",
     "original_repository_id": 24328843,
     "original_repository_sha": "887ec1ee8317b04542b80170925498b5b4ff04fa",

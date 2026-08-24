@@ -550,10 +550,10 @@ BIML Bloggers
 
 ## PowerShell and SQL Server
 
-* [PowerShell dbatools for SQL Server](https://github.com/ctrlbold/dbatools) ⭐ 2,825 | 🐛 30 | 🌐 PowerShell | 📅 2026-08-24 (by Chrissy LeMaire) (Github)
+* [PowerShell dbatools for SQL Server](https://github.com/ctrlbold/dbatools) ⭐ 2,825 | 🐛 31 | 🌐 PowerShell | 📅 2026-08-24 (by Chrissy LeMaire) (Github)
 * [PowerUpSQL: A PowerShell Toolkit for Attacking SQL Server](https://github.com/NetSPI/PowerUpSQL) ⭐ 2,737 | 🐛 26 | 🌐 PowerShell | 📅 2024-12-12 (Github)
 * [ReportingServicesTools - Reporting Services Powershell Tools](https://github.com/Microsoft/ReportingServicesTools) ⭐ 509 | 🐛 129 | 🌐 PowerShell | 📅 2025-04-03 (by Microsoft)
-* [Powershell xSQLServer module contains DSC resources for deployment and configuration of SQL Server](https://github.com/PowerShell/xSQLServer) ⭐ 386 | 🐛 295 | 🌐 PowerShell | 📅 2026-08-18 (Github by Microsoft)
+* [Powershell xSQLServer module contains DSC resources for deployment and configuration of SQL Server](https://github.com/PowerShell/xSQLServer) ⭐ 386 | 🐛 295 | 🌐 PowerShell | 📅 2026-08-24 (Github by Microsoft)
 * [PowerShell DBA Reports](https://github.com/SQLDBAWithABeard/dbareports) ⚠️ Archived (Github)
 * [SQL Server PowerShell Extensions (SQLPSX)](https://github.com/MikeShepard/SQLPSX) ⭐ 97 | 🐛 12 | 🌐 PowerShell | 📅 2018-02-02 (by Mike Shepard) (Github)
 * [Powershell SQL Server Performance Health Check](https://github.com/SpeedySQL/HealthCheck) ⭐ 32 | 🐛 2 | 🌐 PowerShell | 📅 2015-12-03 (by Omid Afzalalghom) (Github)
