@@ -42,7 +42,7 @@
                 "last_commit": "2026-07-16T17:42:29Z",
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11200
+                "stars": 11202
               }
             }
           ]
@@ -69,7 +69,7 @@
                     "last_commit": "2025-04-14T15:06:31Z",
                     "owner": "NUKnightLab",
                     "repo": "sql-mysteries",
-                    "stars": 2187
+                    "stars": 2189
                   }
                 },
                 {
@@ -81,7 +81,7 @@
                     "archived": false,
                     "id": 398473376,
                     "language": "TSQL",
-                    "last_commit": "2026-08-26T14:47:41Z",
+                    "last_commit": "2026-08-27T03:38:55Z",
                     "owner": "smpetersgithub",
                     "repo": "AdvancedSQLPuzzles",
                     "stars": 918
@@ -145,7 +145,7 @@
                 "last_commit": "2026-08-26T00:37:46Z",
                 "owner": "sqlfluff",
                 "repo": "sqlfluff",
-                "stars": 9861
+                "stars": 9860
               }
             },
             {
@@ -175,7 +175,7 @@
                 "last_commit": "2026-08-14T12:25:19Z",
                 "owner": "borisdj",
                 "repo": "EFCore.BulkExtensions",
-                "stars": 4001
+                "stars": 4000
               }
             },
             {
@@ -190,7 +190,7 @@
                 "last_commit": "2026-08-23T13:45:40Z",
                 "owner": "BrentOzarULTD",
                 "repo": "SQL-Server-First-Responder-Kit",
-                "stars": 3889
+                "stars": 3891
               }
             },
             {
@@ -202,7 +202,7 @@
                 "archived": false,
                 "id": 30567860,
                 "language": "PHP",
-                "last_commit": "2026-08-12T00:11:22Z",
+                "last_commit": "2026-08-27T11:21:15Z",
                 "owner": "mevdschee",
                 "repo": "php-crud-api",
                 "stars": 3740
@@ -217,7 +217,7 @@
                 "archived": false,
                 "id": 589349,
                 "language": "C#",
-                "last_commit": "2026-08-25T22:58:11Z",
+                "last_commit": "2026-08-26T18:25:31Z",
                 "owner": "fluentmigrator",
                 "repo": "fluentmigrator",
                 "stars": 3511
@@ -280,7 +280,7 @@
                 "last_commit": "2026-08-19T08:54:04Z",
                 "owner": "ErikEJ",
                 "repo": "EFCorePowerTools",
-                "stars": 2511
+                "stars": 2513
               }
             },
             {
@@ -400,7 +400,7 @@
                 "last_commit": "2026-07-08T17:56:22Z",
                 "owner": "microsoft",
                 "repo": "Analysis-Services",
-                "stars": 732
+                "stars": 733
               }
             },
             {
@@ -412,7 +412,7 @@
                 "archived": false,
                 "id": 169925829,
                 "language": "TSQL",
-                "last_commit": "2026-08-07T10:03:05Z",
+                "last_commit": "2026-08-27T08:06:59Z",
                 "owner": "erikdarlingdata",
                 "repo": "DarlingData",
                 "stars": 720
@@ -667,7 +667,7 @@
                 "archived": false,
                 "id": 91122741,
                 "language": "C#",
-                "last_commit": "2026-06-25T01:07:13Z",
+                "last_commit": "2026-08-26T22:03:26Z",
                 "owner": "tsqllint",
                 "repo": "tsqllint",
                 "stars": 230
@@ -742,7 +742,7 @@
                 "archived": false,
                 "id": 181921311,
                 "language": "C++",
-                "last_commit": "2026-08-19T22:57:35Z",
+                "last_commit": "2026-08-27T02:59:17Z",
                 "owner": "microsoft",
                 "repo": "sql-server-language-extensions",
                 "stars": 117
@@ -1619,10 +1619,10 @@
                 "archived": false,
                 "id": 33258973,
                 "language": "Go",
-                "last_commit": "2026-08-26T14:28:38Z",
+                "last_commit": "2026-08-26T18:55:34Z",
                 "owner": "influxdata",
                 "repo": "telegraf",
-                "stars": 17766
+                "stars": 17770
               }
             },
             {
@@ -1637,7 +1637,7 @@
                 "last_commit": "2026-07-16T17:42:29Z",
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11200
+                "stars": 11202
               }
             },
             {
@@ -1652,7 +1652,7 @@
                 "last_commit": "2026-01-23T21:00:49Z",
                 "owner": "ept",
                 "repo": "hermitage",
-                "stars": 2743
+                "stars": 2744
               }
             },
             {
@@ -1667,7 +1667,7 @@
                 "last_commit": "2026-02-23T23:09:58Z",
                 "owner": "DbUp",
                 "repo": "DbUp",
-                "stars": 2621
+                "stars": 2622
               }
             },
             {
@@ -1777,7 +1777,7 @@
             "archived": false,
             "id": 30215226,
             "language": "PowerShell",
-            "last_commit": "2026-08-26T14:39:42Z",
+            "last_commit": "2026-08-27T11:31:37Z",
             "owner": "dataplat",
             "repo": "dbatools",
             "stars": 2827
@@ -1795,7 +1795,7 @@
             "last_commit": "2024-12-12T18:09:39Z",
             "owner": "NetSPI",
             "repo": "PowerUpSQL",
-            "stars": 2737
+            "stars": 2738
           }
         },
         {
@@ -1938,9 +1938,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:06:28.041Z",
-    "original_repository": "ktaranov/sqlserver-kit",
-    "original_repository_id": 24328843,
+    "last_updated": "2026-08-27T12:03:45.354Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 24328843,
+      "language": "TSQL",
+      "last_commit": "2026-03-13T10:34:38Z",
+      "owner": "ktaranov",
+      "repo": "sqlserver-kit",
+      "stars": 2395
+    },
     "original_repository_sha": "887ec1ee8317b04542b80170925498b5b4ff04fa",
     "enhanced_repository": "enhansome/enhansome-sqlserver-kit",
     "enhanced_repository_description": null,
