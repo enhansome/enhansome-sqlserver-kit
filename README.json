@@ -21,7 +21,8 @@
                 "owner": "BrentOzar",
                 "repo": "sqlblogs",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             }
           ]
         },
@@ -43,7 +44,8 @@
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
                 "stars": 11203
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             }
           ]
         },
@@ -69,8 +71,9 @@
                     "last_commit": "2025-04-14T15:06:31Z",
                     "owner": "NUKnightLab",
                     "repo": "sql-mysteries",
-                    "stars": 2191
-                  }
+                    "stars": 2193
+                  },
+                  "first_seen": "2026-08-28T23:43:12.098Z"
                 },
                 {
                   "node_type": "item",
@@ -81,11 +84,12 @@
                     "archived": false,
                     "id": 398473376,
                     "language": "TSQL",
-                    "last_commit": "2026-08-27T12:55:15Z",
+                    "last_commit": "2026-08-28T04:59:36Z",
                     "owner": "smpetersgithub",
                     "repo": "AdvancedSQLPuzzles",
                     "stars": 918
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:43:12.098Z"
                 },
                 {
                   "node_type": "item",
@@ -100,7 +104,8 @@
                     "owner": "erika-e",
                     "repo": "sql-mysteries",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:43:12.098Z"
                 }
               ]
             }
@@ -124,7 +129,8 @@
                 "owner": "microsoft",
                 "repo": "azuredatastudio",
                 "stars": 7685
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             }
           ]
         },
@@ -142,11 +148,12 @@
                 "archived": false,
                 "id": 155790228,
                 "language": "Python",
-                "last_commit": "2026-08-26T00:37:46Z",
+                "last_commit": "2026-08-28T17:03:55Z",
                 "owner": "sqlfluff",
                 "repo": "sqlfluff",
-                "stars": 9862
-              }
+                "stars": 9863
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -161,7 +168,8 @@
                 "owner": "opserver",
                 "repo": "Opserver",
                 "stars": 4566
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -176,7 +184,8 @@
                 "owner": "borisdj",
                 "repo": "EFCore.BulkExtensions",
                 "stars": 4001
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -191,7 +200,8 @@
                 "owner": "BrentOzarULTD",
                 "repo": "SQL-Server-First-Responder-Kit",
                 "stars": 3891
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -202,11 +212,12 @@
                 "archived": false,
                 "id": 30567860,
                 "language": "PHP",
-                "last_commit": "2026-08-27T14:53:56Z",
+                "last_commit": "2026-08-28T19:03:50Z",
                 "owner": "mevdschee",
                 "repo": "php-crud-api",
                 "stars": 3740
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -220,8 +231,9 @@
                 "last_commit": "2026-08-26T18:25:31Z",
                 "owner": "fluentmigrator",
                 "repo": "fluentmigrator",
-                "stars": 3511
-              }
+                "stars": 3510
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -235,8 +247,9 @@
                 "last_commit": "2026-08-23T12:49:17Z",
                 "owner": "olahallengren",
                 "repo": "sql-server-maintenance-solution",
-                "stars": 3466
-              }
+                "stars": 3470
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -251,7 +264,8 @@
                 "owner": "bosun-monitor",
                 "repo": "bosun",
                 "stars": 3390
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -266,7 +280,8 @@
                 "owner": "sqlkata",
                 "repo": "querybuilder",
                 "stars": 3379
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -281,7 +296,8 @@
                 "owner": "ErikEJ",
                 "repo": "EFCorePowerTools",
                 "stars": 2513
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -296,7 +312,8 @@
                 "owner": "microsoft",
                 "repo": "mssql-docker",
                 "stars": 1881
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -311,7 +328,8 @@
                 "owner": "microsoft",
                 "repo": "tigertoolbox",
                 "stars": 1591
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -325,8 +343,9 @@
                 "last_commit": "2026-05-16T16:22:47Z",
                 "owner": "amachanic",
                 "repo": "sp_whoisactive",
-                "stars": 1396
-              }
+                "stars": 1397
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -341,7 +360,8 @@
                 "owner": "ErikEJ",
                 "repo": "SqlQueryStress",
                 "stars": 1106
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -356,7 +376,8 @@
                 "owner": "rails-sqlserver",
                 "repo": "activerecord-sqlserver-adapter",
                 "stars": 981
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -371,7 +392,8 @@
                 "owner": "Mimetis",
                 "repo": "Dotmim.Sync",
                 "stars": 979
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -386,7 +408,8 @@
                 "owner": "microsoft",
                 "repo": "mssql-scripter",
                 "stars": 755
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -401,7 +424,8 @@
                 "owner": "microsoft",
                 "repo": "Analysis-Services",
                 "stars": 733
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -412,11 +436,12 @@
                 "archived": false,
                 "id": 169925829,
                 "language": "TSQL",
-                "last_commit": "2026-08-27T08:06:59Z",
+                "last_commit": "2026-08-28T21:20:50Z",
                 "owner": "erikdarlingdata",
                 "repo": "DarlingData",
                 "stars": 720
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -431,7 +456,8 @@
                 "owner": "fsprojects",
                 "repo": "Rezoom.SQL",
                 "stars": 679
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -446,7 +472,8 @@
                 "owner": "IsNemoEqualTrue",
                 "repo": "monitor-table-change-with-sqltabledependency",
                 "stars": 666
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -461,7 +488,8 @@
                 "owner": "albertodonato",
                 "repo": "query-exporter",
                 "stars": 534
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -476,7 +504,8 @@
                 "owner": "clinthuffman",
                 "repo": "PAL",
                 "stars": 510
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -491,7 +520,8 @@
                 "owner": "tSQLt-org",
                 "repo": "tSQLt",
                 "stars": 466
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -506,7 +536,8 @@
                 "owner": "MikaelEliasson",
                 "repo": "EntityFramework.Utilities",
                 "stars": 446
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -517,11 +548,12 @@
                 "archived": false,
                 "id": 439129686,
                 "language": "C#",
-                "last_commit": "2026-08-12T12:32:15Z",
+                "last_commit": "2026-08-28T16:39:54Z",
                 "owner": "trimble-oss",
                 "repo": "dba-dash",
                 "stars": 429
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -536,7 +568,8 @@
                 "owner": "StackExchange",
                 "repo": "StackExchange.DataExplorer",
                 "stars": 364
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -551,7 +584,8 @@
                 "owner": "sethreno",
                 "repo": "schemazen",
                 "stars": 353
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -566,7 +600,8 @@
                 "owner": "bruce-dunwiddie",
                 "repo": "tsql-parser",
                 "stars": 336
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -581,7 +616,8 @@
                 "owner": "microsoft",
                 "repo": "SQL-Server-R-Services-Samples",
                 "stars": 334
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -596,7 +632,8 @@
                 "owner": "VahidN",
                 "repo": "EFSecondLevelCache.Core",
                 "stars": 325
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -611,7 +648,8 @@
                 "owner": "microsoft",
                 "repo": "Azure_Synapse_Toolbox",
                 "stars": 298
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -626,7 +664,8 @@
                 "owner": "microsoft",
                 "repo": "DiagManager",
                 "stars": 268
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -641,7 +680,8 @@
                 "owner": "yorek",
                 "repo": "ssis-dashboard",
                 "stars": 259
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -656,7 +696,8 @@
                 "owner": "spaghettidba",
                 "repo": "WorkloadTools",
                 "stars": 257
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -671,7 +712,8 @@
                 "owner": "tsqllint",
                 "repo": "tsqllint",
                 "stars": 230
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -686,7 +728,8 @@
                 "owner": "MadeiraData",
                 "repo": "MadeiraToolbox",
                 "stars": 197
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -701,7 +744,8 @@
                 "owner": "NikoNeugebauer",
                 "repo": "CISL",
                 "stars": 184
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -716,7 +760,8 @@
                 "owner": "dataplat",
                 "repo": "dbops",
                 "stars": 177
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -731,7 +776,8 @@
                 "owner": "amtwo",
                 "repo": "dba-database",
                 "stars": 152
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -742,11 +788,12 @@
                 "archived": false,
                 "id": 181921311,
                 "language": "C++",
-                "last_commit": "2026-08-27T02:59:17Z",
+                "last_commit": "2026-08-28T22:55:19Z",
                 "owner": "microsoft",
                 "repo": "sql-server-language-extensions",
                 "stars": 117
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -761,7 +808,8 @@
                 "owner": "lowlydba",
                 "repo": "dba-multitool",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -776,7 +824,8 @@
                 "owner": "Jorriss",
                 "repo": "StatisticsParser",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -791,7 +840,8 @@
                 "owner": "suyouquan",
                 "repo": "SQLSetupTools",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -806,7 +856,8 @@
                 "owner": "microsoft",
                 "repo": "homebrew-mssql-release",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -821,7 +872,8 @@
                 "owner": "spaghettidba",
                 "repo": "XESmartTarget",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -836,7 +888,8 @@
                 "owner": "SQLUndercover",
                 "repo": "UndercoverToolbox",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -851,7 +904,8 @@
                 "owner": "OpenQueryStore",
                 "repo": "OpenQueryStore",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -866,7 +920,8 @@
                 "owner": "DevNambi",
                 "repo": "sql-server-regex",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -881,7 +936,8 @@
                 "owner": "agstudy",
                 "repo": "rsqlserver",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -896,7 +952,8 @@
                 "owner": "BrentOzarULTD",
                 "repo": "soddi",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -911,7 +968,8 @@
                 "owner": "kendalvandyke",
                 "repo": "sqlpowerdoc",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -926,7 +984,8 @@
                 "owner": "SQLadmin",
                 "repo": "AwesomeSQLServer",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -941,7 +1000,8 @@
                 "owner": "dirceuresende",
                 "repo": "checklist_seguranca",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -956,7 +1016,8 @@
                 "owner": "sqlstudent144",
                 "repo": "SQL-Server-Scripts",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -971,7 +1032,8 @@
                 "owner": "sqlstudent144",
                 "repo": "SQL-Server-Scripts",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -986,7 +1048,8 @@
                 "owner": "red-gate",
                 "repo": "SQLCop",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1001,7 +1064,8 @@
                 "owner": "GoEddie",
                 "repo": "SQLCover",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1016,7 +1080,8 @@
                 "owner": "microsoft",
                 "repo": "dbfs",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1031,7 +1096,8 @@
                 "owner": "kevinmartintech",
                 "repo": "sp_CRUDGen",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1046,7 +1112,8 @@
                 "owner": "amtwo",
                 "repo": "Data-Blogger-Resource-Kit",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1061,7 +1128,8 @@
                 "owner": "mjswart-d2l",
                 "repo": "sqlblockedprocesses",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1076,7 +1144,8 @@
                 "owner": "suyouquan",
                 "repo": "AGLatency",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1091,7 +1160,8 @@
                 "owner": "microsoft",
                 "repo": "r-server-campaign-optimization",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1106,7 +1176,8 @@
                 "owner": "EmergentSoftware",
                 "repo": "SQL-Server-Development-Assessment",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1121,7 +1192,8 @@
                 "owner": "ststeiger",
                 "repo": "sql_profiler",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1136,7 +1208,8 @@
                 "owner": "dgavrikov",
                 "repo": "databases_scripts",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1151,7 +1224,8 @@
                 "owner": "jobbish-sql",
                 "repo": "SQL-Server-Multi-Thread",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1166,7 +1240,8 @@
                 "owner": "lowlydba",
                 "repo": "lowlydba.sqlserver",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1181,7 +1256,8 @@
                 "owner": "ericcobb",
                 "repo": "SQL-Server-Permissions-Manager",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1196,7 +1272,8 @@
                 "owner": "NikoNeugebauer",
                 "repo": "MOSL",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1211,7 +1288,8 @@
                 "owner": "Kjonge",
                 "repo": "TabularTranslator",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1226,7 +1304,8 @@
                 "owner": "Azure",
                 "repo": "AzureRMR",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1241,7 +1320,8 @@
                 "owner": "christianwade",
                 "repo": "BismNormalizer",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1256,7 +1336,8 @@
                 "owner": "SqlQuantumLeap",
                 "repo": "BinaryFormatter",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1271,7 +1352,8 @@
                 "owner": "jzagelbaum",
                 "repo": "OlaHallengrenRestoreScript",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1286,7 +1368,8 @@
                 "owner": "pelsql",
                 "repo": "YourSqlDba",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1301,7 +1384,8 @@
                 "owner": "spaghettidba",
                 "repo": "ExtendedTSQLCollector",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1316,7 +1400,8 @@
                 "owner": "jobgemws",
                 "repo": "Projects-MS-SQL-Server-DBA",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1331,7 +1416,8 @@
                 "owner": "segovoni",
                 "repo": "sp_alter_column",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1346,7 +1432,8 @@
                 "owner": "MadeiraData",
                 "repo": "mssql-jobs-hadr",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1361,7 +1448,8 @@
                 "owner": "bornsql",
                 "repo": "sql2xls",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1376,7 +1464,8 @@
                 "owner": "JSuder-xx",
                 "repo": "TSqlStrong",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1391,7 +1480,8 @@
                 "owner": "bornsql",
                 "repo": "azureblobstoragesync",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1406,7 +1496,8 @@
                 "owner": "bornsql",
                 "repo": "azureblobstoragesync",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1421,7 +1512,8 @@
                 "owner": "usharik",
                 "repo": "MsSqlDependencyBrowser",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1436,7 +1528,8 @@
                 "owner": "tboggiano",
                 "repo": "autofix-vlfs",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1451,7 +1544,8 @@
                 "owner": "tboggiano",
                 "repo": "olamaintconfigtables",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1466,7 +1560,8 @@
                 "owner": "GuerrillaAnalytics",
                 "repo": "similarity",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1481,7 +1576,8 @@
                 "owner": "Jorriss",
                 "repo": "SQLGenerator",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1496,7 +1592,8 @@
                 "owner": "tboggiano",
                 "repo": "splittinglargefiles",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1511,7 +1608,8 @@
                 "owner": "dreik",
                 "repo": "ZabbixMSSQL",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1526,7 +1624,8 @@
                 "owner": "sqlsunday",
                 "repo": "shock-absorber",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1541,7 +1640,8 @@
                 "owner": "SQLJana",
                 "repo": "SQLServerSpaceAnalysis",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1556,7 +1656,8 @@
                 "owner": "swarchy",
                 "repo": "HammerDBBenchmark",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1571,7 +1672,8 @@
                 "owner": "ionflux",
                 "repo": "mssql-telegram-bot",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1586,7 +1688,8 @@
                 "owner": "janhalama",
                 "repo": "ms-sql-express-replication",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1601,7 +1704,8 @@
                 "owner": "ktaranov",
                 "repo": "mssql-docker",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             }
           ]
         },
@@ -1622,8 +1726,9 @@
                 "last_commit": "2026-08-26T18:55:34Z",
                 "owner": "influxdata",
                 "repo": "telegraf",
-                "stars": 17773
-              }
+                "stars": 17777
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1638,7 +1743,8 @@
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
                 "stars": 11203
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1653,7 +1759,8 @@
                 "owner": "ept",
                 "repo": "hermitage",
                 "stars": 2745
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1667,8 +1774,9 @@
                 "last_commit": "2026-02-23T23:09:58Z",
                 "owner": "DbUp",
                 "repo": "DbUp",
-                "stars": 2623
-              }
+                "stars": 2624
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1683,7 +1791,8 @@
                 "owner": "unruledboy",
                 "repo": "SQLMonitor",
                 "stars": 294
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1698,7 +1807,8 @@
                 "owner": "improvedk",
                 "repo": "OrcaMDF",
                 "stars": 191
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1713,7 +1823,8 @@
                 "owner": "arvindsh",
                 "repo": "SQLCallStackResolver",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1728,7 +1839,8 @@
                 "owner": "trimble-oss",
                 "repo": "sql-log-shipping-service",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1743,7 +1855,8 @@
                 "owner": "SQLGrillen",
                 "repo": "NSOD-1",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -1758,7 +1871,8 @@
                 "owner": "CoderAllan",
                 "repo": "SqlServerSearcher",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             }
           ]
         }
@@ -1777,11 +1891,12 @@
             "archived": false,
             "id": 30215226,
             "language": "PowerShell",
-            "last_commit": "2026-08-27T13:29:24Z",
+            "last_commit": "2026-08-28T20:42:52Z",
             "owner": "dataplat",
             "repo": "dbatools",
             "stars": 2828
-          }
+          },
+          "first_seen": "2026-08-28T23:43:12.098Z"
         },
         {
           "node_type": "item",
@@ -1796,7 +1911,8 @@
             "owner": "NetSPI",
             "repo": "PowerUpSQL",
             "stars": 2738
-          }
+          },
+          "first_seen": "2026-08-28T23:43:12.098Z"
         },
         {
           "node_type": "item",
@@ -1811,7 +1927,8 @@
             "owner": "microsoft",
             "repo": "ReportingServicesTools",
             "stars": 510
-          }
+          },
+          "first_seen": "2026-08-28T23:43:12.098Z"
         },
         {
           "node_type": "item",
@@ -1826,7 +1943,8 @@
             "owner": "dsccommunity",
             "repo": "SqlServerDsc",
             "stars": 386
-          }
+          },
+          "first_seen": "2026-08-28T23:43:12.098Z"
         },
         {
           "node_type": "item",
@@ -1841,7 +1959,8 @@
             "owner": "dataplat",
             "repo": "dbareports",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T23:43:12.098Z"
         },
         {
           "node_type": "item",
@@ -1856,7 +1975,8 @@
             "owner": "MikeShepard",
             "repo": "SQLPSX",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-28T23:43:12.098Z"
         },
         {
           "node_type": "item",
@@ -1871,7 +1991,8 @@
             "owner": "SpeedySQL",
             "repo": "HealthCheck",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T23:43:12.098Z"
         },
         {
           "node_type": "item",
@@ -1886,7 +2007,8 @@
             "owner": "sanderstad",
             "repo": "Export-DMVInformation",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T23:43:12.098Z"
         },
         {
           "node_type": "item",
@@ -1901,7 +2023,8 @@
             "owner": "sanderstad",
             "repo": "PSSQLLib",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T23:43:12.098Z"
         },
         {
           "node_type": "item",
@@ -1916,7 +2039,8 @@
             "owner": "SQLJana",
             "repo": "Export-QueryToSQLTable",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T23:43:12.098Z"
         },
         {
           "node_type": "item",
@@ -1931,14 +2055,15 @@
             "owner": "ktaranov",
             "repo": "Universal-SQL-Installation-Scripts",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T23:43:12.098Z"
         }
       ],
       "title": "PowerShell and SQL Server"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:05:46.678Z",
+    "last_updated": "2026-08-28T23:43:12.098Z",
     "original_repository_info": {
       "archived": false,
       "id": 24328843,
