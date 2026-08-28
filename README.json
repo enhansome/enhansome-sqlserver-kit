@@ -39,10 +39,10 @@
                 "archived": false,
                 "id": 53698446,
                 "language": null,
-                "last_commit": "2026-07-16T17:42:29Z",
+                "last_commit": "2026-08-27T19:12:45Z",
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11202
+                "stars": 11203
               }
             }
           ]
@@ -69,7 +69,7 @@
                     "last_commit": "2025-04-14T15:06:31Z",
                     "owner": "NUKnightLab",
                     "repo": "sql-mysteries",
-                    "stars": 2189
+                    "stars": 2191
                   }
                 },
                 {
@@ -81,7 +81,7 @@
                     "archived": false,
                     "id": 398473376,
                     "language": "TSQL",
-                    "last_commit": "2026-08-27T03:38:55Z",
+                    "last_commit": "2026-08-27T12:55:15Z",
                     "owner": "smpetersgithub",
                     "repo": "AdvancedSQLPuzzles",
                     "stars": 918
@@ -123,7 +123,7 @@
                 "last_commit": "2026-02-28T16:30:21Z",
                 "owner": "microsoft",
                 "repo": "azuredatastudio",
-                "stars": 7686
+                "stars": 7685
               }
             }
           ]
@@ -145,7 +145,7 @@
                 "last_commit": "2026-08-26T00:37:46Z",
                 "owner": "sqlfluff",
                 "repo": "sqlfluff",
-                "stars": 9860
+                "stars": 9862
               }
             },
             {
@@ -175,7 +175,7 @@
                 "last_commit": "2026-08-14T12:25:19Z",
                 "owner": "borisdj",
                 "repo": "EFCore.BulkExtensions",
-                "stars": 4000
+                "stars": 4001
               }
             },
             {
@@ -202,7 +202,7 @@
                 "archived": false,
                 "id": 30567860,
                 "language": "PHP",
-                "last_commit": "2026-08-27T11:21:15Z",
+                "last_commit": "2026-08-27T14:53:56Z",
                 "owner": "mevdschee",
                 "repo": "php-crud-api",
                 "stars": 3740
@@ -340,7 +340,7 @@
                 "last_commit": "2026-08-20T08:23:24Z",
                 "owner": "ErikEJ",
                 "repo": "SqlQueryStress",
-                "stars": 1105
+                "stars": 1106
               }
             },
             {
@@ -727,7 +727,7 @@
                 "archived": false,
                 "id": 103656529,
                 "language": "TSQL",
-                "last_commit": "2026-08-03T19:25:36Z",
+                "last_commit": "2026-08-27T14:41:41Z",
                 "owner": "amtwo",
                 "repo": "dba-database",
                 "stars": 152
@@ -1225,7 +1225,7 @@
                 "last_commit": "2025-07-31T15:28:36Z",
                 "owner": "Azure",
                 "repo": "AzureRMR",
-                "stars": 20
+                "stars": 21
               }
             },
             {
@@ -1622,7 +1622,7 @@
                 "last_commit": "2026-08-26T18:55:34Z",
                 "owner": "influxdata",
                 "repo": "telegraf",
-                "stars": 17770
+                "stars": 17773
               }
             },
             {
@@ -1634,10 +1634,10 @@
                 "archived": false,
                 "id": 53698446,
                 "language": null,
-                "last_commit": "2026-07-16T17:42:29Z",
+                "last_commit": "2026-08-27T19:12:45Z",
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11202
+                "stars": 11203
               }
             },
             {
@@ -1652,7 +1652,7 @@
                 "last_commit": "2026-01-23T21:00:49Z",
                 "owner": "ept",
                 "repo": "hermitage",
-                "stars": 2744
+                "stars": 2745
               }
             },
             {
@@ -1667,7 +1667,7 @@
                 "last_commit": "2026-02-23T23:09:58Z",
                 "owner": "DbUp",
                 "repo": "DbUp",
-                "stars": 2622
+                "stars": 2623
               }
             },
             {
@@ -1777,10 +1777,10 @@
             "archived": false,
             "id": 30215226,
             "language": "PowerShell",
-            "last_commit": "2026-08-27T11:31:37Z",
+            "last_commit": "2026-08-27T13:29:24Z",
             "owner": "dataplat",
             "repo": "dbatools",
-            "stars": 2827
+            "stars": 2828
           }
         },
         {
@@ -1938,7 +1938,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:03:45.354Z",
+    "last_updated": "2026-08-28T00:05:46.678Z",
     "original_repository_info": {
       "archived": false,
       "id": 24328843,
