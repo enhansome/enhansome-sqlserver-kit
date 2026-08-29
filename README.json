@@ -15,12 +15,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The SQL Server blogs I subscribe to.",
+                "homepage": null,
                 "id": 55706701,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2025-07-15T22:54:02Z",
+                "open_issues": 0,
                 "owner": "BrentOzar",
                 "repo": "sqlblogs",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             }
@@ -38,12 +43,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge",
+                "homepage": null,
                 "id": 53698446,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T19:12:45Z",
+                "open_issues": 298,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11203
+                "stars": 11202,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             }
@@ -66,12 +76,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Inspired by @veltman's command-line mystery, use SQL to research clues and find out whodunit!",
+                    "homepage": null,
                     "id": 117861795,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-04-14T15:06:31Z",
+                    "open_issues": 20,
                     "owner": "NUKnightLab",
                     "repo": "sql-mysteries",
-                    "stars": 2193
+                    "stars": 2193,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.098Z"
                 },
@@ -82,12 +97,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Welcome to my GitHub repository.  I hope you enjoy solving these puzzles as much as I have enjoyed creating them.",
+                    "homepage": "https://advancedsqlpuzzles.com",
                     "id": 398473376,
                     "language": "TSQL",
+                    "license": null,
                     "last_commit": "2026-08-28T04:59:36Z",
+                    "open_issues": 0,
                     "owner": "smpetersgithub",
                     "repo": "AdvancedSQLPuzzles",
-                    "stars": 918
+                    "stars": 918,
+                    "topics": [
+                      "problems",
+                      "puzzles",
+                      "questions",
+                      "sql",
+                      "sql-query",
+                      "sql-server",
+                      "sqlserver"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:43:12.098Z"
                 },
@@ -98,12 +126,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Inspired by @veltman's command-line mystery, use SQL to research clues and find out whodunit!",
+                    "homepage": null,
                     "id": 262383822,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-05-08T19:43:37Z",
+                    "open_issues": 0,
                     "owner": "erika-e",
                     "repo": "sql-mysteries",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.098Z"
                 }
@@ -123,12 +156,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Azure Data Studio is a data management and development tool with connectivity to popular cloud and on-premises databases. Azure Data Studio supports Windows, macOS, and Linux, with immediate capability to connect to Azure SQL and SQL Server. Browse the extension library for more database support options including MySQL, PostgreSQL, and MongoDB.",
+                "homepage": "https://learn.microsoft.com/sql/azure-data-studio",
                 "id": 109200851,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-02-28T16:30:21Z",
+                "open_issues": 2608,
                 "owner": "microsoft",
                 "repo": "azuredatastudio",
-                "stars": 7685
+                "stars": 7685,
+                "topics": [
+                  "azure",
+                  "azure-data-studio",
+                  "electron",
+                  "microsoft",
+                  "postgresql",
+                  "sql",
+                  "sql-server",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             }
@@ -146,12 +193,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modular SQL linter and auto-formatter with support for multiple dialects and templated code.",
+                "homepage": "https://www.sqlfluff.com",
                 "id": 155790228,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T17:03:55Z",
+                "open_issues": 339,
                 "owner": "sqlfluff",
                 "repo": "sqlfluff",
-                "stars": 9863
+                "stars": 9863,
+                "topics": [
+                  "hacktoberfest",
+                  "pypi",
+                  "sql",
+                  "sql-linter"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -162,12 +219,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stack Exchange's Monitoring System",
+                "homepage": "https://opserver.github.io/Opserver/",
                 "id": 13589461,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-11-30T21:00:22Z",
+                "open_issues": 76,
                 "owner": "opserver",
                 "repo": "Opserver",
-                "stars": 4566
+                "stars": 4566,
+                "topics": [
+                  "bosun",
+                  "dotnet",
+                  "elasticsearch",
+                  "monitoring",
+                  "orion",
+                  "redis",
+                  "sql"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -178,12 +248,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Entity Framework EF Core efcore Bulk Batch Extensions with BulkCopy in .Net for Insert Update Delete Read (CRUD), Truncate and SaveChanges operations on SQL Server, PostgreSQL, MySQL, SQLite, Oracle",
+                "homepage": "https://codis.tech/efcorebulk",
                 "id": 91096213,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-14T12:25:19Z",
+                "open_issues": 128,
                 "owner": "borisdj",
                 "repo": "EFCore.BulkExtensions",
-                "stars": 4001
+                "stars": 4001,
+                "topics": [
+                  "batch",
+                  "bulk",
+                  "copy",
+                  "efcore",
+                  "entity-framework-core",
+                  "entityframework",
+                  "entityframeworkcore",
+                  "mysql",
+                  "postgresql",
+                  "sql",
+                  "sqlbulkcopy",
+                  "sqlite",
+                  "sqlserver"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -194,12 +283,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "sp_Blitz, sp_BlitzCache, sp_BlitzFirst, sp_BlitzIndex, and other SQL Server scripts for health checks and performance tuning.",
+                "homepage": "http://FirstResponderKit.org",
                 "id": 20408831,
                 "language": "TSQL",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-23T13:45:40Z",
+                "open_issues": 12,
                 "owner": "BrentOzarULTD",
                 "repo": "SQL-Server-First-Responder-Kit",
-                "stars": 3891
+                "stars": 3891,
+                "topics": [
+                  "first-responder-kit",
+                  "health-checks",
+                  "microsoft-sql-server",
+                  "ms-sql-server",
+                  "sp-blitz",
+                  "sp-blitzcache",
+                  "sp-blitzfirst",
+                  "sp-blitzindex",
+                  "sql-server"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -210,12 +314,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Single file PHP script that adds a REST API to a SQL database",
+                "homepage": null,
                 "id": 30567860,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-28T19:03:50Z",
+                "open_issues": 85,
                 "owner": "mevdschee",
                 "repo": "php-crud-api",
-                "stars": 3740
+                "stars": 3740,
+                "topics": [
+                  "api-server",
+                  "automatic-api",
+                  "crud",
+                  "database",
+                  "geojson",
+                  "geospatial",
+                  "multi-database",
+                  "mysql",
+                  "openapi",
+                  "php",
+                  "php-api",
+                  "postgis",
+                  "postgresql",
+                  "rest-api",
+                  "restful",
+                  "sql-database",
+                  "sqlite",
+                  "sqlserver",
+                  "swagger"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -226,12 +355,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fluent migrations framework for .NET",
+                "homepage": "https://fluentmigrator.github.io",
                 "id": 589349,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T18:25:31Z",
+                "open_issues": 219,
                 "owner": "fluentmigrator",
                 "repo": "fluentmigrator",
-                "stars": 3510
+                "stars": 3510,
+                "topics": [
+                  "database",
+                  "database-schema",
+                  "db2",
+                  "dotnet",
+                  "fluentmigrator",
+                  "migration",
+                  "mysql",
+                  "oracle",
+                  "postgres",
+                  "redshift",
+                  "snowflake",
+                  "sql",
+                  "sql-server"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -242,12 +390,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SQL Server Maintenance Solution",
+                "homepage": "https://ola.hallengren.com",
                 "id": 93431127,
                 "language": "TSQL",
+                "license": "MIT",
                 "last_commit": "2026-08-23T12:49:17Z",
+                "open_issues": 239,
                 "owner": "olahallengren",
                 "repo": "sql-server-maintenance-solution",
-                "stars": 3470
+                "stars": 3470,
+                "topics": [
+                  "sqlserver"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -258,12 +413,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Time Series Alerting Framework",
+                "homepage": "http://bosun.org",
                 "id": 14410778,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-02-13T10:41:49Z",
+                "open_issues": 0,
                 "owner": "bosun-monitor",
                 "repo": "bosun",
-                "stars": 3390
+                "stars": 3390,
+                "topics": [
+                  "alerting",
+                  "bosun",
+                  "go",
+                  "monitoring",
+                  "scollector",
+                  "tsdb"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -274,12 +441,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird",
+                "homepage": "https://sqlkata.com",
                 "id": 90608506,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-04-10T11:27:35Z",
+                "open_issues": 180,
                 "owner": "sqlkata",
                 "repo": "querybuilder",
-                "stars": 3379
+                "stars": 3379,
+                "topics": [
+                  "activerecord",
+                  "c-sharp",
+                  "csharp",
+                  "data-access-layer",
+                  "database",
+                  "mysql",
+                  "postgresql",
+                  "query-builder",
+                  "sql",
+                  "sql-query",
+                  "sql-query-builder",
+                  "sql-server"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -290,12 +475,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Entity Framework Core Power Tools - reverse engineering, migrations and model visualization in Visual Studio & CLI",
+                "homepage": null,
                 "id": 131473375,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-19T08:54:04Z",
+                "open_issues": 4,
                 "owner": "ErikEJ",
                 "repo": "EFCorePowerTools",
-                "stars": 2513
+                "stars": 2513,
+                "topics": [
+                  "dbcontext",
+                  "dotnet",
+                  "entity-framework",
+                  "entity-framework-core",
+                  "hacktoberfest",
+                  "model-visualization",
+                  "sql-server",
+                  "visual-studio",
+                  "visual-studio-extension"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -306,12 +506,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Microsoft repository for SQL Server in Docker resources",
+                "homepage": null,
                 "id": 76301022,
                 "language": "Dockerfile",
+                "license": "MIT",
                 "last_commit": "2026-01-27T14:26:41Z",
+                "open_issues": 525,
                 "owner": "microsoft",
                 "repo": "mssql-docker",
-                "stars": 1881
+                "stars": 1881,
+                "topics": [
+                  "database",
+                  "docker",
+                  "docker-engine",
+                  "linux",
+                  "sql-server",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -322,12 +534,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Toolbox repository for Tiger team ",
+                "homepage": "http://aka.ms/sqlserverteam",
                 "id": 70292144,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-10T17:28:55Z",
+                "open_issues": 112,
                 "owner": "microsoft",
                 "repo": "tigertoolbox",
-                "stars": 1591
+                "stars": 1591,
+                "topics": [
+                  "always-on",
+                  "indexes",
+                  "maintenance",
+                  "sql",
+                  "sqlserver",
+                  "tls",
+                  "vlf"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -338,12 +563,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "sp_whoisactive",
+                "homepage": null,
                 "id": 199326660,
                 "language": "TSQL",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-16T16:22:47Z",
+                "open_issues": 19,
                 "owner": "amachanic",
                 "repo": "sp_whoisactive",
-                "stars": 1397
+                "stars": 1397,
+                "topics": [
+                  "monitoring",
+                  "sql",
+                  "sqlserver"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -354,12 +588,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SQL query stress simulator created by Adam Machanic http://dataeducation.com/sqlquerystress-the-source-code/",
+                "homepage": null,
                 "id": 49008102,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-20T08:23:24Z",
+                "open_issues": 1,
                 "owner": "ErikEJ",
                 "repo": "SqlQueryStress",
-                "stars": 1106
+                "stars": 1106,
+                "topics": [
+                  "performance",
+                  "sql-server",
+                  "stress-test"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -370,12 +613,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SQL Server Adapter For Rails",
+                "homepage": null,
                 "id": 76404,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-08-22T17:27:47Z",
+                "open_issues": 21,
                 "owner": "rails-sqlserver",
                 "repo": "activerecord-sqlserver-adapter",
-                "stars": 981
+                "stars": 981,
+                "topics": [
+                  "activerecord",
+                  "database",
+                  "freetds",
+                  "hacktoberfest",
+                  "rails",
+                  "ruby",
+                  "sql",
+                  "sql-server",
+                  "tinytds"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -386,12 +644,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A brand new database synchronization framework, multi platform, multi databases, developed on top of .Net Standard 2.0. https://dotmimsync.readthedocs.io/",
+                "homepage": null,
                 "id": 76020516,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2025-08-28T13:17:57Z",
+                "open_issues": 64,
                 "owner": "Mimetis",
                 "repo": "Dotmim.Sync",
-                "stars": 979
+                "stars": 979,
+                "topics": [
+                  "change-tracking",
+                  "changetracking",
+                  "database",
+                  "datasync",
+                  "mysql",
+                  "nuget",
+                  "postgresql",
+                  "sql",
+                  "sql-server",
+                  "sqlite",
+                  "sync",
+                  "synchronisation",
+                  "synchronization"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -402,12 +679,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Repository for the new SQL cross-platform command line tools",
+                "homepage": null,
                 "id": 80571801,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-07T23:31:50Z",
+                "open_issues": 117,
                 "owner": "microsoft",
                 "repo": "mssql-scripter",
-                "stars": 755
+                "stars": 755,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -418,12 +700,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Git repo for Analysis Services samples and community projects",
+                "homepage": null,
                 "id": 75332122,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-07-08T17:56:22Z",
+                "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "Analysis-Services",
-                "stars": 733
+                "stars": 733,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -434,12 +721,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source SQL Server troubleshooting: sp_PressureDetector, sp_QuickieStore, sp_HumanEvents, and other SQL Server scripts for performance troubleshooting",
+                "homepage": "https://www.erikdarling.com/",
                 "id": 169925829,
                 "language": "TSQL",
+                "license": "MIT",
                 "last_commit": "2026-08-28T21:20:50Z",
+                "open_issues": 1,
                 "owner": "erikdarlingdata",
                 "repo": "DarlingData",
-                "stars": 720
+                "stars": 720,
+                "topics": [
+                  "extended-events",
+                  "index",
+                  "microsoft-sql-server",
+                  "ms-sqlserver",
+                  "perfomance-monitor",
+                  "performance",
+                  "performance-analysis",
+                  "performance-analysis-scripts",
+                  "performance-monitoring",
+                  "query",
+                  "sql-server",
+                  "t-sql",
+                  "t-sql-scripts"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -450,12 +756,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Statically typechecks a common SQL dialect and translates it to various RDBMS backends",
+                "homepage": null,
                 "id": 84382796,
                 "language": "F#",
+                "license": "MIT",
                 "last_commit": "2026-06-24T03:40:59Z",
+                "open_issues": 18,
                 "owner": "fsprojects",
                 "repo": "Rezoom.SQL",
-                "stars": 679
+                "stars": 679,
+                "topics": [
+                  "compiler",
+                  "fsharp",
+                  "postgresql",
+                  "sql",
+                  "sqlite",
+                  "sqlserver",
+                  "tsql",
+                  "typechecker"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -466,12 +786,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get SQL Server notification on record table change",
+                "homepage": null,
                 "id": 86988065,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-01-16T19:22:20Z",
+                "open_issues": 60,
                 "owner": "IsNemoEqualTrue",
                 "repo": "monitor-table-change-with-sqltabledependency",
-                "stars": 666
+                "stars": 666,
+                "topics": [
+                  "audit",
+                  "change",
+                  "changes",
+                  "database",
+                  "database-table",
+                  "insert",
+                  "monitor",
+                  "notification",
+                  "notifications",
+                  "receive-notifications",
+                  "record",
+                  "service-broker",
+                  "sql",
+                  "sql-server",
+                  "sqlserver",
+                  "sqltabledependency",
+                  "table",
+                  "tracking"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -482,12 +826,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Export Prometheus metrics from SQL queries",
+                "homepage": null,
                 "id": 84195415,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-01T09:06:24Z",
+                "open_issues": 16,
                 "owner": "albertodonato",
                 "repo": "query-exporter",
-                "stars": 534
+                "stars": 534,
+                "topics": [
+                  "database",
+                  "metrics",
+                  "metrics-exporter",
+                  "prometheus",
+                  "prometheus-exporter",
+                  "query",
+                  "sql"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -498,12 +855,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Performance Analysis of Logs (PAL) tool",
+                "homepage": null,
                 "id": 90311362,
                 "language": "Visual Basic .NET",
+                "license": "MIT",
                 "last_commit": "2022-08-09T00:26:06Z",
+                "open_issues": 55,
                 "owner": "clinthuffman",
                 "repo": "PAL",
-                "stars": 510
+                "stars": 510,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -514,12 +876,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official tSQLt repository.  (Download at: http://tSQLt.org/downloads )",
+                "homepage": "http://tSQLt.org",
                 "id": 45647202,
                 "language": "TSQL",
+                "license": null,
                 "last_commit": "2026-05-07T07:20:57Z",
+                "open_issues": 98,
                 "owner": "tSQLt-org",
                 "repo": "tSQLt",
-                "stars": 466
+                "stars": 466,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -530,12 +897,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Provides extensions for EntityFramework that doesn't exist out of the box like delete and update by query and bulk inserts",
+                "homepage": null,
                 "id": 4758770,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2026-01-12T13:40:43Z",
+                "open_issues": 77,
                 "owner": "MikaelEliasson",
                 "repo": "EntityFramework.Utilities",
-                "stars": 446
+                "stars": 446,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -546,12 +918,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DBA Dash - SQL Server Monitoring Tool",
+                "homepage": null,
                 "id": 439129686,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-28T16:39:54Z",
+                "open_issues": 86,
                 "owner": "trimble-oss",
                 "repo": "dba-dash",
-                "stars": 429
+                "stars": 429,
+                "topics": [
+                  "dba-daily-checks",
+                  "microsoft-sql-server",
+                  "performance-monitoring",
+                  "sql-server",
+                  "sql-server-monitoring"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -562,12 +945,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stack Exchange Data Explorer",
+                "homepage": null,
                 "id": 11151336,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-04-20T11:36:33Z",
+                "open_issues": 14,
                 "owner": "StackExchange",
                 "repo": "StackExchange.DataExplorer",
-                "stars": 364
+                "stars": 364,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -578,12 +966,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Script and create SQL Server objects quickly",
+                "homepage": null,
                 "id": 8315399,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-01-17T10:23:59Z",
+                "open_issues": 61,
                 "owner": "sethreno",
                 "repo": "schemazen",
-                "stars": 353
+                "stars": 353,
+                "topics": [
+                  "c-sharp",
+                  "database",
+                  "mssql",
+                  "schema",
+                  "version-control"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -594,12 +993,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Library Written in C# For Parsing SQL Server T-SQL Scripts in .Net",
+                "homepage": null,
                 "id": 46535559,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-19T09:53:47Z",
+                "open_issues": 13,
                 "owner": "bruce-dunwiddie",
                 "repo": "tsql-parser",
-                "stars": 336
+                "stars": 336,
+                "topics": [
+                  "parse",
+                  "parser",
+                  "parsing-scripts",
+                  "sql",
+                  "sql-server",
+                  "statement-parsers",
+                  "tsql",
+                  "tsql-parser"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -610,12 +1023,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Advanced analytics samples and templates using SQL Server R Services",
+                "homepage": null,
                 "id": 52936744,
                 "language": "TSQL",
+                "license": "CC-BY-4.0",
                 "last_commit": "2023-06-14T15:18:33Z",
+                "open_issues": 1,
                 "owner": "microsoft",
                 "repo": "SQL-Server-R-Services-Samples",
-                "stars": 334
+                "stars": 334,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -626,12 +1044,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Entity Framework Core Second Level Caching Library",
+                "homepage": null,
                 "id": 68515015,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2020-02-15T08:11:56Z",
+                "open_issues": 3,
                 "owner": "VahidN",
                 "repo": "EFSecondLevelCache.Core",
-                "stars": 325
+                "stars": 325,
+                "topics": [
+                  "aspnetcore",
+                  "efcore",
+                  "entity-framework",
+                  "entity-framework-core",
+                  "entityframework"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -642,12 +1071,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository of tools/queries for managing and monitoring Azure Synapse. ",
+                "homepage": null,
                 "id": 151138178,
                 "language": "TSQL",
+                "license": "MIT",
                 "last_commit": "2023-06-21T15:18:00Z",
+                "open_issues": 16,
                 "owner": "microsoft",
                 "repo": "Azure_Synapse_Toolbox",
-                "stars": 298
+                "stars": 298,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -658,12 +1092,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Pssdiag/Sqldiag Manager is a graphic interface that provides customization capabilities to collect data for SQL Server using sqldiag collector engine. The data collected can be used by SQL Nexus tool  which help you troubleshoot SQL Server performance problems.  This is the same tool Microsoft SQL Server support engineers use to for data collection to troubleshoot customer's performance problems.",
+                "homepage": null,
                 "id": 71370038,
                 "language": "TSQL",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-20T12:59:49Z",
+                "open_issues": 0,
                 "owner": "microsoft",
                 "repo": "DiagManager",
-                "stars": 268
+                "stars": 268,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -674,12 +1113,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HTML5 SQL Server Integration Services Dashboard",
+                "homepage": "http://ssis-dashboard.azurewebsites.net/",
                 "id": 22955187,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2019-04-28T20:56:42Z",
+                "open_issues": 9,
                 "owner": "yorek",
                 "repo": "ssis-dashboard",
-                "stars": 259
+                "stars": 259,
+                "topics": [
+                  "bootstrap",
+                  "dashboard",
+                  "flask",
+                  "integration-services",
+                  "python",
+                  "sql-server",
+                  "ssis",
+                  "ssis-dashboard"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -690,12 +1143,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of tools to collect, analyze and replay SQL Server workloads, on premises and in the cloud",
+                "homepage": null,
                 "id": 142265652,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-06-19T13:30:30Z",
+                "open_issues": 35,
                 "owner": "spaghettidba",
                 "repo": "WorkloadTools",
-                "stars": 257
+                "stars": 257,
+                "topics": [
+                  "replay",
+                  "sqlserver",
+                  "workload"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -706,12 +1168,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Configurable linting for TSQL",
+                "homepage": null,
                 "id": 91122741,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-26T22:03:26Z",
+                "open_issues": 16,
                 "owner": "tsqllint",
                 "repo": "tsqllint",
-                "stars": 230
+                "stars": 230,
+                "topics": [
+                  "linter",
+                  "mssql",
+                  "tsql"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -722,12 +1193,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository is deprecated and no longer updated. Please visit the new repository:",
+                "homepage": "https://github.com/MadeiraData/microsoft-dbas-club",
                 "id": 256747265,
                 "language": "TSQL",
+                "license": "MIT",
                 "last_commit": "2025-04-14T15:56:40Z",
+                "open_issues": 0,
                 "owner": "MadeiraData",
                 "repo": "MadeiraToolbox",
-                "stars": 197
+                "stars": 197,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -738,12 +1214,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Columnstore Indexes Scripts Library",
+                "homepage": null,
                 "id": 41452712,
                 "language": "TSQL",
+                "license": "Apache-2.0",
                 "last_commit": "2021-07-31T20:42:27Z",
+                "open_issues": 20,
                 "owner": "NikoNeugebauer",
                 "repo": "CISL",
-                "stars": 184
+                "stars": 184,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -754,12 +1235,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚙ dbops - Powershell module that provides continuous database deployments on any scale",
+                "homepage": null,
                 "id": 144904208,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2026-01-29T03:31:08Z",
+                "open_issues": 15,
                 "owner": "dataplat",
                 "repo": "dbops",
-                "stars": 177
+                "stars": 177,
+                "topics": [
+                  "database",
+                  "dbops",
+                  "hacktoberfest",
+                  "powershell"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -770,12 +1261,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Database containing DBA helper code and open source software.",
+                "homepage": null,
                 "id": 103656529,
                 "language": "TSQL",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-27T14:41:41Z",
+                "open_issues": 6,
                 "owner": "amtwo",
                 "repo": "dba-database",
-                "stars": 152
+                "stars": 152,
+                "topics": [
+                  "database",
+                  "sql-server"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -786,12 +1285,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "language-extensions-sqlserver",
+                "homepage": null,
                 "id": 181921311,
                 "language": "C++",
-                "last_commit": "2026-08-28T22:55:19Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T01:09:15Z",
+                "open_issues": 16,
                 "owner": "microsoft",
                 "repo": "sql-server-language-extensions",
-                "stars": 117
+                "stars": 117,
+                "topics": [
+                  "csharp",
+                  "dotnet-core",
+                  "java",
+                  "python",
+                  "r",
+                  "sql"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -802,12 +1313,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":hammer_and_wrench:  T-SQL scripts for the long haul: optimizing storage, on-the-fly documentation, and general administrative needs.",
+                "homepage": "https://dba-multitool.org",
                 "id": 131221823,
                 "language": "PLpgSQL",
+                "license": "MIT",
                 "last_commit": "2026-07-21T12:02:43Z",
+                "open_issues": 5,
                 "owner": "lowlydba",
                 "repo": "dba-multitool",
-                "stars": 105
+                "stars": 105,
+                "topics": [
+                  "azure-sql",
+                  "data-dictionary",
+                  "database-documentation",
+                  "dba",
+                  "documentation-generator",
+                  "hacktoberfest",
+                  "sql",
+                  "sql-server",
+                  "t-sql",
+                  "tsql"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -818,12 +1345,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parses and formats SQL Server Statistics IO and Statistics Time output.",
+                "homepage": "http://statisticsparser.com",
                 "id": 10003756,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-03-20T18:30:02Z",
+                "open_issues": 13,
                 "owner": "Jorriss",
                 "repo": "StatisticsParser",
-                "stars": 103
+                "stars": 103,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -834,12 +1366,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 116257847,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2020-03-04T17:12:10Z",
+                "open_issues": 7,
                 "owner": "suyouquan",
                 "repo": "SQLSetupTools",
-                "stars": 101
+                "stars": 101,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -850,12 +1387,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 80165484,
                 "language": "Ruby",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-30T18:20:09Z",
+                "open_issues": 4,
                 "owner": "microsoft",
                 "repo": "homebrew-mssql-release",
-                "stars": 100
+                "stars": 100,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -866,12 +1408,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A configurable target for SQL Server Extended Events. Write to a table or perform custom actions with no effort.",
+                "homepage": null,
                 "id": 55555200,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-04-17T10:18:56Z",
+                "open_issues": 13,
                 "owner": "spaghettidba",
                 "repo": "XESmartTarget",
-                "stars": 92
+                "stars": 92,
+                "topics": [
+                  "extended-events",
+                  "sql-server"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -882,12 +1432,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of cool and useful tools, procedures and scripts for the discerning DBA ",
+                "homepage": "https://sqlundercover.com",
                 "id": 95749980,
                 "language": "TSQL",
+                "license": "MIT",
                 "last_commit": "2025-09-30T16:21:06Z",
+                "open_issues": 49,
                 "owner": "SQLUndercover",
                 "repo": "UndercoverToolbox",
-                "stars": 92
+                "stars": 92,
+                "topics": [
+                  "microsoft-sql-server",
+                  "ms-sql-server",
+                  "sql-server",
+                  "sql-undercover",
+                  "sqlundercover",
+                  "undercover-toolbox"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -898,12 +1460,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenQueryStore",
+                "homepage": null,
                 "id": 91980729,
                 "language": "PLpgSQL",
+                "license": "MIT",
                 "last_commit": "2019-01-07T09:44:36Z",
+                "open_issues": 8,
                 "owner": "OpenQueryStore",
                 "repo": "OpenQueryStore",
-                "stars": 83
+                "stars": 83,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -914,12 +1481,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run regular expressions in SQL Server",
+                "homepage": null,
                 "id": 75345363,
                 "language": "C#",
+                "license": "AGPL-3.0",
                 "last_commit": "2018-10-26T03:56:21Z",
+                "open_issues": 5,
                 "owner": "DevNambi",
                 "repo": "sql-server-regex",
-                "stars": 83
+                "stars": 83,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -930,12 +1502,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sql Server driver  database interface (DBI) driver for R. This is a DBI-compliant Sql Server driver based on the System.Data.SqlClient. ",
+                "homepage": null,
                 "id": 14042396,
                 "language": "R",
+                "license": null,
                 "last_commit": "2018-02-18T09:53:46Z",
+                "open_issues": 14,
                 "owner": "agstudy",
                 "repo": "rsqlserver",
-                "stars": 83
+                "stars": 83,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -946,12 +1523,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "StackOverflow Data Dump Importer. Forked from https://bitbucket.org/bitpusher/soddi/ after the original author passed away.",
+                "homepage": null,
                 "id": 15978971,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2018-06-18T11:57:03Z",
+                "open_issues": 2,
                 "owner": "BrentOzarULTD",
                 "repo": "soddi",
-                "stars": 82
+                "stars": 82,
+                "topics": [
+                  "microsoft-sql-server",
+                  "soddi",
+                  "sql-server",
+                  "stack-overflow",
+                  "stackoverflow"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -962,12 +1550,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SQL Power Doc is a collection of Windows PowerShell scripts and modules that discover, document, and diagnose SQL Server instances and their underlying Windows OS & machine configurations.",
+                "homepage": null,
                 "id": 149139863,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2019-07-30T19:27:09Z",
+                "open_issues": 4,
                 "owner": "kendalvandyke",
                 "repo": "sqlpowerdoc",
-                "stars": 81
+                "stars": 81,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -978,12 +1571,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A big collection of SQL Server Queries and documeantations to fix your SQL Server's bottle neck",
+                "homepage": null,
                 "id": 89001093,
                 "language": "PLpgSQL",
+                "license": null,
                 "last_commit": "2017-12-11T04:27:52Z",
+                "open_issues": 1,
                 "owner": "SQLadmin",
                 "repo": "AwesomeSQLServer",
-                "stars": 80
+                "stars": 80,
+                "topics": [
+                  "dba",
+                  "sqlserver",
+                  "tsql"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -994,12 +1596,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Checklist de Segurança",
+                "homepage": null,
                 "id": 186193695,
                 "language": "TSQL",
+                "license": "MIT",
                 "last_commit": "2023-06-21T14:04:17Z",
+                "open_issues": 5,
                 "owner": "dirceuresende",
                 "repo": "checklist_seguranca",
-                "stars": 79
+                "stars": 79,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1010,12 +1617,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My SQL Server Scripts",
+                "homepage": null,
                 "id": 177047897,
                 "language": "TSQL",
+                "license": "MIT",
                 "last_commit": "2025-09-09T19:53:57Z",
+                "open_issues": 14,
                 "owner": "sqlstudent144",
                 "repo": "SQL-Server-Scripts",
-                "stars": 75
+                "stars": 75,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1026,12 +1638,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My SQL Server Scripts",
+                "homepage": null,
                 "id": 177047897,
                 "language": "TSQL",
+                "license": "MIT",
                 "last_commit": "2025-09-09T19:53:57Z",
+                "open_issues": 14,
                 "owner": "sqlstudent144",
                 "repo": "SQL-Server-Scripts",
-                "stars": 75
+                "stars": 75,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1042,12 +1659,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "tSQLt tests to highlight potential problems in your database",
+                "homepage": null,
                 "id": 192567094,
                 "language": "TSQL",
+                "license": "MIT",
                 "last_commit": "2022-08-15T09:47:27Z",
+                "open_issues": 8,
                 "owner": "red-gate",
                 "repo": "SQLCop",
-                "stars": 69
+                "stars": 69,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1058,12 +1680,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 55635266,
                 "language": "TSQL",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-16T19:30:28Z",
+                "open_issues": 32,
                 "owner": "GoEddie",
                 "repo": "SQLCover",
-                "stars": 68
+                "stars": 68,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1074,12 +1701,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A tool for mounting MS SQL Server DMVs and custom queries using FUSE.",
+                "homepage": null,
                 "id": 87345225,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2018-10-13T15:36:16Z",
+                "open_issues": 7,
                 "owner": "microsoft",
                 "repo": "dbfs",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1090,12 +1722,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "sp_CRUDGen is a free open-source SQL Server stored procedure that generates stored procedures for you based on your tables and metadata like foreign keys and data types. The generated stored procedure code utilizes the SQL Server community best practices.",
+                "homepage": "https://kevinmartin.tech/go/sp_crudgen",
                 "id": 358119234,
                 "language": "TSQL",
+                "license": "MIT",
                 "last_commit": "2024-03-10T20:37:33Z",
+                "open_issues": 5,
                 "owner": "kevinmartintech",
                 "repo": "sp_CRUDGen",
-                "stars": 56
+                "stars": 56,
+                "topics": [
+                  "database",
+                  "sql",
+                  "sql-server"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1106,12 +1747,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Includes resources for use by bloggers, microbloggers, vloggers, and origami enthusiasts who focus on SQL Server, Data, and related topics.",
+                "homepage": null,
                 "id": 187358936,
                 "language": "HTML",
+                "license": "GPL-3.0",
                 "last_commit": "2023-06-05T18:11:17Z",
+                "open_issues": 3,
                 "owner": "amtwo",
                 "repo": "Data-Blogger-Resource-Kit",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1122,12 +1768,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SQL Server Blocked Process Report Viewer",
+                "homepage": "http://michaeljswart.com",
                 "id": 120946534,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2018-02-12T14:21:23Z",
+                "open_issues": 3,
                 "owner": "mjswart-d2l",
                 "repo": "sqlblockedprocesses",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "microsoft-sql-server",
+                  "ms-sql-server",
+                  "sql-server"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1138,12 +1793,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 147885531,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-04-16T07:41:30Z",
+                "open_issues": 2,
                 "owner": "suyouquan",
                 "repo": "AGLatency",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1154,12 +1814,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Campaign optimization solution with SQL Server ML Services",
+                "homepage": null,
                 "id": 72241044,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2023-06-12T20:01:40Z",
+                "open_issues": 4,
                 "owner": "microsoft",
                 "repo": "r-server-campaign-optimization",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1170,12 +1835,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "sp_Develop can be used by database developers, software developers and for performing database code (smell) reviews.",
+                "homepage": "https://emergentsoftware.github.io/SQL-Server-Development-Assessment/",
                 "id": 288308973,
                 "language": "TSQL",
+                "license": "NOASSERTION",
                 "last_commit": "2023-05-16T21:32:25Z",
+                "open_issues": 0,
                 "owner": "EmergentSoftware",
                 "repo": "SQL-Server-Development-Assessment",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "best-practice",
+                  "best-practices",
+                  "code-analysis",
+                  "code-smells",
+                  "database-design",
+                  "database-development",
+                  "databases",
+                  "health-check",
+                  "microsoft-sql",
+                  "microsoft-sql-server",
+                  "ms-sql-server",
+                  "naming-conventions",
+                  "sp-develop",
+                  "sql-query",
+                  "sql-server",
+                  "sql-server-assess",
+                  "sql-servers",
+                  "stored-procedures",
+                  "t-sql",
+                  "tsql"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1186,12 +1877,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Microsoft SQL-Server Profiler (command-line) for Linux/Mac/Windows (works over ssh)",
+                "homepage": "https://github.com/ststeiger/ExpressProfiler",
                 "id": 119972574,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2019-03-14T15:15:40Z",
+                "open_issues": 0,
                 "owner": "ststeiger",
                 "repo": "sql_profiler",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "dotnet-core",
+                  "linux",
+                  "mac",
+                  "profiler",
+                  "sql-server",
+                  "sql-server-database",
+                  "sql-server-management-studio"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1202,12 +1906,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 99227212,
                 "language": "TSQL",
+                "license": null,
                 "last_commit": "2025-10-07T20:42:44Z",
+                "open_issues": 0,
                 "owner": "dgavrikov",
                 "repo": "databases_scripts",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1218,12 +1927,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A framework to do multi-threading in T-SQL using SQL Server Agent jobs.",
+                "homepage": null,
                 "id": 281238348,
                 "language": "TSQL",
+                "license": "MIT",
                 "last_commit": "2021-10-30T18:10:04Z",
+                "open_issues": 0,
                 "owner": "jobbish-sql",
                 "repo": "SQL-Server-Multi-Thread",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1234,12 +1948,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":spoon: A cross-platform Ansible collection using PowerShell to configure and maintain SQL Server.",
+                "homepage": "https://galaxy.ansible.com/ui/repo/published/lowlydba/sqlserver",
                 "id": 452760479,
                 "language": "PowerShell",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-17T13:19:56Z",
+                "open_issues": 7,
                 "owner": "lowlydba",
                 "repo": "lowlydba.sqlserver",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "ansible",
+                  "ansible-collection",
+                  "database",
+                  "hacktoberfest",
+                  "mssql",
+                  "sqlserver"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1250,12 +1976,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of scripts for managing logins and permissions on SQL Server databases.",
+                "homepage": null,
                 "id": 104937427,
                 "language": "TSQL",
+                "license": "MIT",
                 "last_commit": "2021-06-03T13:28:37Z",
+                "open_issues": 3,
                 "owner": "ericcobb",
                 "repo": "SQL-Server-Permissions-Manager",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "permission-manager",
+                  "sql-server",
+                  "sqlserver",
+                  "t-sql"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1266,12 +2002,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Memory Optimized Scripts Library ",
+                "homepage": null,
                 "id": 69346863,
                 "language": "PLSQL",
+                "license": "Apache-2.0",
                 "last_commit": "2016-11-08T17:46:40Z",
+                "open_issues": 1,
                 "owner": "NikoNeugebauer",
                 "repo": "MOSL",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1282,12 +2023,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This tools allows users to create translations for a translation file generated by SSDT for tabular models with the compatibility level 1200 and up",
+                "homepage": null,
                 "id": 49012285,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2019-02-23T11:11:29Z",
+                "open_issues": 5,
                 "owner": "Kjonge",
                 "repo": "TabularTranslator",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1298,12 +2044,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "R package for interacting with Azure Resource Manager",
+                "homepage": null,
                 "id": 187547779,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2025-07-31T15:28:36Z",
+                "open_issues": 4,
                 "owner": "Azure",
                 "repo": "AzureRMR",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "azure",
+                  "azure-resource-manager",
+                  "azure-sdk-r",
+                  "cloud",
+                  "r"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1314,12 +2071,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BISM Normalizer 3",
+                "homepage": "http://www.bism-normalizer.com/",
                 "id": 70960824,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-09-29T18:58:54Z",
+                "open_issues": 5,
                 "owner": "christianwade",
                 "repo": "BismNormalizer",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1330,12 +2092,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Format binary file into hex string file",
+                "homepage": "https://SqlQuantumLeap.com/",
                 "id": 99968504,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2017-12-10T19:35:39Z",
+                "open_issues": 0,
                 "owner": "SqlQuantumLeap",
                 "repo": "BinaryFormatter",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "binary",
+                  "command-line-tool",
+                  "console-application",
+                  "dotnet",
+                  "hexadecimal",
+                  "sql-server",
+                  "sqlserver"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1346,12 +2121,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Standby restore script output for Ola Hallengren's Maintenance Solution",
+                "homepage": null,
                 "id": 58937478,
                 "language": "PLSQL",
+                "license": "MIT",
                 "last_commit": "2023-06-27T15:38:05Z",
+                "open_issues": 5,
                 "owner": "jzagelbaum",
                 "repo": "OlaHallengrenRestoreScript",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1362,12 +2142,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sources for YourSqlDba : Database maintenance solution that installs as a single SQL script",
+                "homepage": null,
                 "id": 86881458,
                 "language": "TSQL",
+                "license": "LGPL-2.1",
                 "last_commit": "2026-07-31T19:57:37Z",
+                "open_issues": 0,
                 "owner": "pelsql",
                 "repo": "YourSqlDba",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "backup",
+                  "database",
+                  "database-mail",
+                  "database-maintenance",
+                  "sql-agent",
+                  "stored-procedures",
+                  "t-sql"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1378,12 +2171,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Custom collector types to extend and simplify the features offered by the built-in SQL Server Data Collector and read data from Extended Events and/or queries.",
+                "homepage": null,
                 "id": 98445349,
                 "language": "SQLPL",
+                "license": "LGPL-2.1",
                 "last_commit": "2018-03-22T17:16:23Z",
+                "open_issues": 0,
                 "owner": "spaghettidba",
                 "repo": "ExtendedTSQLCollector",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "collector",
+                  "collector-types",
+                  "extended-events",
+                  "gui",
+                  "sql-server"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1394,12 +2198,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Утилиты и скрипты для MS SQL Server DBA",
+                "homepage": null,
                 "id": 123706049,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2020-10-24T15:30:57Z",
+                "open_issues": 0,
                 "owner": "jobgemws",
                 "repo": "Projects-MS-SQL-Server-DBA",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1410,12 +2219,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The stored procedure sp_alter_column is able to alter a column with dependencies in your SQL database",
+                "homepage": null,
                 "id": 169069011,
                 "language": "TSQL",
+                "license": "MIT",
                 "last_commit": "2022-09-17T16:27:22Z",
+                "open_issues": 0,
                 "owner": "segovoni",
                 "repo": "sp_alter_column",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "alter-table",
+                  "sql-server",
+                  "stored-procedure",
+                  "utility"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1426,12 +2245,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains solutions to properly control and maintain scheduled jobs on SQL Servers with either Availability Groups or Database Mirroring",
+                "homepage": "https://git.madeiradata.com/mssql-jobs-hadr",
                 "id": 256586857,
                 "language": "TSQL",
+                "license": "MIT",
                 "last_commit": "2024-09-24T17:44:31Z",
+                "open_issues": 2,
                 "owner": "MadeiraData",
                 "repo": "mssql-jobs-hadr",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "hadr",
+                  "high-availability",
+                  "jobs",
+                  "mirroring",
+                  "mssql",
+                  "sql-server",
+                  "sqlserver",
+                  "t-sql",
+                  "tsql"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1442,12 +2276,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SQL to Excel Export Tool",
+                "homepage": null,
                 "id": 175102037,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-01-16T19:31:05Z",
+                "open_issues": 1,
                 "owner": "bornsql",
                 "repo": "sql2xls",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1458,12 +2297,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "T-Sql type checker that detects improper joins, invalid null value operations, enumeration check constraint violations, incorrect use of temporary table at call site, more. On-line demo available.",
+                "homepage": "http://tsqlstrongdemo.azurewebsites.net/",
                 "id": 130770982,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2018-05-14T23:53:11Z",
+                "open_issues": 0,
                 "owner": "JSuder-xx",
                 "repo": "TSqlStrong",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "check-constraints",
+                  "enumeration",
+                  "flow-typing",
+                  "flowtype",
+                  "null-safety",
+                  "sql",
+                  "static-code-analysis",
+                  "t-sql"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1474,12 +2327,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Backup any version of your on-premises SQL Server database to a network share, or Azure Blob Storage, and restore it too.",
+                "homepage": "https://bornsql.ca/s/azure-blob-storage-sync/",
                 "id": 35453054,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2022-12-08T04:39:26Z",
+                "open_issues": 1,
                 "owner": "bornsql",
                 "repo": "azureblobstoragesync",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1490,12 +2348,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Backup any version of your on-premises SQL Server database to a network share, or Azure Blob Storage, and restore it too.",
+                "homepage": "https://bornsql.ca/s/azure-blob-storage-sync/",
                 "id": 35453054,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2022-12-08T04:39:26Z",
+                "open_issues": 1,
                 "owner": "bornsql",
                 "repo": "azureblobstoragesync",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1506,12 +2369,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple tool to browse between dependent objects on MS SQL Server",
+                "homepage": null,
                 "id": 90300988,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2022-12-07T19:41:17Z",
+                "open_issues": 1,
                 "owner": "usharik",
                 "repo": "MsSqlDependencyBrowser",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "csharp",
+                  "dependency-analysis",
+                  "ms-sql-server",
+                  "t-sql",
+                  "tool",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1522,12 +2397,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically fix high VLF counts in SQL Server 2012+",
+                "homepage": null,
                 "id": 109624263,
                 "language": "PLpgSQL",
+                "license": "MIT",
                 "last_commit": "2018-01-21T17:38:06Z",
+                "open_issues": 0,
                 "owner": "tboggiano",
                 "repo": "autofix-vlfs",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1538,12 +2418,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 110906780,
                 "language": "TSQL",
+                "license": "MIT",
                 "last_commit": "2023-06-05T12:27:36Z",
+                "open_issues": 0,
                 "owner": "tboggiano",
                 "repo": "olamaintconfigtables",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1554,12 +2439,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SQL Server wrapper for the SimMetrics string matching algorithms",
+                "homepage": null,
                 "id": 32259316,
                 "language": "HTML",
+                "license": "GPL-3.0",
                 "last_commit": "2015-06-18T13:32:32Z",
+                "open_issues": 0,
                 "owner": "GuerrillaAnalytics",
                 "repo": "similarity",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "csharp",
+                  "fuzzy-matching",
+                  "sql",
+                  "sqlserver"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1570,12 +2465,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A website that generates SQL statements for you.",
+                "homepage": null,
                 "id": 36574165,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2015-07-09T02:34:24Z",
+                "open_issues": 7,
                 "owner": "Jorriss",
                 "repo": "SQLGenerator",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1586,12 +2486,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 112007298,
                 "language": "SQLPL",
+                "license": "MIT",
                 "last_commit": "2017-11-25T14:07:10Z",
+                "open_issues": 1,
                 "owner": "tboggiano",
                 "repo": "splittinglargefiles",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1602,12 +2507,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zabbix Template and tools for Microsoft SQL Server",
+                "homepage": null,
                 "id": 141298745,
                 "language": "PLpgSQL",
+                "license": "MIT",
                 "last_commit": "2018-07-20T11:32:34Z",
+                "open_issues": 1,
                 "owner": "dreik",
                 "repo": "ZabbixMSSQL",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "monitoring",
+                  "mssqlserver",
+                  "zabbix",
+                  "zabbix-templates"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1618,12 +2533,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Hekaton-based shock absorber pattern to ingest bursty/high-throughput data flows",
+                "homepage": null,
                 "id": 386058340,
                 "language": "PLpgSQL",
+                "license": null,
                 "last_commit": "2021-07-15T15:20:08Z",
+                "open_issues": 0,
                 "owner": "sqlsunday",
                 "repo": "shock-absorber",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1634,12 +2554,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 131528868,
                 "language": "PLSQL",
+                "license": null,
                 "last_commit": "2018-04-30T13:33:55Z",
+                "open_issues": 0,
                 "owner": "SQLJana",
                 "repo": "SQLServerSpaceAnalysis",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1650,12 +2575,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HammerDb Benchmark Setup Scripts for SQL Server",
+                "homepage": null,
                 "id": 358213216,
                 "language": "PowerShell",
+                "license": null,
                 "last_commit": "2021-06-01T21:22:32Z",
+                "open_issues": 1,
                 "owner": "swarchy",
                 "repo": "HammerDBBenchmark",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1666,12 +2596,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MSSQL Telegram Bot",
+                "homepage": null,
                 "id": 111404704,
                 "language": "SQLPL",
+                "license": "MIT",
                 "last_commit": "2017-11-20T11:59:53Z",
+                "open_issues": 0,
                 "owner": "ionflux",
                 "repo": "mssql-telegram-bot",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1682,12 +2617,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Replication library written for MS SQL Sever Express edition which can not stand as articles publisher",
+                "homepage": null,
                 "id": 46226827,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2020-12-17T23:07:20Z",
+                "open_issues": 0,
                 "owner": "janhalama",
                 "repo": "ms-sql-express-replication",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1698,12 +2638,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Microsoft repository for SQL Server in Docker resources",
+                "homepage": null,
                 "id": 94693868,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2017-05-26T07:38:18Z",
+                "open_issues": 0,
                 "owner": "ktaranov",
                 "repo": "mssql-docker",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             }
@@ -1721,12 +2666,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+                "homepage": "https://influxdata.com/telegraf",
                 "id": 33258973,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-26T18:55:34Z",
+                "open_issues": 427,
                 "owner": "influxdata",
                 "repo": "telegraf",
-                "stars": 17777
+                "stars": 17776,
+                "topics": [
+                  "golang",
+                  "hacktoberfest",
+                  "influxdb",
+                  "json",
+                  "kafka",
+                  "logs",
+                  "metrics",
+                  "modbus",
+                  "monitoring",
+                  "mqtt",
+                  "opcua",
+                  "t",
+                  "telegraf",
+                  "telemetry-collection",
+                  "time-series",
+                  "windows-eventlog",
+                  "xpath"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1737,12 +2705,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge",
+                "homepage": null,
                 "id": 53698446,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T19:12:45Z",
+                "open_issues": 298,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11203
+                "stars": 11202,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1753,12 +2726,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "What are the differences between the transaction isolation levels in databases? This is a suite of test cases which differentiate isolation levels.",
+                "homepage": "http://martin.kleppmann.com/2014/11/25/hermitage-testing-the-i-in-acid.html",
                 "id": 26289803,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-01-23T21:00:49Z",
+                "open_issues": 2,
                 "owner": "ept",
                 "repo": "hermitage",
-                "stars": 2745
+                "stars": 2745,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1769,12 +2747,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DbUp is a .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date.  ",
+                "homepage": "http://dbup.github.io",
                 "id": 4995017,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-02-23T23:09:58Z",
+                "open_issues": 80,
                 "owner": "DbUp",
                 "repo": "DbUp",
-                "stars": 2624
+                "stars": 2624,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1785,12 +2768,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SQL Server monitor, manages sql server performance, monitor sql server processes and jobs, analyze performance, analyse system, object version control, view executing sql query, kill process / job, object explorer, database shrink/log truncate/backup/detach/attach.",
+                "homepage": null,
                 "id": 41852282,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2022-02-07T23:08:32Z",
+                "open_issues": 4,
                 "owner": "unruledboy",
                 "repo": "SQLMonitor",
-                "stars": 294
+                "stars": 294,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1801,12 +2789,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A C# parser for MDF files. Allows you to read tables, metadata and indexes from MDF files without it being attached to a running SQL Server instance.",
+                "homepage": "http://improve.dk/archive/2011/05/03/introducing-orcamdf.aspx",
                 "id": 1620104,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2020-05-10T23:26:37Z",
+                "open_issues": 11,
                 "owner": "improvedk",
                 "repo": "OrcaMDF",
-                "stars": 191
+                "stars": 191,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1817,12 +2810,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Supporting files for the main SQLCallStackResolver sample tool (https://aka.ms/SQLStack)",
+                "homepage": null,
                 "id": 79315569,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-06-02T19:25:08Z",
+                "open_issues": 2,
                 "owner": "arvindsh",
                 "repo": "SQLCallStackResolver",
-                "stars": 56
+                "stars": 56,
+                "topics": [
+                  "callstack",
+                  "clrmd",
+                  "debugging",
+                  "diasdk",
+                  "dll",
+                  "frames",
+                  "hacktoberfest",
+                  "internals",
+                  "msdia140",
+                  "pdb",
+                  "pdbs",
+                  "performance-analysis",
+                  "sql-releases",
+                  "sqlserver",
+                  "sqlserver-2017",
+                  "sqlserver-2019",
+                  "stack",
+                  "troubleshooting",
+                  "windbg",
+                  "xevents"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1833,12 +2852,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This project provides a solution for automatically restoring SQL Server transaction log backups.  Designed for scale.  Works directly with backups in Azure blob or UNC path",
+                "homepage": null,
                 "id": 651440436,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-03T23:54:31Z",
+                "open_issues": 4,
                 "owner": "trimble-oss",
                 "repo": "sql-log-shipping-service",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "sql-server"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1849,12 +2875,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 287451874,
                 "language": "TSQL",
+                "license": null,
                 "last_commit": "2020-08-20T06:11:31Z",
+                "open_issues": 0,
                 "owner": "SQLGrillen",
                 "repo": "NSOD-1",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1865,12 +2896,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tool for searching a Microsoft Sql Server database for tables, views, indexes, stored procedures and functions",
+                "homepage": null,
                 "id": 80083875,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2021-11-19T13:05:27Z",
+                "open_issues": 1,
                 "owner": "CoderAllan",
                 "repo": "SqlServerSearcher",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "search",
+                  "sqlserver",
+                  "tool"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             }
@@ -1889,12 +2929,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 SQL Server automation and instance migrations have never been safer, faster or freer",
+            "homepage": "https://dbatools.io",
             "id": 30215226,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2026-08-28T20:42:52Z",
+            "open_issues": 52,
             "owner": "dataplat",
             "repo": "dbatools",
-            "stars": 2828
+            "stars": 2828,
+            "topics": [
+              "backup",
+              "best-practices",
+              "database",
+              "database-administration",
+              "migrations",
+              "mssql",
+              "powershell",
+              "sql-server",
+              "sql-server-migration"
+            ]
           },
           "first_seen": "2026-08-28T23:43:12.098Z"
         },
@@ -1905,12 +2960,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PowerUpSQL: A PowerShell Toolkit for Attacking SQL Server",
+            "homepage": null,
             "id": 61678850,
             "language": "PowerShell",
+            "license": "NOASSERTION",
             "last_commit": "2024-12-12T18:09:39Z",
+            "open_issues": 26,
             "owner": "NetSPI",
             "repo": "PowerUpSQL",
-            "stars": 2738
+            "stars": 2738,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:43:12.098Z"
         },
@@ -1921,12 +2981,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reporting Services Powershell Tools",
+            "homepage": null,
             "id": 70360005,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2025-04-03T16:11:15Z",
+            "open_issues": 129,
             "owner": "microsoft",
             "repo": "ReportingServicesTools",
-            "stars": 510
+            "stars": 510,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:43:12.098Z"
         },
@@ -1937,12 +3002,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This module contains commands and DSC resources for deployment and configuration of Microsoft SQL Server, SQL Server Reporting Services and Power BI Report Server.",
+            "homepage": null,
             "id": 34022262,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2026-08-24T15:13:59Z",
+            "open_issues": 295,
             "owner": "dsccommunity",
             "repo": "SqlServerDsc",
-            "stars": 386
+            "stars": 386,
+            "topics": [
+              "dsc",
+              "dsc-resources",
+              "hacktoberfest",
+              "powerbi",
+              "powerbireportserver",
+              "report-server",
+              "reporting-services",
+              "reportserver",
+              "sql-server",
+              "sqlserver"
+            ]
           },
           "first_seen": "2026-08-28T23:43:12.098Z"
         },
@@ -1953,12 +3034,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "PowerShell Module to gather, store and report on data about your estate. **This repository has been archived due to no longer being maintained.**",
+            "homepage": null,
             "id": 66062174,
             "language": "PowerShell",
+            "license": "GPL-3.0",
             "last_commit": "2018-12-08T11:13:02Z",
+            "open_issues": 30,
             "owner": "dataplat",
             "repo": "dbareports",
-            "stars": 110
+            "stars": 110,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:43:12.098Z"
         },
@@ -1969,12 +3055,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SQL PowerShell Extensions",
+            "homepage": null,
             "id": 37301006,
             "language": "PowerShell",
+            "license": "MS-PL",
             "last_commit": "2018-02-02T21:02:08Z",
+            "open_issues": 12,
             "owner": "MikeShepard",
             "repo": "SQLPSX",
-            "stars": 97
+            "stars": 97,
+            "topics": [
+              "adonet",
+              "powershell",
+              "smo",
+              "sqlserver"
+            ]
           },
           "first_seen": "2026-08-28T23:43:12.098Z"
         },
@@ -1985,12 +3081,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 45649777,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2015-12-03T01:03:07Z",
+            "open_issues": 2,
             "owner": "SpeedySQL",
             "repo": "HealthCheck",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:43:12.098Z"
         },
@@ -2001,12 +3102,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Export the resuts from Glenn Berry's DMV queries directly to Excel",
+            "homepage": null,
             "id": 68296593,
             "language": "PowerShell",
+            "license": null,
             "last_commit": "2017-04-20T08:27:01Z",
+            "open_issues": 2,
             "owner": "sanderstad",
             "repo": "Export-DMVInformation",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:43:12.098Z"
         },
@@ -2017,12 +3123,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Powershell SQL Server Library ",
+            "homepage": null,
             "id": 41026992,
             "language": "PowerShell",
+            "license": null,
             "last_commit": "2017-01-13T09:29:20Z",
+            "open_issues": 2,
             "owner": "sanderstad",
             "repo": "PSSQLLib",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:43:12.098Z"
         },
@@ -2033,12 +3144,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Export one or more query results run against one or more instances/databases to table",
+            "homepage": null,
             "id": 117019103,
             "language": "PowerShell",
+            "license": null,
             "last_commit": "2018-06-04T18:55:01Z",
+            "open_issues": 0,
             "owner": "SQLJana",
             "repo": "Export-QueryToSQLTable",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:43:12.098Z"
         },
@@ -2049,12 +3165,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SQL Server Universal Instalation Scripts",
+            "homepage": null,
             "id": 49833892,
             "language": "PowerShell",
+            "license": null,
             "last_commit": "2015-09-19T05:25:47Z",
+            "open_issues": 0,
             "owner": "ktaranov",
             "repo": "Universal-SQL-Installation-Scripts",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:43:12.098Z"
         }
@@ -2063,15 +3184,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:43:12.098Z",
+    "last_updated": "2026-08-29T04:27:30.652Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Useful links, scripts, tools and best practice for Microsoft SQL Server Database",
+      "homepage": "http://sqlserver-kit.org",
       "id": 24328843,
       "language": "TSQL",
+      "license": "MIT",
       "last_commit": "2026-03-13T10:34:38Z",
+      "open_issues": 3,
       "owner": "ktaranov",
       "repo": "sqlserver-kit",
-      "stars": 2395
+      "stars": 2395,
+      "topics": [
+        "awesome-list",
+        "biml-resources",
+        "microsoft-sql",
+        "powershell",
+        "r",
+        "sql-powershell",
+        "sql-server",
+        "sql-server-database",
+        "t-sql",
+        "trace-flag",
+        "tsql"
+      ]
     },
     "original_repository_sha": "887ec1ee8317b04542b80170925498b5b4ff04fa",
     "enhanced_repository": "enhansome/enhansome-sqlserver-kit",
