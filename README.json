@@ -49,10 +49,10 @@
                 "language": "PowerShell",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-03T00:14:35Z",
-                "open_issues": 288,
+                "open_issues": 289,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11206,
+                "stars": 11205,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -85,7 +85,7 @@
                     "open_issues": 20,
                     "owner": "NUKnightLab",
                     "repo": "sql-mysteries",
-                    "stars": 2201,
+                    "stars": 2203,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.098Z"
@@ -106,7 +106,7 @@
                     "open_issues": 0,
                     "owner": "smpetersgithub",
                     "repo": "AdvancedSQLPuzzles",
-                    "stars": 919,
+                    "stars": 921,
                     "topics": [
                       "problems",
                       "puzzles",
@@ -199,10 +199,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-03T15:40:39Z",
-                "open_issues": 331,
+                "open_issues": 335,
                 "owner": "sqlfluff",
                 "repo": "sqlfluff",
-                "stars": 9865,
+                "stars": 9866,
                 "topics": [
                   "hacktoberfest",
                   "pypi",
@@ -323,7 +323,7 @@
                 "open_issues": 85,
                 "owner": "mevdschee",
                 "repo": "php-crud-api",
-                "stars": 3738,
+                "stars": 3739,
                 "topics": [
                   "api-server",
                   "automatic-api",
@@ -396,10 +396,10 @@
                 "language": "TSQL",
                 "license": "MIT",
                 "last_commit": "2026-08-23T12:49:17Z",
-                "open_issues": 239,
+                "open_issues": 238,
                 "owner": "olahallengren",
                 "repo": "sql-server-maintenance-solution",
-                "stars": 3474,
+                "stars": 3477,
                 "topics": [
                   "sqlserver"
                 ]
@@ -450,7 +450,7 @@
                 "open_issues": 180,
                 "owner": "sqlkata",
                 "repo": "querybuilder",
-                "stars": 3379,
+                "stars": 3380,
                 "topics": [
                   "activerecord",
                   "c-sharp",
@@ -597,7 +597,7 @@
                 "open_issues": 1,
                 "owner": "ErikEJ",
                 "repo": "SqlQueryStress",
-                "stars": 1107,
+                "stars": 1108,
                 "topics": [
                   "performance",
                   "sql-server",
@@ -923,8 +923,8 @@
                 "id": 439129686,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-02T06:32:02Z",
-                "open_issues": 86,
+                "last_commit": "2026-09-03T18:26:59Z",
+                "open_issues": 87,
                 "owner": "trimble-oss",
                 "repo": "dba-dash",
                 "stars": 429,
@@ -1290,7 +1290,7 @@
                 "id": 181921311,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T09:11:21Z",
+                "last_commit": "2026-09-03T21:15:30Z",
                 "open_issues": 16,
                 "owner": "microsoft",
                 "repo": "sql-server-language-extensions",
@@ -1953,8 +1953,8 @@
                 "id": 452760479,
                 "language": "PowerShell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-17T13:19:56Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-04T17:47:58Z",
+                "open_issues": 8,
                 "owner": "lowlydba",
                 "repo": "lowlydba.sqlserver",
                 "stars": 26,
@@ -2671,11 +2671,11 @@
                 "id": 33258973,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-03T17:56:34Z",
-                "open_issues": 422,
+                "last_commit": "2026-09-04T13:57:54Z",
+                "open_issues": 415,
                 "owner": "influxdata",
                 "repo": "telegraf",
-                "stars": 17791,
+                "stars": 17793,
                 "topics": [
                   "golang",
                   "hacktoberfest",
@@ -2711,10 +2711,10 @@
                 "language": "PowerShell",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-03T00:14:35Z",
-                "open_issues": 288,
+                "open_issues": 289,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11206,
+                "stars": 11205,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -2935,7 +2935,7 @@
             "language": "PowerShell",
             "license": "MIT",
             "last_commit": "2026-09-03T14:02:18Z",
-            "open_issues": 45,
+            "open_issues": 46,
             "owner": "dataplat",
             "repo": "dbatools",
             "stars": 2829,
@@ -3184,7 +3184,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T18:07:51.476Z",
+    "last_updated": "2026-09-04T17:50:36.370Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful links, scripts, tools and best practice for Microsoft SQL Server Database",
