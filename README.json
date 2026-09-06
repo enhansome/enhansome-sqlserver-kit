@@ -24,7 +24,7 @@
                 "open_issues": 0,
                 "owner": "BrentOzar",
                 "repo": "sqlblogs",
-                "stars": 45,
+                "stars": 46,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -52,7 +52,7 @@
                 "open_issues": 289,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11206,
+                "stars": 11207,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -85,7 +85,7 @@
                     "open_issues": 20,
                     "owner": "NUKnightLab",
                     "repo": "sql-mysteries",
-                    "stars": 2203,
+                    "stars": 2204,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.098Z"
@@ -165,7 +165,7 @@
                 "open_issues": 2608,
                 "owner": "microsoft",
                 "repo": "azuredatastudio",
-                "stars": 7684,
+                "stars": 7683,
                 "topics": [
                   "azure",
                   "azure-data-studio",
@@ -198,11 +198,11 @@
                 "id": 155790228,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-05T12:55:45Z",
-                "open_issues": 329,
+                "last_commit": "2026-09-06T13:33:00Z",
+                "open_issues": 328,
                 "owner": "sqlfluff",
                 "repo": "sqlfluff",
-                "stars": 9865,
+                "stars": 9866,
                 "topics": [
                   "hacktoberfest",
                   "pypi",
@@ -289,7 +289,7 @@
                 "language": "TSQL",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-23T13:45:40Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "BrentOzarULTD",
                 "repo": "SQL-Server-First-Responder-Kit",
                 "stars": 3898,
@@ -422,7 +422,7 @@
                 "open_issues": 0,
                 "owner": "bosun-monitor",
                 "repo": "bosun",
-                "stars": 3390,
+                "stars": 3389,
                 "topics": [
                   "alerting",
                   "bosun",
@@ -572,7 +572,7 @@
                 "open_issues": 19,
                 "owner": "amachanic",
                 "repo": "sp_whoisactive",
-                "stars": 1400,
+                "stars": 1399,
                 "topics": [
                   "monitoring",
                   "sql",
@@ -593,8 +593,8 @@
                 "id": 49008102,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-08-20T08:23:24Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-06T13:00:31Z",
+                "open_issues": 2,
                 "owner": "ErikEJ",
                 "repo": "SqlQueryStress",
                 "stars": 1108,
@@ -618,7 +618,7 @@
                 "id": 76404,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-09-04T18:53:23Z",
+                "last_commit": "2026-09-06T14:31:24Z",
                 "open_issues": 23,
                 "owner": "rails-sqlserver",
                 "repo": "activerecord-sqlserver-adapter",
@@ -730,7 +730,7 @@
                 "open_issues": 1,
                 "owner": "erikdarlingdata",
                 "repo": "DarlingData",
-                "stars": 722,
+                "stars": 723,
                 "topics": [
                   "extended-events",
                   "index",
@@ -2672,10 +2672,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-04T17:51:26Z",
-                "open_issues": 417,
+                "open_issues": 418,
                 "owner": "influxdata",
                 "repo": "telegraf",
-                "stars": 17796,
+                "stars": 17794,
                 "topics": [
                   "golang",
                   "hacktoberfest",
@@ -2714,7 +2714,7 @@
                 "open_issues": 289,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11206,
+                "stars": 11207,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -2735,7 +2735,7 @@
                 "open_issues": 2,
                 "owner": "ept",
                 "repo": "hermitage",
-                "stars": 2746,
+                "stars": 2747,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -2935,7 +2935,7 @@
             "language": "PowerShell",
             "license": "MIT",
             "last_commit": "2026-09-03T14:02:18Z",
-            "open_issues": 46,
+            "open_issues": 47,
             "owner": "dataplat",
             "repo": "dbatools",
             "stars": 2829,
@@ -3184,7 +3184,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T16:58:00.118Z",
+    "last_updated": "2026-09-06T17:22:00.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful links, scripts, tools and best practice for Microsoft SQL Server Database",
@@ -3196,7 +3196,7 @@
       "open_issues": 3,
       "owner": "ktaranov",
       "repo": "sqlserver-kit",
-      "stars": 2395,
+      "stars": 2396,
       "topics": [
         "awesome-list",
         "biml-resources",
