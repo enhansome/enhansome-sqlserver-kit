@@ -52,7 +52,7 @@
                 "open_issues": 289,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11212,
+                "stars": 11216,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -165,7 +165,7 @@
                 "open_issues": 2608,
                 "owner": "microsoft",
                 "repo": "azuredatastudio",
-                "stars": 7683,
+                "stars": 7682,
                 "topics": [
                   "azure",
                   "azure-data-studio",
@@ -198,8 +198,8 @@
                 "id": 155790228,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-07T13:20:31Z",
-                "open_issues": 326,
+                "last_commit": "2026-09-08T03:24:29Z",
+                "open_issues": 320,
                 "owner": "sqlfluff",
                 "repo": "sqlfluff",
                 "stars": 9866,
@@ -481,7 +481,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-03T07:04:36Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "ErikEJ",
                 "repo": "EFCorePowerTools",
                 "stars": 2515,
@@ -618,7 +618,7 @@
                 "id": 76404,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-09-06T14:31:24Z",
+                "last_commit": "2026-09-07T19:32:29Z",
                 "open_issues": 23,
                 "owner": "rails-sqlserver",
                 "repo": "activerecord-sqlserver-adapter",
@@ -653,7 +653,7 @@
                 "open_issues": 64,
                 "owner": "Mimetis",
                 "repo": "Dotmim.Sync",
-                "stars": 980,
+                "stars": 979,
                 "topics": [
                   "change-tracking",
                   "changetracking",
@@ -923,8 +923,8 @@
                 "id": 439129686,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-07T16:22:12Z",
-                "open_issues": 86,
+                "last_commit": "2026-09-08T10:15:50Z",
+                "open_issues": 85,
                 "owner": "trimble-oss",
                 "repo": "dba-dash",
                 "stars": 427,
@@ -1953,7 +1953,7 @@
                 "id": 452760479,
                 "language": "PowerShell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-06T21:25:21Z",
+                "last_commit": "2026-09-08T14:12:26Z",
                 "open_issues": 2,
                 "owner": "lowlydba",
                 "repo": "lowlydba.sqlserver",
@@ -2671,11 +2671,11 @@
                 "id": 33258973,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-07T18:12:03Z",
-                "open_issues": 404,
+                "last_commit": "2026-09-08T15:58:55Z",
+                "open_issues": 406,
                 "owner": "influxdata",
                 "repo": "telegraf",
-                "stars": 17795,
+                "stars": 17797,
                 "topics": [
                   "golang",
                   "hacktoberfest",
@@ -2688,7 +2688,6 @@
                   "monitoring",
                   "mqtt",
                   "opcua",
-                  "t",
                   "telegraf",
                   "telemetry-collection",
                   "time-series",
@@ -2714,7 +2713,7 @@
                 "open_issues": 289,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11212,
+                "stars": 11216,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -2735,7 +2734,7 @@
                 "open_issues": 2,
                 "owner": "ept",
                 "repo": "hermitage",
-                "stars": 2747,
+                "stars": 2746,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -3184,7 +3183,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:53:21.380Z",
+    "last_updated": "2026-09-08T18:08:45.075Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful links, scripts, tools and best practice for Microsoft SQL Server Database",
