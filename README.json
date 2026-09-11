@@ -48,8 +48,8 @@
                 "id": 53698446,
                 "language": "PowerShell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T15:27:23Z",
-                "open_issues": 286,
+                "last_commit": "2026-09-10T21:18:14Z",
+                "open_issues": 284,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
                 "stars": 11216,
@@ -85,7 +85,7 @@
                     "open_issues": 20,
                     "owner": "NUKnightLab",
                     "repo": "sql-mysteries",
-                    "stars": 2211,
+                    "stars": 2215,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.098Z"
@@ -106,7 +106,7 @@
                     "open_issues": 0,
                     "owner": "smpetersgithub",
                     "repo": "AdvancedSQLPuzzles",
-                    "stars": 922,
+                    "stars": 923,
                     "topics": [
                       "problems",
                       "puzzles",
@@ -165,7 +165,7 @@
                 "open_issues": 2608,
                 "owner": "microsoft",
                 "repo": "azuredatastudio",
-                "stars": 7682,
+                "stars": 7681,
                 "topics": [
                   "azure",
                   "azure-data-studio",
@@ -198,11 +198,11 @@
                 "id": 155790228,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-10T13:59:56Z",
-                "open_issues": 319,
+                "last_commit": "2026-09-11T05:43:57Z",
+                "open_issues": 320,
                 "owner": "sqlfluff",
                 "repo": "sqlfluff",
-                "stars": 9866,
+                "stars": 9868,
                 "topics": [
                   "hacktoberfest",
                   "pypi",
@@ -292,7 +292,7 @@
                 "open_issues": 13,
                 "owner": "BrentOzarULTD",
                 "repo": "SQL-Server-First-Responder-Kit",
-                "stars": 3898,
+                "stars": 3899,
                 "topics": [
                   "first-responder-kit",
                   "health-checks",
@@ -399,7 +399,7 @@
                 "open_issues": 240,
                 "owner": "olahallengren",
                 "repo": "sql-server-maintenance-solution",
-                "stars": 3479,
+                "stars": 3480,
                 "topics": [
                   "sqlserver"
                 ]
@@ -481,7 +481,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-03T07:04:36Z",
-                "open_issues": 6,
+                "open_issues": 4,
                 "owner": "ErikEJ",
                 "repo": "EFCorePowerTools",
                 "stars": 2515,
@@ -515,7 +515,7 @@
                 "open_issues": 525,
                 "owner": "microsoft",
                 "repo": "mssql-docker",
-                "stars": 1884,
+                "stars": 1885,
                 "topics": [
                   "database",
                   "docker",
@@ -618,8 +618,8 @@
                 "id": 76404,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-09-07T19:32:29Z",
-                "open_issues": 23,
+                "last_commit": "2026-09-10T20:23:56Z",
+                "open_issues": 22,
                 "owner": "rails-sqlserver",
                 "repo": "activerecord-sqlserver-adapter",
                 "stars": 981,
@@ -885,7 +885,7 @@
                 "open_issues": 98,
                 "owner": "tSQLt-org",
                 "repo": "tSQLt",
-                "stars": 466,
+                "stars": 467,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -923,8 +923,8 @@
                 "id": 439129686,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-08T10:15:50Z",
-                "open_issues": 85,
+                "last_commit": "2026-09-11T15:14:13Z",
+                "open_issues": 86,
                 "owner": "trimble-oss",
                 "repo": "dba-dash",
                 "stars": 428,
@@ -1267,7 +1267,7 @@
                 "language": "TSQL",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-08-27T14:41:41Z",
-                "open_issues": 6,
+                "open_issues": 5,
                 "owner": "amtwo",
                 "repo": "dba-database",
                 "stars": 152,
@@ -1290,8 +1290,8 @@
                 "id": 181921311,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T17:13:42Z",
-                "open_issues": 16,
+                "last_commit": "2026-09-11T04:30:08Z",
+                "open_issues": 15,
                 "owner": "microsoft",
                 "repo": "sql-server-language-extensions",
                 "stars": 117,
@@ -1654,6 +1654,27 @@
             },
             {
               "node_type": "item",
+              "title": "SQLCover - TSQL code coverage tool for SQL Server 2008+",
+              "description": "(by Ed Elliott) (Github)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 55635266,
+                "language": "TSQL",
+                "license": "Apache-2.0",
+                "last_commit": "2024-01-16T19:30:28Z",
+                "open_issues": 32,
+                "owner": "GoEddie",
+                "repo": "SQLCover",
+                "stars": 69,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
+            },
+            {
+              "node_type": "item",
               "title": "SQLCop - tSQLt tests to highlight potential problems in your database",
               "description": "(Red Gate)",
               "children": [],
@@ -1669,27 +1690,6 @@
                 "owner": "red-gate",
                 "repo": "SQLCop",
                 "stars": 69,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T23:43:12.098Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SQLCover - TSQL code coverage tool for SQL Server 2008+",
-              "description": "(by Ed Elliott) (Github)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 55635266,
-                "language": "TSQL",
-                "license": "Apache-2.0",
-                "last_commit": "2024-01-16T19:30:28Z",
-                "open_issues": 32,
-                "owner": "GoEddie",
-                "repo": "SQLCover",
-                "stars": 68,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -1953,7 +1953,7 @@
                 "id": 452760479,
                 "language": "PowerShell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-09T16:21:42Z",
+                "last_commit": "2026-09-11T13:16:41Z",
                 "open_issues": 2,
                 "owner": "lowlydba",
                 "repo": "lowlydba.sqlserver",
@@ -2671,11 +2671,11 @@
                 "id": 33258973,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-10T17:03:17Z",
-                "open_issues": 413,
+                "last_commit": "2026-09-11T17:47:49Z",
+                "open_issues": 418,
                 "owner": "influxdata",
                 "repo": "telegraf",
-                "stars": 17800,
+                "stars": 17801,
                 "topics": [
                   "golang",
                   "hacktoberfest",
@@ -2709,8 +2709,8 @@
                 "id": 53698446,
                 "language": "PowerShell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T15:27:23Z",
-                "open_issues": 286,
+                "last_commit": "2026-09-10T21:18:14Z",
+                "open_issues": 284,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
                 "stars": 11216,
@@ -2937,7 +2937,7 @@
             "open_issues": 51,
             "owner": "dataplat",
             "repo": "dbatools",
-            "stars": 2831,
+            "stars": 2832,
             "topics": [
               "backup",
               "best-practices",
@@ -2968,7 +2968,7 @@
             "open_issues": 26,
             "owner": "NetSPI",
             "repo": "PowerUpSQL",
-            "stars": 2741,
+            "stars": 2742,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:12.098Z"
@@ -3183,7 +3183,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T17:55:07.797Z",
+    "last_updated": "2026-09-11T17:56:52.506Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful links, scripts, tools and best practice for Microsoft SQL Server Database",
@@ -3195,7 +3195,7 @@
       "open_issues": 3,
       "owner": "ktaranov",
       "repo": "sqlserver-kit",
-      "stars": 2396,
+      "stars": 2398,
       "topics": [
         "awesome-list",
         "biml-resources",
