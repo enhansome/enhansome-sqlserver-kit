@@ -49,7 +49,7 @@
                 "language": "PowerShell",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-11T20:18:33Z",
-                "open_issues": 284,
+                "open_issues": 285,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
                 "stars": 11220,
@@ -165,7 +165,7 @@
                 "open_issues": 2608,
                 "owner": "microsoft",
                 "repo": "azuredatastudio",
-                "stars": 7680,
+                "stars": 7682,
                 "topics": [
                   "azure",
                   "azure-data-studio",
@@ -202,7 +202,7 @@
                 "open_issues": 329,
                 "owner": "sqlfluff",
                 "repo": "sqlfluff",
-                "stars": 9872,
+                "stars": 9873,
                 "topics": [
                   "hacktoberfest",
                   "pypi",
@@ -292,7 +292,7 @@
                 "open_issues": 2,
                 "owner": "BrentOzarULTD",
                 "repo": "SQL-Server-First-Responder-Kit",
-                "stars": 3899,
+                "stars": 3900,
                 "topics": [
                   "first-responder-kit",
                   "health-checks",
@@ -364,7 +364,7 @@
                 "open_issues": 220,
                 "owner": "fluentmigrator",
                 "repo": "fluentmigrator",
-                "stars": 3511,
+                "stars": 3512,
                 "topics": [
                   "database",
                   "database-schema",
@@ -399,7 +399,7 @@
                 "open_issues": 240,
                 "owner": "olahallengren",
                 "repo": "sql-server-maintenance-solution",
-                "stars": 3483,
+                "stars": 3485,
                 "topics": [
                   "sqlserver"
                 ]
@@ -515,7 +515,7 @@
                 "open_issues": 525,
                 "owner": "microsoft",
                 "repo": "mssql-docker",
-                "stars": 1885,
+                "stars": 1886,
                 "topics": [
                   "database",
                   "docker",
@@ -835,7 +835,7 @@
                 "open_issues": 17,
                 "owner": "albertodonato",
                 "repo": "query-exporter",
-                "stars": 535,
+                "stars": 536,
                 "topics": [
                   "database",
                   "metrics",
@@ -885,7 +885,7 @@
                 "open_issues": 98,
                 "owner": "tSQLt-org",
                 "repo": "tSQLt",
-                "stars": 467,
+                "stars": 468,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -923,7 +923,7 @@
                 "id": 439129686,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-14T13:26:10Z",
+                "last_commit": "2026-09-15T13:27:30Z",
                 "open_issues": 85,
                 "owner": "trimble-oss",
                 "repo": "dba-dash",
@@ -1202,7 +1202,7 @@
                 "open_issues": 0,
                 "owner": "MadeiraData",
                 "repo": "MadeiraToolbox",
-                "stars": 198,
+                "stars": 199,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -2671,8 +2671,8 @@
                 "id": 33258973,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-14T15:23:38Z",
-                "open_issues": 429,
+                "last_commit": "2026-09-15T15:43:47Z",
+                "open_issues": 430,
                 "owner": "influxdata",
                 "repo": "telegraf",
                 "stars": 17803,
@@ -2710,7 +2710,7 @@
                 "language": "PowerShell",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-11T20:18:33Z",
-                "open_issues": 284,
+                "open_issues": 285,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
                 "stars": 11220,
@@ -2734,7 +2734,7 @@
                 "open_issues": 2,
                 "owner": "ept",
                 "repo": "hermitage",
-                "stars": 2745,
+                "stars": 2744,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -2776,7 +2776,7 @@
                 "open_issues": 4,
                 "owner": "unruledboy",
                 "repo": "SQLMonitor",
-                "stars": 295,
+                "stars": 294,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -2937,7 +2937,7 @@
             "open_issues": 38,
             "owner": "dataplat",
             "repo": "dbatools",
-            "stars": 2832,
+            "stars": 2833,
             "topics": [
               "backup",
               "best-practices",
@@ -3010,7 +3010,7 @@
             "open_issues": 295,
             "owner": "dsccommunity",
             "repo": "SqlServerDsc",
-            "stars": 383,
+            "stars": 384,
             "topics": [
               "dsc",
               "dsc-resources",
@@ -3183,7 +3183,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T19:37:45.755Z",
+    "last_updated": "2026-09-15T18:31:15.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful links, scripts, tools and best practice for Microsoft SQL Server Database",
