@@ -52,7 +52,7 @@
                 "open_issues": 286,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11220,
+                "stars": 11221,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -85,7 +85,7 @@
                     "open_issues": 20,
                     "owner": "NUKnightLab",
                     "repo": "sql-mysteries",
-                    "stars": 2216,
+                    "stars": 2217,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.098Z"
@@ -165,7 +165,7 @@
                 "open_issues": 2608,
                 "owner": "microsoft",
                 "repo": "azuredatastudio",
-                "stars": 7681,
+                "stars": 7682,
                 "topics": [
                   "azure",
                   "azure-data-studio",
@@ -198,8 +198,8 @@
                 "id": 155790228,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-13T10:15:51Z",
-                "open_issues": 332,
+                "last_commit": "2026-09-17T11:41:54Z",
+                "open_issues": 329,
                 "owner": "sqlfluff",
                 "repo": "sqlfluff",
                 "stars": 9876,
@@ -292,7 +292,7 @@
                 "open_issues": 2,
                 "owner": "BrentOzarULTD",
                 "repo": "SQL-Server-First-Responder-Kit",
-                "stars": 3902,
+                "stars": 3903,
                 "topics": [
                   "first-responder-kit",
                   "health-checks",
@@ -323,7 +323,7 @@
                 "open_issues": 85,
                 "owner": "mevdschee",
                 "repo": "php-crud-api",
-                "stars": 3739,
+                "stars": 3738,
                 "topics": [
                   "api-server",
                   "automatic-api",
@@ -484,7 +484,7 @@
                 "open_issues": 4,
                 "owner": "ErikEJ",
                 "repo": "EFCorePowerTools",
-                "stars": 2515,
+                "stars": 2514,
                 "topics": [
                   "dbcontext",
                   "dotnet",
@@ -622,7 +622,7 @@
                 "open_issues": 24,
                 "owner": "rails-sqlserver",
                 "repo": "activerecord-sqlserver-adapter",
-                "stars": 981,
+                "stars": 980,
                 "topics": [
                   "activerecord",
                   "database",
@@ -730,7 +730,7 @@
                 "open_issues": 1,
                 "owner": "erikdarlingdata",
                 "repo": "DarlingData",
-                "stars": 723,
+                "stars": 724,
                 "topics": [
                   "extended-events",
                   "index",
@@ -832,7 +832,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-29T07:33:26Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "albertodonato",
                 "repo": "query-exporter",
                 "stars": 536,
@@ -923,8 +923,8 @@
                 "id": 439129686,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-16T06:47:54Z",
-                "open_issues": 86,
+                "last_commit": "2026-09-17T15:28:57Z",
+                "open_issues": 79,
                 "owner": "trimble-oss",
                 "repo": "dba-dash",
                 "stars": 429,
@@ -1953,7 +1953,7 @@
                 "id": 452760479,
                 "language": "PowerShell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-12T15:52:40Z",
+                "last_commit": "2026-09-17T17:26:48Z",
                 "open_issues": 2,
                 "owner": "lowlydba",
                 "repo": "lowlydba.sqlserver",
@@ -2671,11 +2671,11 @@
                 "id": 33258973,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-16T16:28:02Z",
-                "open_issues": 421,
+                "last_commit": "2026-09-17T17:55:10Z",
+                "open_issues": 408,
                 "owner": "influxdata",
                 "repo": "telegraf",
-                "stars": 17804,
+                "stars": 17807,
                 "topics": [
                   "golang",
                   "hacktoberfest",
@@ -2713,7 +2713,7 @@
                 "open_issues": 286,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11220,
+                "stars": 11221,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -2755,7 +2755,7 @@
                 "open_issues": 81,
                 "owner": "DbUp",
                 "repo": "DbUp",
-                "stars": 2627,
+                "stars": 2628,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -2933,7 +2933,7 @@
             "id": 30215226,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-09-16T18:04:05Z",
+            "last_commit": "2026-09-16T21:12:15Z",
             "open_issues": 34,
             "owner": "dataplat",
             "repo": "dbatools",
@@ -3183,7 +3183,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T18:29:07.084Z",
+    "last_updated": "2026-09-17T18:37:20.241Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful links, scripts, tools and best practice for Microsoft SQL Server Database",
