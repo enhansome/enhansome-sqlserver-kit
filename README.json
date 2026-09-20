@@ -52,7 +52,7 @@
                 "open_issues": 286,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11226,
+                "stars": 11228,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -198,11 +198,11 @@
                 "id": 155790228,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-19T15:06:00Z",
-                "open_issues": 317,
+                "last_commit": "2026-09-20T04:54:52Z",
+                "open_issues": 320,
                 "owner": "sqlfluff",
                 "repo": "sqlfluff",
-                "stars": 9881,
+                "stars": 9883,
                 "topics": [
                   "hacktoberfest",
                   "pypi",
@@ -323,7 +323,7 @@
                 "open_issues": 85,
                 "owner": "mevdschee",
                 "repo": "php-crud-api",
-                "stars": 3737,
+                "stars": 3736,
                 "topics": [
                   "api-server",
                   "automatic-api",
@@ -597,7 +597,7 @@
                 "open_issues": 2,
                 "owner": "ErikEJ",
                 "repo": "SqlQueryStress",
-                "stars": 1108,
+                "stars": 1109,
                 "topics": [
                   "performance",
                   "sql-server",
@@ -730,7 +730,7 @@
                 "open_issues": 1,
                 "owner": "erikdarlingdata",
                 "repo": "DarlingData",
-                "stars": 724,
+                "stars": 725,
                 "topics": [
                   "extended-events",
                   "index",
@@ -923,8 +923,8 @@
                 "id": 439129686,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-17T15:28:57Z",
-                "open_issues": 80,
+                "last_commit": "2026-09-20T16:25:38Z",
+                "open_issues": 79,
                 "owner": "trimble-oss",
                 "repo": "dba-dash",
                 "stars": 430,
@@ -1270,7 +1270,7 @@
                 "open_issues": 5,
                 "owner": "amtwo",
                 "repo": "dba-database",
-                "stars": 152,
+                "stars": 153,
                 "topics": [
                   "database",
                   "sql-server"
@@ -1314,15 +1314,15 @@
               "repo_info": {
                 "archived": false,
                 "description": ":hammer_and_wrench:  T-SQL scripts for the long haul: optimizing storage, on-the-fly documentation, and general administrative needs.",
-                "homepage": "https://dba-multitool.org",
+                "homepage": null,
                 "id": 131221823,
                 "language": "PLpgSQL",
                 "license": "MIT",
-                "last_commit": "2026-07-21T12:02:43Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-20T15:02:58Z",
+                "open_issues": 2,
                 "owner": "lowlydba",
                 "repo": "dba-multitool",
-                "stars": 105,
+                "stars": 106,
                 "topics": [
                   "azure-sql",
                   "data-dictionary",
@@ -1403,6 +1403,34 @@
             },
             {
               "node_type": "item",
+              "title": "SQL Undercover Toolbox - A collection of cool and useful tools, procedures and scripts for the discerning DBA",
+              "description": "(by SQL Undercover)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A collection of cool and useful tools, procedures and scripts for the discerning DBA ",
+                "homepage": "https://sqlundercover.com",
+                "id": 95749980,
+                "language": "TSQL",
+                "license": "MIT",
+                "last_commit": "2025-09-30T16:21:06Z",
+                "open_issues": 49,
+                "owner": "SQLUndercover",
+                "repo": "UndercoverToolbox",
+                "stars": 93,
+                "topics": [
+                  "microsoft-sql-server",
+                  "ms-sql-server",
+                  "sql-server",
+                  "sql-undercover",
+                  "sqlundercover",
+                  "undercover-toolbox"
+                ]
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
+            },
+            {
+              "node_type": "item",
               "title": "XESmartTarget - configurable target for SQL Server Extended Events",
               "description": "(by Gianluca Sartori)",
               "children": [],
@@ -1421,34 +1449,6 @@
                 "topics": [
                   "extended-events",
                   "sql-server"
-                ]
-              },
-              "first_seen": "2026-08-28T23:43:12.098Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SQL Undercover Toolbox - A collection of cool and useful tools, procedures and scripts for the discerning DBA",
-              "description": "(by SQL Undercover)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A collection of cool and useful tools, procedures and scripts for the discerning DBA ",
-                "homepage": "https://sqlundercover.com",
-                "id": 95749980,
-                "language": "TSQL",
-                "license": "MIT",
-                "last_commit": "2025-09-30T16:21:06Z",
-                "open_issues": 49,
-                "owner": "SQLUndercover",
-                "repo": "UndercoverToolbox",
-                "stars": 92,
-                "topics": [
-                  "microsoft-sql-server",
-                  "ms-sql-server",
-                  "sql-server",
-                  "sql-undercover",
-                  "sqlundercover",
-                  "undercover-toolbox"
                 ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -1809,27 +1809,6 @@
             },
             {
               "node_type": "item",
-              "title": "Campaign Optimization - Predicting How and When to Contact Leads Implemented on SQL Server 2016 R Services",
-              "description": "(by Sheri Gilley) (Github)",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Campaign optimization solution with SQL Server ML Services",
-                "homepage": null,
-                "id": 72241044,
-                "language": "Jupyter Notebook",
-                "license": null,
-                "last_commit": "2023-06-12T20:01:40Z",
-                "open_issues": 4,
-                "owner": "microsoft",
-                "repo": "r-server-campaign-optimization",
-                "stars": 35,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T23:43:12.098Z"
-            },
-            {
-              "node_type": "item",
               "title": "sp_Develop - can be used by database developers, software developers and for performing database code (smell) reviews.s",
               "description": "(by Kevin Martin)",
               "children": [],
@@ -1844,7 +1823,7 @@
                 "open_issues": 0,
                 "owner": "EmergentSoftware",
                 "repo": "SQL-Server-Development-Assessment",
-                "stars": 35,
+                "stars": 36,
                 "topics": [
                   "best-practice",
                   "best-practices",
@@ -1867,6 +1846,27 @@
                   "t-sql",
                   "tsql"
                 ]
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Campaign Optimization - Predicting How and When to Contact Leads Implemented on SQL Server 2016 R Services",
+              "description": "(by Sheri Gilley) (Github)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "Campaign optimization solution with SQL Server ML Services",
+                "homepage": null,
+                "id": 72241044,
+                "language": "Jupyter Notebook",
+                "license": null,
+                "last_commit": "2023-06-12T20:01:40Z",
+                "open_issues": 4,
+                "owner": "microsoft",
+                "repo": "r-server-campaign-optimization",
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -1985,7 +1985,7 @@
                 "open_issues": 3,
                 "owner": "ericcobb",
                 "repo": "SQL-Server-Permissions-Manager",
-                "stars": 24,
+                "stars": 25,
                 "topics": [
                   "permission-manager",
                   "sql-server",
@@ -2166,6 +2166,37 @@
             },
             {
               "node_type": "item",
+              "title": "- maintain scheduled jobs on SQL Servers with either Availability Groups or Database Mirroring",
+              "description": "(by Eitan Blumin)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This repository contains solutions to properly control and maintain scheduled jobs on SQL Servers with either Availability Groups or Database Mirroring",
+                "homepage": "https://git.madeiradata.com/mssql-jobs-hadr",
+                "id": 256586857,
+                "language": "TSQL",
+                "license": "MIT",
+                "last_commit": "2024-09-24T17:44:31Z",
+                "open_issues": 2,
+                "owner": "MadeiraData",
+                "repo": "mssql-jobs-hadr",
+                "stars": 17,
+                "topics": [
+                  "hadr",
+                  "high-availability",
+                  "jobs",
+                  "mirroring",
+                  "mssql",
+                  "sql-server",
+                  "sqlserver",
+                  "t-sql",
+                  "tsql"
+                ]
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
+            },
+            {
+              "node_type": "item",
               "title": "ExtendedTSQLCollector - Custom collector types to extend and simplify the features offered by the built-in SQL Server Data Collector and read data from Extended Events and/or queries",
               "description": "(by Gianluca Sartori)",
               "children": [],
@@ -2234,37 +2265,6 @@
                   "sql-server",
                   "stored-procedure",
                   "utility"
-                ]
-              },
-              "first_seen": "2026-08-28T23:43:12.098Z"
-            },
-            {
-              "node_type": "item",
-              "title": "- maintain scheduled jobs on SQL Servers with either Availability Groups or Database Mirroring",
-              "description": "(by Eitan Blumin)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "This repository contains solutions to properly control and maintain scheduled jobs on SQL Servers with either Availability Groups or Database Mirroring",
-                "homepage": "https://git.madeiradata.com/mssql-jobs-hadr",
-                "id": 256586857,
-                "language": "TSQL",
-                "license": "MIT",
-                "last_commit": "2024-09-24T17:44:31Z",
-                "open_issues": 2,
-                "owner": "MadeiraData",
-                "repo": "mssql-jobs-hadr",
-                "stars": 16,
-                "topics": [
-                  "hadr",
-                  "high-availability",
-                  "jobs",
-                  "mirroring",
-                  "mssql",
-                  "sql-server",
-                  "sqlserver",
-                  "t-sql",
-                  "tsql"
                 ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -2675,7 +2675,7 @@
                 "open_issues": 409,
                 "owner": "influxdata",
                 "repo": "telegraf",
-                "stars": 17815,
+                "stars": 17816,
                 "topics": [
                   "golang",
                   "hacktoberfest",
@@ -2713,7 +2713,7 @@
                 "open_issues": 286,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11226,
+                "stars": 11228,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -2860,7 +2860,7 @@
                 "open_issues": 4,
                 "owner": "trimble-oss",
                 "repo": "sql-log-shipping-service",
-                "stars": 53,
+                "stars": 54,
                 "topics": [
                   "sql-server"
                 ]
@@ -2933,11 +2933,11 @@
             "id": 30215226,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-09-19T08:20:44Z",
-            "open_issues": 32,
+            "last_commit": "2026-09-20T09:29:56Z",
+            "open_issues": 34,
             "owner": "dataplat",
             "repo": "dbatools",
-            "stars": 2838,
+            "stars": 2840,
             "topics": [
               "backup",
               "best-practices",
@@ -3006,7 +3006,7 @@
             "id": 34022262,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-09-14T15:13:58Z",
+            "last_commit": "2026-09-20T14:59:56Z",
             "open_issues": 295,
             "owner": "dsccommunity",
             "repo": "SqlServerDsc",
@@ -3183,7 +3183,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T17:29:11.841Z",
+    "last_updated": "2026-09-20T17:43:37.509Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful links, scripts, tools and best practice for Microsoft SQL Server Database",
