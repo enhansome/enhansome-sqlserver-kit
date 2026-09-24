@@ -48,8 +48,8 @@
                 "id": 53698446,
                 "language": "PowerShell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-11T20:18:33Z",
-                "open_issues": 285,
+                "last_commit": "2026-09-24T17:31:54Z",
+                "open_issues": 286,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
                 "stars": 11231,
@@ -85,7 +85,7 @@
                     "open_issues": 20,
                     "owner": "NUKnightLab",
                     "repo": "sql-mysteries",
-                    "stars": 2219,
+                    "stars": 2221,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.098Z"
@@ -199,10 +199,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-23T04:43:46Z",
-                "open_issues": 337,
+                "open_issues": 339,
                 "owner": "sqlfluff",
                 "repo": "sqlfluff",
-                "stars": 9888,
+                "stars": 9891,
                 "topics": [
                   "hacktoberfest",
                   "pypi",
@@ -253,11 +253,11 @@
                 "id": 91096213,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-14T12:25:19Z",
+                "last_commit": "2026-09-23T20:33:39Z",
                 "open_issues": 128,
                 "owner": "borisdj",
                 "repo": "EFCore.BulkExtensions",
-                "stars": 4000,
+                "stars": 4001,
                 "topics": [
                   "batch",
                   "bulk",
@@ -292,7 +292,7 @@
                 "open_issues": 2,
                 "owner": "BrentOzarULTD",
                 "repo": "SQL-Server-First-Responder-Kit",
-                "stars": 3905,
+                "stars": 3907,
                 "topics": [
                   "first-responder-kit",
                   "health-checks",
@@ -396,10 +396,10 @@
                 "language": "TSQL",
                 "license": "MIT",
                 "last_commit": "2026-09-12T13:11:22Z",
-                "open_issues": 244,
+                "open_issues": 245,
                 "owner": "olahallengren",
                 "repo": "sql-server-maintenance-solution",
-                "stars": 3490,
+                "stars": 3492,
                 "topics": [
                   "sqlserver"
                 ]
@@ -422,7 +422,7 @@
                 "open_issues": 0,
                 "owner": "bosun-monitor",
                 "repo": "bosun",
-                "stars": 3389,
+                "stars": 3390,
                 "topics": [
                   "alerting",
                   "bosun",
@@ -540,7 +540,7 @@
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
                 "last_commit": "2026-04-10T17:28:55Z",
-                "open_issues": 112,
+                "open_issues": 113,
                 "owner": "microsoft",
                 "repo": "tigertoolbox",
                 "stars": 1592,
@@ -572,7 +572,7 @@
                 "open_issues": 20,
                 "owner": "amachanic",
                 "repo": "sp_whoisactive",
-                "stars": 1403,
+                "stars": 1404,
                 "topics": [
                   "monitoring",
                   "sql",
@@ -864,7 +864,7 @@
                 "open_issues": 55,
                 "owner": "clinthuffman",
                 "repo": "PAL",
-                "stars": 510,
+                "stars": 511,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -923,8 +923,8 @@
                 "id": 439129686,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-23T15:40:18Z",
-                "open_issues": 80,
+                "last_commit": "2026-09-23T21:06:33Z",
+                "open_issues": 79,
                 "owner": "trimble-oss",
                 "repo": "dba-dash",
                 "stars": 430,
@@ -1580,7 +1580,7 @@
                 "open_issues": 1,
                 "owner": "SQLadmin",
                 "repo": "AwesomeSQLServer",
-                "stars": 80,
+                "stars": 81,
                 "topics": [
                   "dba",
                   "sqlserver",
@@ -1953,8 +1953,8 @@
                 "id": 452760479,
                 "language": "PowerShell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-22T14:01:57Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-23T21:52:48Z",
+                "open_issues": 3,
                 "owner": "lowlydba",
                 "repo": "lowlydba.sqlserver",
                 "stars": 26,
@@ -2066,6 +2066,27 @@
             },
             {
               "node_type": "item",
+              "title": "Standby restore script output for Ola Hallengren's Maintenance Solution",
+              "description": "(by jzagelbaum) (Github)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Standby restore script output for Ola Hallengren's Maintenance Solution",
+                "homepage": null,
+                "id": 58937478,
+                "language": "PLSQL",
+                "license": "MIT",
+                "last_commit": "2023-06-27T15:38:05Z",
+                "open_issues": 5,
+                "owner": "jzagelbaum",
+                "repo": "OlaHallengrenRestoreScript",
+                "stars": 19,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
+            },
+            {
+              "node_type": "item",
               "title": "BismNormalizer - is a free and open-source tool to manage Microsoft Analysis Services tabular models",
               "description": "(by Christian Wade)",
               "children": [],
@@ -2111,27 +2132,6 @@
                   "sql-server",
                   "sqlserver"
                 ]
-              },
-              "first_seen": "2026-08-28T23:43:12.098Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Standby restore script output for Ola Hallengren's Maintenance Solution",
-              "description": "(by jzagelbaum) (Github)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Standby restore script output for Ola Hallengren's Maintenance Solution",
-                "homepage": null,
-                "id": 58937478,
-                "language": "PLSQL",
-                "license": "MIT",
-                "last_commit": "2023-06-27T15:38:05Z",
-                "open_issues": 5,
-                "owner": "jzagelbaum",
-                "repo": "OlaHallengrenRestoreScript",
-                "stars": 18,
-                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -2672,10 +2672,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-23T16:12:25Z",
-                "open_issues": 416,
+                "open_issues": 420,
                 "owner": "influxdata",
                 "repo": "telegraf",
-                "stars": 17824,
+                "stars": 17829,
                 "topics": [
                   "golang",
                   "hacktoberfest",
@@ -2709,8 +2709,8 @@
                 "id": 53698446,
                 "language": "PowerShell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-11T20:18:33Z",
-                "open_issues": 285,
+                "last_commit": "2026-09-24T17:31:54Z",
+                "open_issues": 286,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
                 "stars": 11231,
@@ -2933,11 +2933,11 @@
             "id": 30215226,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-09-23T12:04:11Z",
-            "open_issues": 30,
+            "last_commit": "2026-09-24T13:03:22Z",
+            "open_issues": 33,
             "owner": "dataplat",
             "repo": "dbatools",
-            "stars": 2842,
+            "stars": 2843,
             "topics": [
               "backup",
               "best-practices",
@@ -2968,7 +2968,7 @@
             "open_issues": 26,
             "owner": "NetSPI",
             "repo": "PowerUpSQL",
-            "stars": 2742,
+            "stars": 2740,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:12.098Z"
@@ -2989,7 +2989,7 @@
             "open_issues": 129,
             "owner": "microsoft",
             "repo": "ReportingServicesTools",
-            "stars": 510,
+            "stars": 511,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:12.098Z"
@@ -3183,7 +3183,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T18:41:03.921Z",
+    "last_updated": "2026-09-24T18:42:24.358Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful links, scripts, tools and best practice for Microsoft SQL Server Database",
@@ -3195,7 +3195,7 @@
       "open_issues": 3,
       "owner": "ktaranov",
       "repo": "sqlserver-kit",
-      "stars": 2400,
+      "stars": 2401,
       "topics": [
         "awesome-list",
         "biml-resources",
