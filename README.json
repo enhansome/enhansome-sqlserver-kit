@@ -52,7 +52,7 @@
                 "open_issues": 286,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11238,
+                "stars": 11241,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -85,7 +85,7 @@
                     "open_issues": 20,
                     "owner": "NUKnightLab",
                     "repo": "sql-mysteries",
-                    "stars": 2227,
+                    "stars": 2229,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.098Z"
@@ -198,11 +198,11 @@
                 "id": 155790228,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-29T14:13:54Z",
-                "open_issues": 350,
+                "last_commit": "2026-10-01T18:41:31Z",
+                "open_issues": 356,
                 "owner": "sqlfluff",
                 "repo": "sqlfluff",
-                "stars": 9898,
+                "stars": 9902,
                 "topics": [
                   "hacktoberfest",
                   "pypi",
@@ -292,7 +292,7 @@
                 "open_issues": 11,
                 "owner": "BrentOzarULTD",
                 "repo": "SQL-Server-First-Responder-Kit",
-                "stars": 3909,
+                "stars": 3910,
                 "topics": [
                   "first-responder-kit",
                   "health-checks",
@@ -323,7 +323,7 @@
                 "open_issues": 85,
                 "owner": "mevdschee",
                 "repo": "php-crud-api",
-                "stars": 3737,
+                "stars": 3736,
                 "topics": [
                   "api-server",
                   "automatic-api",
@@ -399,7 +399,7 @@
                 "open_issues": 245,
                 "owner": "olahallengren",
                 "repo": "sql-server-maintenance-solution",
-                "stars": 3499,
+                "stars": 3500,
                 "topics": [
                   "sqlserver"
                 ]
@@ -480,8 +480,8 @@
                 "id": 131473375,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-30T18:34:27Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-01T14:44:16Z",
+                "open_issues": 8,
                 "owner": "ErikEJ",
                 "repo": "EFCorePowerTools",
                 "stars": 2514,
@@ -572,7 +572,7 @@
                 "open_issues": 20,
                 "owner": "amachanic",
                 "repo": "sp_whoisactive",
-                "stars": 1404,
+                "stars": 1405,
                 "topics": [
                   "monitoring",
                   "sql",
@@ -597,7 +597,7 @@
                 "open_issues": 2,
                 "owner": "ErikEJ",
                 "repo": "SqlQueryStress",
-                "stars": 1112,
+                "stars": 1113,
                 "topics": [
                   "performance",
                   "sql-server",
@@ -831,8 +831,8 @@
                 "id": 84195415,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-29T07:33:26Z",
-                "open_issues": 18,
+                "last_commit": "2026-10-01T03:30:33Z",
+                "open_issues": 20,
                 "owner": "albertodonato",
                 "repo": "query-exporter",
                 "stars": 536,
@@ -885,7 +885,7 @@
                 "open_issues": 98,
                 "owner": "tSQLt-org",
                 "repo": "tSQLt",
-                "stars": 468,
+                "stars": 466,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -923,11 +923,11 @@
                 "id": 439129686,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-30T18:09:28Z",
-                "open_issues": 81,
+                "last_commit": "2026-10-01T16:09:03Z",
+                "open_issues": 80,
                 "owner": "trimble-oss",
                 "repo": "dba-dash",
-                "stars": 430,
+                "stars": 431,
                 "topics": [
                   "dba-daily-checks",
                   "microsoft-sql-server",
@@ -2671,8 +2671,8 @@
                 "id": 33258973,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-30T10:15:56Z",
-                "open_issues": 419,
+                "last_commit": "2026-10-01T14:55:38Z",
+                "open_issues": 420,
                 "owner": "influxdata",
                 "repo": "telegraf",
                 "stars": 17842,
@@ -2713,7 +2713,7 @@
                 "open_issues": 286,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11238,
+                "stars": 11241,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -2933,8 +2933,8 @@
             "id": 30215226,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-09-30T19:13:30Z",
-            "open_issues": 28,
+            "last_commit": "2026-10-01T07:47:01Z",
+            "open_issues": 23,
             "owner": "dataplat",
             "repo": "dbatools",
             "stars": 2846,
@@ -3183,7 +3183,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T19:39:53.300Z",
+    "last_updated": "2026-10-01T19:54:12.986Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful links, scripts, tools and best practice for Microsoft SQL Server Database",
