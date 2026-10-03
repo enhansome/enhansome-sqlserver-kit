@@ -11,7 +11,7 @@
             {
               "node_type": "item",
               "title": "Brent Ozar feedly reading list",
-              "description": null,
+              "description": "BrentOzar/sqlblogs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -39,7 +39,7 @@
             {
               "node_type": "item",
               "title": "Microsoft SQL Server Permissions Posters",
-              "description": null,
+              "description": "microsoft/sql-server-samples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -152,7 +152,7 @@
             {
               "node_type": "item",
               "title": "Azure Data Studio feedback",
-              "description": null,
+              "description": "microsoft/azuredatastudio",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -189,7 +189,7 @@
             {
               "node_type": "item",
               "title": "SQLFluff - A SQL linter and auto-formatter for Humans",
-              "description": null,
+              "description": "sqlfluff/sqlfluff",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -198,11 +198,11 @@
                 "id": 155790228,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T18:54:08Z",
-                "open_issues": 361,
+                "last_commit": "2026-10-03T04:05:24Z",
+                "open_issues": 363,
                 "owner": "sqlfluff",
                 "repo": "sqlfluff",
-                "stars": 9910,
+                "stars": 9912,
                 "topics": [
                   "hacktoberfest",
                   "pypi",
@@ -279,7 +279,7 @@
             {
               "node_type": "item",
               "title": "Brent Ozar SQL Server First Responder Kit",
-              "description": "(Github)",
+              "description": "BrentOzarULTD/SQL-Server-First-Responder-Kit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -437,7 +437,7 @@
             {
               "node_type": "item",
               "title": "SQL query builder, written in C#",
-              "description": null,
+              "description": "sqlkata/querybuilder",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -512,7 +512,7 @@
                 "language": "Dockerfile",
                 "license": "MIT",
                 "last_commit": "2026-01-27T14:26:41Z",
-                "open_issues": 526,
+                "open_issues": 527,
                 "owner": "microsoft",
                 "repo": "mssql-docker",
                 "stars": 1887,
@@ -530,7 +530,7 @@
             {
               "node_type": "item",
               "title": "tigertoolbox - Repository for Tiger team for \"as-is\" solutions and tools/scripts that the team publishes for SQL Server",
-              "description": "(Github)",
+              "description": "microsoft/tigertoolbox",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -609,7 +609,7 @@
             {
               "node_type": "item",
               "title": "Dotmim.Sync - a brand new database synchronization, multi platform, multi databases, developed on top of .Net Standard 2.0",
-              "description": null,
+              "description": "Mimetis/Dotmim.Sync",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -688,7 +688,7 @@
                 "open_issues": 117,
                 "owner": "microsoft",
                 "repo": "mssql-scripter",
-                "stars": 756,
+                "stars": 755,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -872,7 +872,7 @@
             {
               "node_type": "item",
               "title": "tSQLt - testing framework for Microsoft SQL Server",
-              "description": "(Github)",
+              "description": "tSQLt-org/tSQLt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -941,7 +941,7 @@
             {
               "node_type": "item",
               "title": "StackExchange.DataExplorer - free tool for executing SQL queries against Stack Exchange databases",
-              "description": "(Github)",
+              "description": "StackExchange/StackExchange.DataExplorer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1088,7 +1088,7 @@
             {
               "node_type": "item",
               "title": "Pssdiag/Sqldiag Manager - is a graphic interface that provides customization capabilities to collect data for SQL Server using sqldiag collector engine",
-              "description": "(Github)",
+              "description": "microsoft/DiagManager",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1177,7 +1177,7 @@
                 "open_issues": 16,
                 "owner": "tsqllint",
                 "repo": "tsqllint",
-                "stars": 229,
+                "stars": 228,
                 "topics": [
                   "linter",
                   "mssql",
@@ -1456,7 +1456,7 @@
             {
               "node_type": "item",
               "title": "OpenQueryStore - collection of scripts that add Query Store like functionality to pre-SQL Server 2016 Instance",
-              "description": null,
+              "description": "OpenQueryStore/OpenQueryStore",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1498,7 +1498,7 @@
             {
               "node_type": "item",
               "title": "rsqlserver - Sql Server driver database interface (DBI) driver for R",
-              "description": null,
+              "description": "agstudy/rsqlserver",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1953,8 +1953,8 @@
                 "id": 452760479,
                 "language": "PowerShell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-30T13:39:24Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-02T21:52:50Z",
+                "open_issues": 4,
                 "owner": "lowlydba",
                 "repo": "lowlydba.sqlserver",
                 "stars": 26,
@@ -2049,7 +2049,7 @@
                 "id": 187547779,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T14:34:47Z",
+                "last_commit": "2026-10-02T21:30:19Z",
                 "open_issues": 4,
                 "owner": "Azure",
                 "repo": "AzureRMR",
@@ -2435,7 +2435,7 @@
             {
               "node_type": "item",
               "title": "T-SQL SimMetrics string matching algorithms",
-              "description": "(Github)",
+              "description": "GuerrillaAnalytics/similarity",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2592,7 +2592,7 @@
             {
               "node_type": "item",
               "title": "SQL Server Telegram Bot",
-              "description": null,
+              "description": "ionflux/mssql-telegram-bot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2675,7 +2675,7 @@
                 "open_issues": 415,
                 "owner": "influxdata",
                 "repo": "telegraf",
-                "stars": 17845,
+                "stars": 17846,
                 "topics": [
                   "golang",
                   "hacktoberfest",
@@ -2742,7 +2742,7 @@
             {
               "node_type": "item",
               "title": "DbUp is a .NET library that helps you to deploy changes to SQL Server databases",
-              "description": null,
+              "description": "DbUp/DbUp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2955,7 +2955,7 @@
         {
           "node_type": "item",
           "title": "PowerUpSQL: A PowerShell Toolkit for Attacking SQL Server",
-          "description": "(Github)",
+          "description": "NetSPI/PowerUpSQL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3029,7 +3029,7 @@
         {
           "node_type": "item",
           "title": "PowerShell DBA Reports",
-          "description": "(Github)",
+          "description": "dataplat/dbareports",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -3183,7 +3183,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:34:26.853Z",
+    "last_updated": "2026-10-03T05:09:23.023Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful links, scripts, tools and best practice for Microsoft SQL Server Database",
