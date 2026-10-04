@@ -52,7 +52,7 @@
                 "open_issues": 288,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11240,
+                "stars": 11243,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -165,7 +165,7 @@
                 "open_issues": 2608,
                 "owner": "microsoft",
                 "repo": "azuredatastudio",
-                "stars": 7679,
+                "stars": 7681,
                 "topics": [
                   "azure",
                   "azure-data-studio",
@@ -198,11 +198,11 @@
                 "id": 155790228,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-03T17:46:23Z",
-                "open_issues": 352,
+                "last_commit": "2026-10-04T14:02:56Z",
+                "open_issues": 349,
                 "owner": "sqlfluff",
                 "repo": "sqlfluff",
-                "stars": 9919,
+                "stars": 9928,
                 "topics": [
                   "hacktoberfest",
                   "pypi",
@@ -292,7 +292,7 @@
                 "open_issues": 11,
                 "owner": "BrentOzarULTD",
                 "repo": "SQL-Server-First-Responder-Kit",
-                "stars": 3910,
+                "stars": 3911,
                 "topics": [
                   "first-responder-kit",
                   "health-checks",
@@ -361,7 +361,7 @@
                 "language": "C#",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-01T02:16:59Z",
-                "open_issues": 221,
+                "open_issues": 220,
                 "owner": "fluentmigrator",
                 "repo": "fluentmigrator",
                 "stars": 3516,
@@ -515,7 +515,7 @@
                 "open_issues": 527,
                 "owner": "microsoft",
                 "repo": "mssql-docker",
-                "stars": 1887,
+                "stars": 1889,
                 "topics": [
                   "database",
                   "docker",
@@ -543,7 +543,7 @@
                 "open_issues": 113,
                 "owner": "microsoft",
                 "repo": "tigertoolbox",
-                "stars": 1592,
+                "stars": 1593,
                 "topics": [
                   "always-on",
                   "indexes",
@@ -572,7 +572,7 @@
                 "open_issues": 20,
                 "owner": "amachanic",
                 "repo": "sp_whoisactive",
-                "stars": 1405,
+                "stars": 1406,
                 "topics": [
                   "monitoring",
                   "sql",
@@ -688,7 +688,7 @@
                 "open_issues": 117,
                 "owner": "microsoft",
                 "repo": "mssql-scripter",
-                "stars": 755,
+                "stars": 756,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -709,7 +709,7 @@
                 "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "Analysis-Services",
-                "stars": 733,
+                "stars": 734,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -831,8 +831,8 @@
                 "id": 84195415,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-03T14:32:24Z",
-                "open_issues": 19,
+                "last_commit": "2026-10-03T22:43:36Z",
+                "open_issues": 18,
                 "owner": "albertodonato",
                 "repo": "query-exporter",
                 "stars": 536,
@@ -923,7 +923,7 @@
                 "id": 439129686,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-03T17:49:20Z",
+                "last_commit": "2026-10-04T18:21:36Z",
                 "open_issues": 80,
                 "owner": "trimble-oss",
                 "repo": "dba-dash",
@@ -1032,7 +1032,7 @@
                 "open_issues": 1,
                 "owner": "microsoft",
                 "repo": "SQL-Server-R-Services-Samples",
-                "stars": 332,
+                "stars": 333,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -1080,7 +1080,7 @@
                 "open_issues": 16,
                 "owner": "microsoft",
                 "repo": "Azure_Synapse_Toolbox",
-                "stars": 298,
+                "stars": 299,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -1101,7 +1101,7 @@
                 "open_issues": 0,
                 "owner": "microsoft",
                 "repo": "DiagManager",
-                "stars": 268,
+                "stars": 269,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -1152,7 +1152,7 @@
                 "open_issues": 35,
                 "owner": "spaghettidba",
                 "repo": "WorkloadTools",
-                "stars": 258,
+                "stars": 259,
                 "topics": [
                   "replay",
                   "sqlserver",
@@ -1294,7 +1294,7 @@
                 "open_issues": 15,
                 "owner": "microsoft",
                 "repo": "sql-server-language-extensions",
-                "stars": 117,
+                "stars": 118,
                 "topics": [
                   "csharp",
                   "dotnet-core",
@@ -1396,7 +1396,7 @@
                 "open_issues": 5,
                 "owner": "microsoft",
                 "repo": "homebrew-mssql-release",
-                "stars": 99,
+                "stars": 100,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -1710,7 +1710,7 @@
                 "open_issues": 7,
                 "owner": "microsoft",
                 "repo": "dbfs",
-                "stars": 61,
+                "stars": 62,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -1809,6 +1809,27 @@
             },
             {
               "node_type": "item",
+              "title": "Campaign Optimization - Predicting How and When to Contact Leads Implemented on SQL Server 2016 R Services",
+              "description": "(by Sheri Gilley) (Github)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "Campaign optimization solution with SQL Server ML Services",
+                "homepage": null,
+                "id": 72241044,
+                "language": "Jupyter Notebook",
+                "license": null,
+                "last_commit": "2023-06-12T20:01:40Z",
+                "open_issues": 4,
+                "owner": "microsoft",
+                "repo": "r-server-campaign-optimization",
+                "stars": 36,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
+            },
+            {
+              "node_type": "item",
               "title": "sp_Develop - can be used by database developers, software developers and for performing database code (smell) reviews.s",
               "description": "(by Kevin Martin)",
               "children": [],
@@ -1846,27 +1867,6 @@
                   "t-sql",
                   "tsql"
                 ]
-              },
-              "first_seen": "2026-08-28T23:43:12.098Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Campaign Optimization - Predicting How and When to Contact Leads Implemented on SQL Server 2016 R Services",
-              "description": "(by Sheri Gilley) (Github)",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Campaign optimization solution with SQL Server ML Services",
-                "homepage": null,
-                "id": 72241044,
-                "language": "Jupyter Notebook",
-                "license": null,
-                "last_commit": "2023-06-12T20:01:40Z",
-                "open_issues": 4,
-                "owner": "microsoft",
-                "repo": "r-server-campaign-optimization",
-                "stars": 35,
-                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
             },
@@ -2675,7 +2675,7 @@
                 "open_issues": 417,
                 "owner": "influxdata",
                 "repo": "telegraf",
-                "stars": 17847,
+                "stars": 17848,
                 "topics": [
                   "golang",
                   "hacktoberfest",
@@ -2713,7 +2713,7 @@
                 "open_issues": 288,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11240,
+                "stars": 11243,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -2933,7 +2933,7 @@
             "id": 30215226,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-10-02T09:13:22Z",
+            "last_commit": "2026-10-04T12:24:06Z",
             "open_issues": 23,
             "owner": "dataplat",
             "repo": "dbatools",
@@ -2989,7 +2989,7 @@
             "open_issues": 129,
             "owner": "microsoft",
             "repo": "ReportingServicesTools",
-            "stars": 511,
+            "stars": 512,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:12.098Z"
@@ -3006,7 +3006,7 @@
             "id": 34022262,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-09-30T09:11:57Z",
+            "last_commit": "2026-10-04T09:32:10Z",
             "open_issues": 295,
             "owner": "dsccommunity",
             "repo": "SqlServerDsc",
@@ -3183,7 +3183,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T18:20:07.786Z",
+    "last_updated": "2026-10-04T18:24:48.451Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful links, scripts, tools and best practice for Microsoft SQL Server Database",
@@ -3195,7 +3195,7 @@
       "open_issues": 3,
       "owner": "ktaranov",
       "repo": "sqlserver-kit",
-      "stars": 2401,
+      "stars": 2402,
       "topics": [
         "awesome-list",
         "biml-resources",
