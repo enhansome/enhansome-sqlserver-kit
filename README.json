@@ -52,7 +52,7 @@
                 "open_issues": 288,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11243,
+                "stars": 11246,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -85,7 +85,7 @@
                     "open_issues": 20,
                     "owner": "NUKnightLab",
                     "repo": "sql-mysteries",
-                    "stars": 2229,
+                    "stars": 2230,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.098Z"
@@ -198,11 +198,11 @@
                 "id": 155790228,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-04T14:02:56Z",
-                "open_issues": 349,
+                "last_commit": "2026-10-05T12:28:09Z",
+                "open_issues": 347,
                 "owner": "sqlfluff",
                 "repo": "sqlfluff",
-                "stars": 9928,
+                "stars": 9936,
                 "topics": [
                   "hacktoberfest",
                   "pypi",
@@ -254,7 +254,7 @@
                 "language": "C#",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-23T20:33:39Z",
-                "open_issues": 128,
+                "open_issues": 130,
                 "owner": "borisdj",
                 "repo": "EFCore.BulkExtensions",
                 "stars": 4000,
@@ -323,7 +323,7 @@
                 "open_issues": 85,
                 "owner": "mevdschee",
                 "repo": "php-crud-api",
-                "stars": 3735,
+                "stars": 3736,
                 "topics": [
                   "api-server",
                   "automatic-api",
@@ -364,7 +364,7 @@
                 "open_issues": 220,
                 "owner": "fluentmigrator",
                 "repo": "fluentmigrator",
-                "stars": 3516,
+                "stars": 3517,
                 "topics": [
                   "database",
                   "database-schema",
@@ -399,7 +399,7 @@
                 "open_issues": 245,
                 "owner": "olahallengren",
                 "repo": "sql-server-maintenance-solution",
-                "stars": 3502,
+                "stars": 3503,
                 "topics": [
                   "sqlserver"
                 ]
@@ -422,7 +422,7 @@
                 "open_issues": 0,
                 "owner": "bosun-monitor",
                 "repo": "bosun",
-                "stars": 3390,
+                "stars": 3389,
                 "topics": [
                   "alerting",
                   "bosun",
@@ -481,7 +481,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-01T14:44:16Z",
-                "open_issues": 9,
+                "open_issues": 8,
                 "owner": "ErikEJ",
                 "repo": "EFCorePowerTools",
                 "stars": 2514,
@@ -619,10 +619,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2025-08-28T13:17:57Z",
-                "open_issues": 65,
+                "open_issues": 66,
                 "owner": "Mimetis",
                 "repo": "Dotmim.Sync",
-                "stars": 981,
+                "stars": 982,
                 "topics": [
                   "change-tracking",
                   "changetracking",
@@ -653,8 +653,8 @@
                 "id": 76404,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-09-18T18:28:40Z",
-                "open_issues": 25,
+                "last_commit": "2026-10-05T19:19:19Z",
+                "open_issues": 26,
                 "owner": "rails-sqlserver",
                 "repo": "activerecord-sqlserver-adapter",
                 "stars": 980,
@@ -726,8 +726,8 @@
                 "id": 169925829,
                 "language": "TSQL",
                 "license": "MIT",
-                "last_commit": "2026-10-02T19:09:28Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-05T21:15:04Z",
+                "open_issues": 7,
                 "owner": "erikdarlingdata",
                 "repo": "DarlingData",
                 "stars": 727,
@@ -923,11 +923,11 @@
                 "id": 439129686,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-04T18:21:36Z",
+                "last_commit": "2026-10-05T17:40:01Z",
                 "open_issues": 80,
                 "owner": "trimble-oss",
                 "repo": "dba-dash",
-                "stars": 431,
+                "stars": 432,
                 "topics": [
                   "dba-daily-checks",
                   "microsoft-sql-server",
@@ -1403,6 +1403,30 @@
             },
             {
               "node_type": "item",
+              "title": "XESmartTarget - configurable target for SQL Server Extended Events",
+              "description": "(by Gianluca Sartori)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A configurable target for SQL Server Extended Events. Write to a table or perform custom actions with no effort.",
+                "homepage": null,
+                "id": 55555200,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-04-17T10:18:56Z",
+                "open_issues": 13,
+                "owner": "spaghettidba",
+                "repo": "XESmartTarget",
+                "stars": 93,
+                "topics": [
+                  "extended-events",
+                  "sql-server"
+                ]
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
+            },
+            {
+              "node_type": "item",
               "title": "SQL Undercover Toolbox - A collection of cool and useful tools, procedures and scripts for the discerning DBA",
               "description": "(by SQL Undercover)",
               "children": [],
@@ -1425,30 +1449,6 @@
                   "sql-undercover",
                   "sqlundercover",
                   "undercover-toolbox"
-                ]
-              },
-              "first_seen": "2026-08-28T23:43:12.098Z"
-            },
-            {
-              "node_type": "item",
-              "title": "XESmartTarget - configurable target for SQL Server Extended Events",
-              "description": "(by Gianluca Sartori)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A configurable target for SQL Server Extended Events. Write to a table or perform custom actions with no effort.",
-                "homepage": null,
-                "id": 55555200,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2026-04-17T10:18:56Z",
-                "open_issues": 13,
-                "owner": "spaghettidba",
-                "repo": "XESmartTarget",
-                "stars": 92,
-                "topics": [
-                  "extended-events",
-                  "sql-server"
                 ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -1777,7 +1777,7 @@
                 "open_issues": 3,
                 "owner": "mjswart-d2l",
                 "repo": "sqlblockedprocesses",
-                "stars": 42,
+                "stars": 43,
                 "topics": [
                   "microsoft-sql-server",
                   "ms-sql-server",
@@ -2137,6 +2137,37 @@
             },
             {
               "node_type": "item",
+              "title": "- maintain scheduled jobs on SQL Servers with either Availability Groups or Database Mirroring",
+              "description": "(by Eitan Blumin)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This repository contains solutions to properly control and maintain scheduled jobs on SQL Servers with either Availability Groups or Database Mirroring",
+                "homepage": "https://git.madeiradata.com/mssql-jobs-hadr",
+                "id": 256586857,
+                "language": "TSQL",
+                "license": "MIT",
+                "last_commit": "2024-09-24T17:44:31Z",
+                "open_issues": 2,
+                "owner": "MadeiraData",
+                "repo": "mssql-jobs-hadr",
+                "stars": 18,
+                "topics": [
+                  "hadr",
+                  "high-availability",
+                  "jobs",
+                  "mirroring",
+                  "mssql",
+                  "sql-server",
+                  "sqlserver",
+                  "t-sql",
+                  "tsql"
+                ]
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
+            },
+            {
+              "node_type": "item",
               "title": "YourSqlDba - Database maintenance solution as a single SQL script",
               "description": "(by Maurice Pelchat)",
               "children": [],
@@ -2160,37 +2191,6 @@
                   "sql-agent",
                   "stored-procedures",
                   "t-sql"
-                ]
-              },
-              "first_seen": "2026-08-28T23:43:12.098Z"
-            },
-            {
-              "node_type": "item",
-              "title": "- maintain scheduled jobs on SQL Servers with either Availability Groups or Database Mirroring",
-              "description": "(by Eitan Blumin)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "This repository contains solutions to properly control and maintain scheduled jobs on SQL Servers with either Availability Groups or Database Mirroring",
-                "homepage": "https://git.madeiradata.com/mssql-jobs-hadr",
-                "id": 256586857,
-                "language": "TSQL",
-                "license": "MIT",
-                "last_commit": "2024-09-24T17:44:31Z",
-                "open_issues": 2,
-                "owner": "MadeiraData",
-                "repo": "mssql-jobs-hadr",
-                "stars": 17,
-                "topics": [
-                  "hadr",
-                  "high-availability",
-                  "jobs",
-                  "mirroring",
-                  "mssql",
-                  "sql-server",
-                  "sqlserver",
-                  "t-sql",
-                  "tsql"
                 ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -2671,11 +2671,11 @@
                 "id": 33258973,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-02T18:23:41Z",
-                "open_issues": 417,
+                "last_commit": "2026-10-05T06:37:39Z",
+                "open_issues": 416,
                 "owner": "influxdata",
                 "repo": "telegraf",
-                "stars": 17848,
+                "stars": 17849,
                 "topics": [
                   "golang",
                   "hacktoberfest",
@@ -2713,7 +2713,7 @@
                 "open_issues": 288,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11243,
+                "stars": 11246,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -2734,7 +2734,7 @@
                 "open_issues": 2,
                 "owner": "ept",
                 "repo": "hermitage",
-                "stars": 2746,
+                "stars": 2748,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -2755,7 +2755,7 @@
                 "open_issues": 81,
                 "owner": "DbUp",
                 "repo": "DbUp",
-                "stars": 2634,
+                "stars": 2635,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -2933,11 +2933,11 @@
             "id": 30215226,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-10-04T12:24:06Z",
-            "open_issues": 23,
+            "last_commit": "2026-10-05T17:12:01Z",
+            "open_issues": 27,
             "owner": "dataplat",
             "repo": "dbatools",
-            "stars": 2847,
+            "stars": 2848,
             "topics": [
               "backup",
               "best-practices",
@@ -2968,7 +2968,7 @@
             "open_issues": 26,
             "owner": "NetSPI",
             "repo": "PowerUpSQL",
-            "stars": 2740,
+            "stars": 2741,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:12.098Z"
@@ -3010,7 +3010,7 @@
             "open_issues": 295,
             "owner": "dsccommunity",
             "repo": "SqlServerDsc",
-            "stars": 385,
+            "stars": 386,
             "topics": [
               "dsc",
               "dsc-resources",
@@ -3183,7 +3183,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:24:48.451Z",
+    "last_updated": "2026-10-05T21:41:25.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful links, scripts, tools and best practice for Microsoft SQL Server Database",
