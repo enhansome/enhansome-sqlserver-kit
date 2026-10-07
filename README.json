@@ -24,7 +24,7 @@
                 "open_issues": 0,
                 "owner": "BrentOzar",
                 "repo": "sqlblogs",
-                "stars": 46,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -52,7 +52,7 @@
                 "open_issues": 290,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11245,
+                "stars": 11249,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -85,7 +85,7 @@
                     "open_issues": 20,
                     "owner": "NUKnightLab",
                     "repo": "sql-mysteries",
-                    "stars": 2232,
+                    "stars": 2235,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.098Z"
@@ -198,11 +198,11 @@
                 "id": 155790228,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-06T15:15:34Z",
+                "last_commit": "2026-10-07T02:30:48Z",
                 "open_issues": 351,
                 "owner": "sqlfluff",
                 "repo": "sqlfluff",
-                "stars": 9937,
+                "stars": 9940,
                 "topics": [
                   "hacktoberfest",
                   "pypi",
@@ -254,7 +254,7 @@
                 "language": "C#",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-23T20:33:39Z",
-                "open_issues": 130,
+                "open_issues": 132,
                 "owner": "borisdj",
                 "repo": "EFCore.BulkExtensions",
                 "stars": 4000,
@@ -292,7 +292,7 @@
                 "open_issues": 11,
                 "owner": "BrentOzarULTD",
                 "repo": "SQL-Server-First-Responder-Kit",
-                "stars": 3912,
+                "stars": 3913,
                 "topics": [
                   "first-responder-kit",
                   "health-checks",
@@ -399,7 +399,7 @@
                 "open_issues": 245,
                 "owner": "olahallengren",
                 "repo": "sql-server-maintenance-solution",
-                "stars": 3503,
+                "stars": 3504,
                 "topics": [
                   "sqlserver"
                 ]
@@ -422,7 +422,7 @@
                 "open_issues": 0,
                 "owner": "bosun-monitor",
                 "repo": "bosun",
-                "stars": 3389,
+                "stars": 3388,
                 "topics": [
                   "alerting",
                   "bosun",
@@ -480,8 +480,8 @@
                 "id": 131473375,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-06T17:41:06Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-07T06:02:18Z",
+                "open_issues": 5,
                 "owner": "ErikEJ",
                 "repo": "EFCorePowerTools",
                 "stars": 2514,
@@ -569,7 +569,7 @@
                 "language": "TSQL",
                 "license": "GPL-3.0",
                 "last_commit": "2026-05-16T16:22:47Z",
-                "open_issues": 20,
+                "open_issues": 22,
                 "owner": "amachanic",
                 "repo": "sp_whoisactive",
                 "stars": 1407,
@@ -832,7 +832,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-03T22:43:36Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "albertodonato",
                 "repo": "query-exporter",
                 "stars": 536,
@@ -923,7 +923,7 @@
                 "id": 439129686,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-06T13:32:04Z",
+                "last_commit": "2026-10-07T08:05:05Z",
                 "open_issues": 80,
                 "owner": "trimble-oss",
                 "repo": "dba-dash",
@@ -1340,27 +1340,6 @@
             },
             {
               "node_type": "item",
-              "title": "Statistic Parser",
-              "description": "(by Richie Rump) (Github)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Parses and formats SQL Server Statistics IO and Statistics Time output.",
-                "homepage": "http://statisticsparser.com",
-                "id": 10003756,
-                "language": "JavaScript",
-                "license": null,
-                "last_commit": "2026-03-20T18:30:02Z",
-                "open_issues": 13,
-                "owner": "Jorriss",
-                "repo": "StatisticsParser",
-                "stars": 103,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T23:43:12.098Z"
-            },
-            {
-              "node_type": "item",
               "title": "SQLSetupTools - FixMissingMSI, Product Browser, SQL Registry Viewer",
               "description": "(by Simon Su)",
               "children": [],
@@ -1375,6 +1354,27 @@
                 "open_issues": 7,
                 "owner": "suyouquan",
                 "repo": "SQLSetupTools",
+                "stars": 104,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Statistic Parser",
+              "description": "(by Richie Rump) (Github)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Parses and formats SQL Server Statistics IO and Statistics Time output.",
+                "homepage": "http://statisticsparser.com",
+                "id": 10003756,
+                "language": "JavaScript",
+                "license": null,
+                "last_commit": "2026-03-20T18:30:02Z",
+                "open_issues": 13,
+                "owner": "Jorriss",
+                "repo": "StatisticsParser",
                 "stars": 103,
                 "topics": []
               },
@@ -1605,7 +1605,7 @@
                 "open_issues": 5,
                 "owner": "dirceuresende",
                 "repo": "checklist_seguranca",
-                "stars": 79,
+                "stars": 78,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -1802,7 +1802,7 @@
                 "open_issues": 2,
                 "owner": "suyouquan",
                 "repo": "AGLatency",
-                "stars": 38,
+                "stars": 39,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -2671,11 +2671,11 @@
                 "id": 33258973,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-06T17:22:20Z",
-                "open_issues": 427,
+                "last_commit": "2026-10-07T16:28:56Z",
+                "open_issues": 410,
                 "owner": "influxdata",
                 "repo": "telegraf",
-                "stars": 17848,
+                "stars": 17851,
                 "topics": [
                   "golang",
                   "hacktoberfest",
@@ -2713,7 +2713,7 @@
                 "open_issues": 290,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11245,
+                "stars": 11249,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -2937,7 +2937,7 @@
             "open_issues": 28,
             "owner": "dataplat",
             "repo": "dbatools",
-            "stars": 2848,
+            "stars": 2847,
             "topics": [
               "backup",
               "best-practices",
@@ -3183,7 +3183,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T19:52:21.890Z",
+    "last_updated": "2026-10-07T20:13:19.950Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful links, scripts, tools and best practice for Microsoft SQL Server Database",
