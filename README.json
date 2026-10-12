@@ -48,11 +48,11 @@
                 "id": 53698446,
                 "language": "PowerShell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-08T23:59:00Z",
-                "open_issues": 285,
+                "last_commit": "2026-10-12T09:27:50Z",
+                "open_issues": 286,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11252,
+                "stars": 11255,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -85,7 +85,7 @@
                     "open_issues": 20,
                     "owner": "NUKnightLab",
                     "repo": "sql-mysteries",
-                    "stars": 2236,
+                    "stars": 2237,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.098Z"
@@ -198,11 +198,11 @@
                 "id": 155790228,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-10T18:40:32Z",
-                "open_issues": 365,
+                "last_commit": "2026-10-12T20:21:10Z",
+                "open_issues": 369,
                 "owner": "sqlfluff",
                 "repo": "sqlfluff",
-                "stars": 9943,
+                "stars": 9948,
                 "topics": [
                   "hacktoberfest",
                   "pypi",
@@ -292,7 +292,7 @@
                 "open_issues": 11,
                 "owner": "BrentOzarULTD",
                 "repo": "SQL-Server-First-Responder-Kit",
-                "stars": 3915,
+                "stars": 3914,
                 "topics": [
                   "first-responder-kit",
                   "health-checks",
@@ -364,7 +364,7 @@
                 "open_issues": 202,
                 "owner": "fluentmigrator",
                 "repo": "fluentmigrator",
-                "stars": 3517,
+                "stars": 3518,
                 "topics": [
                   "database",
                   "database-schema",
@@ -399,7 +399,7 @@
                 "open_issues": 245,
                 "owner": "olahallengren",
                 "repo": "sql-server-maintenance-solution",
-                "stars": 3507,
+                "stars": 3509,
                 "topics": [
                   "sqlserver"
                 ]
@@ -515,7 +515,7 @@
                 "open_issues": 527,
                 "owner": "microsoft",
                 "repo": "mssql-docker",
-                "stars": 1889,
+                "stars": 1890,
                 "topics": [
                   "database",
                   "docker",
@@ -572,7 +572,7 @@
                 "open_issues": 22,
                 "owner": "amachanic",
                 "repo": "sp_whoisactive",
-                "stars": 1407,
+                "stars": 1408,
                 "topics": [
                   "monitoring",
                   "sql",
@@ -923,8 +923,8 @@
                 "id": 439129686,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-11T13:58:28Z",
-                "open_issues": 79,
+                "last_commit": "2026-10-12T20:28:00Z",
+                "open_issues": 81,
                 "owner": "trimble-oss",
                 "repo": "dba-dash",
                 "stars": 432,
@@ -1318,8 +1318,8 @@
                 "id": 131221823,
                 "language": "PLpgSQL",
                 "license": "MIT",
-                "last_commit": "2026-10-11T19:11:29Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-11T19:20:29Z",
+                "open_issues": 1,
                 "owner": "lowlydba",
                 "repo": "dba-multitool",
                 "stars": 106,
@@ -2671,11 +2671,11 @@
                 "id": 33258973,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-09T12:49:10Z",
-                "open_issues": 419,
+                "last_commit": "2026-10-12T13:47:45Z",
+                "open_issues": 422,
                 "owner": "influxdata",
                 "repo": "telegraf",
-                "stars": 17852,
+                "stars": 17850,
                 "topics": [
                   "golang",
                   "hacktoberfest",
@@ -2709,11 +2709,11 @@
                 "id": 53698446,
                 "language": "PowerShell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-08T23:59:00Z",
-                "open_issues": 285,
+                "last_commit": "2026-10-12T09:27:50Z",
+                "open_issues": 286,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11252,
+                "stars": 11255,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -2933,8 +2933,8 @@
             "id": 30215226,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-10-11T14:15:53Z",
-            "open_issues": 32,
+            "last_commit": "2026-10-12T18:23:34Z",
+            "open_issues": 30,
             "owner": "dataplat",
             "repo": "dbatools",
             "stars": 2847,
@@ -2968,7 +2968,7 @@
             "open_issues": 26,
             "owner": "NetSPI",
             "repo": "PowerUpSQL",
-            "stars": 2744,
+            "stars": 2743,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:12.098Z"
@@ -3183,7 +3183,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T19:12:37.609Z",
+    "last_updated": "2026-10-12T22:16:26.031Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful links, scripts, tools and best practice for Microsoft SQL Server Database",
@@ -3192,7 +3192,7 @@
       "language": "TSQL",
       "license": "MIT",
       "last_commit": "2026-03-13T10:34:38Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "ktaranov",
       "repo": "sqlserver-kit",
       "stars": 2403,
