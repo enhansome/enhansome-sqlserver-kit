@@ -52,7 +52,7 @@
                 "open_issues": 284,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11258,
+                "stars": 11261,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -199,10 +199,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-16T17:47:05Z",
-                "open_issues": 370,
+                "open_issues": 368,
                 "owner": "sqlfluff",
                 "repo": "sqlfluff",
-                "stars": 9979,
+                "stars": 9978,
                 "topics": [
                   "hacktoberfest",
                   "pypi",
@@ -257,7 +257,7 @@
                 "open_issues": 135,
                 "owner": "borisdj",
                 "repo": "EFCore.BulkExtensions",
-                "stars": 3997,
+                "stars": 3998,
                 "topics": [
                   "batch",
                   "bulk",
@@ -292,7 +292,7 @@
                 "open_issues": 2,
                 "owner": "BrentOzarULTD",
                 "repo": "SQL-Server-First-Responder-Kit",
-                "stars": 3918,
+                "stars": 3919,
                 "topics": [
                   "first-responder-kit",
                   "health-checks",
@@ -360,8 +360,8 @@
                 "id": 589349,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T09:54:36Z",
-                "open_issues": 203,
+                "last_commit": "2026-10-16T22:24:02Z",
+                "open_issues": 202,
                 "owner": "fluentmigrator",
                 "repo": "fluentmigrator",
                 "stars": 3518,
@@ -399,7 +399,7 @@
                 "open_issues": 247,
                 "owner": "olahallengren",
                 "repo": "sql-server-maintenance-solution",
-                "stars": 3514,
+                "stars": 3515,
                 "topics": [
                   "sqlserver"
                 ]
@@ -422,7 +422,7 @@
                 "open_issues": 0,
                 "owner": "bosun-monitor",
                 "repo": "bosun",
-                "stars": 3388,
+                "stars": 3387,
                 "topics": [
                   "alerting",
                   "bosun",
@@ -450,7 +450,7 @@
                 "open_issues": 181,
                 "owner": "sqlkata",
                 "repo": "querybuilder",
-                "stars": 3384,
+                "stars": 3383,
                 "topics": [
                   "activerecord",
                   "c-sharp",
@@ -480,8 +480,8 @@
                 "id": 131473375,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-16T09:32:19Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-17T10:57:31Z",
+                "open_issues": 8,
                 "owner": "ErikEJ",
                 "repo": "EFCorePowerTools",
                 "stars": 2514,
@@ -515,7 +515,7 @@
                 "open_issues": 528,
                 "owner": "microsoft",
                 "repo": "mssql-docker",
-                "stars": 1891,
+                "stars": 1892,
                 "topics": [
                   "database",
                   "docker",
@@ -919,21 +919,27 @@
               "repo_info": {
                 "archived": false,
                 "description": "DBA Dash - SQL Server Monitoring Tool",
-                "homepage": null,
+                "homepage": "https://dbadash.com/",
                 "id": 439129686,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-16T17:51:48Z",
-                "open_issues": 80,
+                "last_commit": "2026-10-17T09:59:54Z",
+                "open_issues": 81,
                 "owner": "trimble-oss",
                 "repo": "dba-dash",
                 "stars": 432,
                 "topics": [
+                  "azure-sql",
+                  "database-monitoring",
                   "dba-daily-checks",
+                  "dotnet",
+                  "extended-events",
                   "microsoft-sql-server",
                   "performance-monitoring",
+                  "query-performance",
                   "sql-server",
-                  "sql-server-monitoring"
+                  "sql-server-monitoring",
+                  "t-sql"
                 ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -2392,27 +2398,6 @@
             },
             {
               "node_type": "item",
-              "title": "Automatically fix high VLF counts in SQL Server 2012+",
-              "description": "(by Tracy Boggiano)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Automatically fix high VLF counts in SQL Server 2012+",
-                "homepage": null,
-                "id": 109624263,
-                "language": "PLpgSQL",
-                "license": "MIT",
-                "last_commit": "2018-01-21T17:38:06Z",
-                "open_issues": 0,
-                "owner": "tboggiano",
-                "repo": "autofix-vlfs",
-                "stars": 9,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T23:43:12.098Z"
-            },
-            {
-              "node_type": "item",
               "title": "Culprit SQL Studio - desktop app, CLI and MCP server that turns Query Store, the plan cache and DMVs into ranked findings with fixes: slow queries, plan regressions, missing indexes, blocking and deadlocks",
               "description": "cristipufu/culprit-sql-studio",
               "children": [],
@@ -2423,11 +2408,11 @@
                 "id": 1414100535,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-16T14:10:31Z",
+                "last_commit": "2026-10-17T17:20:52Z",
                 "open_issues": 1,
                 "owner": "cristipufu",
                 "repo": "culprit-sql-studio",
-                "stars": 9,
+                "stars": 10,
                 "topics": [
                   "claude-code",
                   "database-performance",
@@ -2452,6 +2437,27 @@
                 ]
               },
               "first_seen": "2026-10-15T18:42:32.730Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Automatically fix high VLF counts in SQL Server 2012+",
+              "description": "(by Tracy Boggiano)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Automatically fix high VLF counts in SQL Server 2012+",
+                "homepage": null,
+                "id": 109624263,
+                "language": "PLpgSQL",
+                "license": "MIT",
+                "last_commit": "2018-01-21T17:38:06Z",
+                "open_issues": 0,
+                "owner": "tboggiano",
+                "repo": "autofix-vlfs",
+                "stars": 9,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -2714,7 +2720,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-10-16T17:24:28Z",
-                "open_issues": 442,
+                "open_issues": 443,
                 "owner": "influxdata",
                 "repo": "telegraf",
                 "stars": 17865,
@@ -2755,7 +2761,7 @@
                 "open_issues": 284,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11258,
+                "stars": 11261,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -2975,11 +2981,11 @@
             "id": 30215226,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-10-15T08:56:46Z",
-            "open_issues": 27,
+            "last_commit": "2026-10-17T16:47:34Z",
+            "open_issues": 33,
             "owner": "dataplat",
             "repo": "dbatools",
-            "stars": 2848,
+            "stars": 2850,
             "topics": [
               "backup",
               "best-practices",
@@ -3010,7 +3016,7 @@
             "open_issues": 26,
             "owner": "NetSPI",
             "repo": "PowerUpSQL",
-            "stars": 2745,
+            "stars": 2744,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:12.098Z"
@@ -3027,8 +3033,8 @@
             "id": 70360005,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-10-16T18:19:03Z",
-            "open_issues": 130,
+            "last_commit": "2026-10-16T19:37:16Z",
+            "open_issues": 131,
             "owner": "microsoft",
             "repo": "ReportingServicesTools",
             "stars": 513,
@@ -3081,7 +3087,7 @@
             "language": "PowerShell",
             "license": "GPL-3.0",
             "last_commit": "2018-12-08T11:13:02Z",
-            "open_issues": 30,
+            "open_issues": 29,
             "owner": "dataplat",
             "repo": "dbareports",
             "stars": 110,
@@ -3225,7 +3231,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T18:26:37.598Z",
+    "last_updated": "2026-10-17T17:33:44.190Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful links, scripts, tools and best practice for Microsoft SQL Server Database",
@@ -3234,7 +3240,7 @@
       "language": "TSQL",
       "license": "MIT",
       "last_commit": "2026-10-15T10:40:09Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "ktaranov",
       "repo": "sqlserver-kit",
       "stars": 2406,
