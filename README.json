@@ -48,11 +48,11 @@
                 "id": 53698446,
                 "language": "PowerShell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-20T18:03:39Z",
-                "open_issues": 286,
+                "last_commit": "2026-10-21T04:05:01Z",
+                "open_issues": 285,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11262,
+                "stars": 11264,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -198,11 +198,11 @@
                 "id": 155790228,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-20T18:38:00Z",
-                "open_issues": 348,
+                "last_commit": "2026-10-21T15:30:21Z",
+                "open_issues": 352,
                 "owner": "sqlfluff",
                 "repo": "sqlfluff",
-                "stars": 9985,
+                "stars": 9989,
                 "topics": [
                   "hacktoberfest",
                   "pypi",
@@ -254,7 +254,7 @@
                 "language": "C#",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-08T22:10:17Z",
-                "open_issues": 136,
+                "open_issues": 137,
                 "owner": "borisdj",
                 "repo": "EFCore.BulkExtensions",
                 "stars": 3997,
@@ -289,7 +289,7 @@
                 "language": "TSQL",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-14T18:37:22Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "BrentOzarULTD",
                 "repo": "SQL-Server-First-Responder-Kit",
                 "stars": 3921,
@@ -350,6 +350,29 @@
             },
             {
               "node_type": "item",
+              "title": "SQL Server Ola Hallengren's Maintenance Solution",
+              "description": "(by Ola Hallengren) (Github)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "SQL Server Maintenance Solution",
+                "homepage": "https://ola.hallengren.com",
+                "id": 93431127,
+                "language": "TSQL",
+                "license": "MIT",
+                "last_commit": "2026-09-12T13:11:22Z",
+                "open_issues": 248,
+                "owner": "olahallengren",
+                "repo": "sql-server-maintenance-solution",
+                "stars": 3519,
+                "topics": [
+                  "sqlserver"
+                ]
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
+            },
+            {
+              "node_type": "item",
               "title": "Fluent Migrator is a migration framework for .NET much like Ruby on Rails Migrations",
               "description": "(by Eivind Gussiås Løksetheloekset, Mark Junker, Tom Marien)",
               "children": [],
@@ -360,8 +383,8 @@
                 "id": 589349,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T14:29:11Z",
-                "open_issues": 202,
+                "last_commit": "2026-10-21T12:59:03Z",
+                "open_issues": 203,
                 "owner": "fluentmigrator",
                 "repo": "fluentmigrator",
                 "stars": 3518,
@@ -379,29 +402,6 @@
                   "snowflake",
                   "sql",
                   "sql-server"
-                ]
-              },
-              "first_seen": "2026-08-28T23:43:12.098Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SQL Server Ola Hallengren's Maintenance Solution",
-              "description": "(by Ola Hallengren) (Github)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "SQL Server Maintenance Solution",
-                "homepage": "https://ola.hallengren.com",
-                "id": 93431127,
-                "language": "TSQL",
-                "license": "MIT",
-                "last_commit": "2026-09-12T13:11:22Z",
-                "open_issues": 248,
-                "owner": "olahallengren",
-                "repo": "sql-server-maintenance-solution",
-                "stars": 3517,
-                "topics": [
-                  "sqlserver"
                 ]
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -446,7 +446,7 @@
                 "id": 90608506,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-20T17:05:54Z",
+                "last_commit": "2026-10-21T11:22:17Z",
                 "open_issues": 180,
                 "owner": "sqlkata",
                 "repo": "querybuilder",
@@ -480,8 +480,8 @@
                 "id": 131473375,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-20T12:48:50Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-21T13:34:10Z",
+                "open_issues": 6,
                 "owner": "ErikEJ",
                 "repo": "EFCorePowerTools",
                 "stars": 2514,
@@ -515,7 +515,7 @@
                 "open_issues": 525,
                 "owner": "microsoft",
                 "repo": "mssql-docker",
-                "stars": 1892,
+                "stars": 1893,
                 "topics": [
                   "database",
                   "docker",
@@ -923,7 +923,7 @@
                 "id": 439129686,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-20T07:01:06Z",
+                "last_commit": "2026-10-21T16:09:55Z",
                 "open_issues": 74,
                 "owner": "trimble-oss",
                 "repo": "dba-dash",
@@ -1611,7 +1611,7 @@
                 "open_issues": 5,
                 "owner": "dirceuresende",
                 "repo": "checklist_seguranca",
-                "stars": 78,
+                "stars": 79,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -1959,7 +1959,7 @@
                 "id": 452760479,
                 "language": "PowerShell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-16T13:16:42Z",
+                "last_commit": "2026-10-21T14:50:27Z",
                 "open_issues": 1,
                 "owner": "lowlydba",
                 "repo": "lowlydba.sqlserver",
@@ -2408,7 +2408,7 @@
                 "id": 1414100535,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-20T16:01:48Z",
+                "last_commit": "2026-10-21T12:37:17Z",
                 "open_issues": 1,
                 "owner": "cristipufu",
                 "repo": "culprit-sql-studio",
@@ -2719,7 +2719,7 @@
                 "id": 33258973,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-20T15:56:12Z",
+                "last_commit": "2026-10-21T13:02:17Z",
                 "open_issues": 428,
                 "owner": "influxdata",
                 "repo": "telegraf",
@@ -2757,11 +2757,11 @@
                 "id": 53698446,
                 "language": "PowerShell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-20T18:03:39Z",
-                "open_issues": 286,
+                "last_commit": "2026-10-21T04:05:01Z",
+                "open_issues": 285,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11262,
+                "stars": 11264,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -2985,7 +2985,7 @@
             "open_issues": 37,
             "owner": "dataplat",
             "repo": "dbatools",
-            "stars": 2854,
+            "stars": 2855,
             "topics": [
               "backup",
               "best-practices",
@@ -3016,7 +3016,7 @@
             "open_issues": 26,
             "owner": "NetSPI",
             "repo": "PowerUpSQL",
-            "stars": 2745,
+            "stars": 2747,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:12.098Z"
@@ -3231,7 +3231,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T18:46:32.316Z",
+    "last_updated": "2026-10-21T18:59:25.464Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful links, scripts, tools and best practice for Microsoft SQL Server Database",
@@ -3243,7 +3243,7 @@
       "open_issues": 5,
       "owner": "ktaranov",
       "repo": "sqlserver-kit",
-      "stars": 2408,
+      "stars": 2409,
       "topics": [
         "awesome-list",
         "biml-resources",
