@@ -48,11 +48,11 @@
                 "id": 53698446,
                 "language": "PowerShell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T04:05:01Z",
+                "last_commit": "2026-10-22T00:26:52Z",
                 "open_issues": 285,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11264,
+                "stars": 11266,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -85,7 +85,7 @@
                     "open_issues": 20,
                     "owner": "NUKnightLab",
                     "repo": "sql-mysteries",
-                    "stars": 2241,
+                    "stars": 2242,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.098Z"
@@ -199,7 +199,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-21T15:30:21Z",
-                "open_issues": 352,
+                "open_issues": 356,
                 "owner": "sqlfluff",
                 "repo": "sqlfluff",
                 "stars": 9989,
@@ -292,7 +292,7 @@
                 "open_issues": 3,
                 "owner": "BrentOzarULTD",
                 "repo": "SQL-Server-First-Responder-Kit",
-                "stars": 3921,
+                "stars": 3922,
                 "topics": [
                   "first-responder-kit",
                   "health-checks",
@@ -320,10 +320,10 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2026-08-28T19:03:50Z",
-                "open_issues": 85,
+                "open_issues": 86,
                 "owner": "mevdschee",
                 "repo": "php-crud-api",
-                "stars": 3737,
+                "stars": 3738,
                 "topics": [
                   "api-server",
                   "automatic-api",
@@ -364,7 +364,7 @@
                 "open_issues": 248,
                 "owner": "olahallengren",
                 "repo": "sql-server-maintenance-solution",
-                "stars": 3519,
+                "stars": 3521,
                 "topics": [
                   "sqlserver"
                 ]
@@ -383,11 +383,11 @@
                 "id": 589349,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T12:59:03Z",
+                "last_commit": "2026-10-21T20:39:24Z",
                 "open_issues": 203,
                 "owner": "fluentmigrator",
                 "repo": "fluentmigrator",
-                "stars": 3518,
+                "stars": 3517,
                 "topics": [
                   "database",
                   "database-schema",
@@ -481,10 +481,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-21T13:34:10Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "ErikEJ",
                 "repo": "EFCorePowerTools",
-                "stars": 2514,
+                "stars": 2513,
                 "topics": [
                   "dbcontext",
                   "dotnet",
@@ -543,7 +543,7 @@
                 "open_issues": 113,
                 "owner": "microsoft",
                 "repo": "tigertoolbox",
-                "stars": 1595,
+                "stars": 1596,
                 "topics": [
                   "always-on",
                   "indexes",
@@ -923,7 +923,7 @@
                 "id": 439129686,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-21T16:09:55Z",
+                "last_commit": "2026-10-22T18:31:47Z",
                 "open_issues": 74,
                 "owner": "trimble-oss",
                 "repo": "dba-dash",
@@ -1273,7 +1273,7 @@
                 "language": "TSQL",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-08-27T14:41:41Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "amtwo",
                 "repo": "dba-database",
                 "stars": 153,
@@ -1324,7 +1324,7 @@
                 "id": 131221823,
                 "language": "PLpgSQL",
                 "license": "MIT",
-                "last_commit": "2026-10-11T19:20:29Z",
+                "last_commit": "2026-10-22T13:14:53Z",
                 "open_issues": 1,
                 "owner": "lowlydba",
                 "repo": "dba-multitool",
@@ -1482,27 +1482,6 @@
             },
             {
               "node_type": "item",
-              "title": "SQL Server Regex - run regular expressions in SQL Server",
-              "description": "(by Dev Nambi)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Run regular expressions in SQL Server",
-                "homepage": null,
-                "id": 75345363,
-                "language": "C#",
-                "license": "AGPL-3.0",
-                "last_commit": "2018-10-26T03:56:21Z",
-                "open_issues": 5,
-                "owner": "DevNambi",
-                "repo": "sql-server-regex",
-                "stars": 83,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T23:43:12.098Z"
-            },
-            {
-              "node_type": "item",
               "title": "rsqlserver - Sql Server driver database interface (DBI) driver for R",
               "description": "agstudy/rsqlserver",
               "children": [],
@@ -1518,6 +1497,27 @@
                 "owner": "agstudy",
                 "repo": "rsqlserver",
                 "stars": 83,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SQL Server Regex - run regular expressions in SQL Server",
+              "description": "(by Dev Nambi)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Run regular expressions in SQL Server",
+                "homepage": null,
+                "id": 75345363,
+                "language": "C#",
+                "license": "AGPL-3.0",
+                "last_commit": "2018-10-26T03:56:21Z",
+                "open_issues": 5,
+                "owner": "DevNambi",
+                "repo": "sql-server-regex",
+                "stars": 82,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -1959,8 +1959,8 @@
                 "id": 452760479,
                 "language": "PowerShell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-21T14:50:27Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-21T21:52:46Z",
+                "open_issues": 2,
                 "owner": "lowlydba",
                 "repo": "lowlydba.sqlserver",
                 "stars": 26,
@@ -2408,7 +2408,7 @@
                 "id": 1414100535,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-21T12:37:17Z",
+                "last_commit": "2026-10-22T16:47:13Z",
                 "open_issues": 1,
                 "owner": "cristipufu",
                 "repo": "culprit-sql-studio",
@@ -2719,11 +2719,11 @@
                 "id": 33258973,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-21T13:02:17Z",
-                "open_issues": 428,
+                "last_commit": "2026-10-22T16:58:40Z",
+                "open_issues": 433,
                 "owner": "influxdata",
                 "repo": "telegraf",
-                "stars": 17872,
+                "stars": 17880,
                 "topics": [
                   "golang",
                   "hacktoberfest",
@@ -2757,11 +2757,11 @@
                 "id": 53698446,
                 "language": "PowerShell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T04:05:01Z",
+                "last_commit": "2026-10-22T00:26:52Z",
                 "open_issues": 285,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11264,
+                "stars": 11266,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -2803,7 +2803,7 @@
                 "open_issues": 82,
                 "owner": "DbUp",
                 "repo": "DbUp",
-                "stars": 2632,
+                "stars": 2631,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -2982,7 +2982,7 @@
             "language": "PowerShell",
             "license": "MIT",
             "last_commit": "2026-10-19T15:35:36Z",
-            "open_issues": 37,
+            "open_issues": 38,
             "owner": "dataplat",
             "repo": "dbatools",
             "stars": 2855,
@@ -3037,7 +3037,7 @@
             "open_issues": 131,
             "owner": "microsoft",
             "repo": "ReportingServicesTools",
-            "stars": 514,
+            "stars": 515,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:12.098Z"
@@ -3231,7 +3231,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T18:59:25.464Z",
+    "last_updated": "2026-10-22T18:53:25.075Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful links, scripts, tools and best practice for Microsoft SQL Server Database",
@@ -3243,7 +3243,7 @@
       "open_issues": 5,
       "owner": "ktaranov",
       "repo": "sqlserver-kit",
-      "stars": 2409,
+      "stars": 2411,
       "topics": [
         "awesome-list",
         "biml-resources",
