@@ -48,7 +48,7 @@
                 "id": 53698446,
                 "language": "PowerShell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-22T00:26:52Z",
+                "last_commit": "2026-10-23T23:40:37Z",
                 "open_issues": 285,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
@@ -85,7 +85,7 @@
                     "open_issues": 20,
                     "owner": "NUKnightLab",
                     "repo": "sql-mysteries",
-                    "stars": 2243,
+                    "stars": 2244,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.098Z"
@@ -106,7 +106,7 @@
                     "open_issues": 0,
                     "owner": "smpetersgithub",
                     "repo": "AdvancedSQLPuzzles",
-                    "stars": 930,
+                    "stars": 931,
                     "topics": [
                       "problems",
                       "puzzles",
@@ -198,8 +198,8 @@
                 "id": 155790228,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-23T17:05:01Z",
-                "open_issues": 364,
+                "last_commit": "2026-10-24T15:06:32Z",
+                "open_issues": 310,
                 "owner": "sqlfluff",
                 "repo": "sqlfluff",
                 "stars": 9990,
@@ -228,7 +228,7 @@
                 "open_issues": 76,
                 "owner": "opserver",
                 "repo": "Opserver",
-                "stars": 4563,
+                "stars": 4562,
                 "topics": [
                   "bosun",
                   "dotnet",
@@ -292,7 +292,7 @@
                 "open_issues": 3,
                 "owner": "BrentOzarULTD",
                 "repo": "SQL-Server-First-Responder-Kit",
-                "stars": 3925,
+                "stars": 3924,
                 "topics": [
                   "first-responder-kit",
                   "health-checks",
@@ -323,7 +323,7 @@
                 "open_issues": 85,
                 "owner": "mevdschee",
                 "repo": "php-crud-api",
-                "stars": 3738,
+                "stars": 3737,
                 "topics": [
                   "api-server",
                   "automatic-api",
@@ -361,10 +361,10 @@
                 "language": "TSQL",
                 "license": "MIT",
                 "last_commit": "2026-09-12T13:11:22Z",
-                "open_issues": 248,
+                "open_issues": 253,
                 "owner": "olahallengren",
                 "repo": "sql-server-maintenance-solution",
-                "stars": 3522,
+                "stars": 3523,
                 "topics": [
                   "sqlserver"
                 ]
@@ -515,7 +515,7 @@
                 "open_issues": 525,
                 "owner": "microsoft",
                 "repo": "mssql-docker",
-                "stars": 1893,
+                "stars": 1895,
                 "topics": [
                   "database",
                   "docker",
@@ -622,7 +622,7 @@
                 "open_issues": 66,
                 "owner": "Mimetis",
                 "repo": "Dotmim.Sync",
-                "stars": 982,
+                "stars": 983,
                 "topics": [
                   "change-tracking",
                   "changetracking",
@@ -726,8 +726,8 @@
                 "id": 169925829,
                 "language": "TSQL",
                 "license": "MIT",
-                "last_commit": "2026-10-23T17:54:40Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-24T16:04:30Z",
+                "open_issues": 1,
                 "owner": "erikdarlingdata",
                 "repo": "DarlingData",
                 "stars": 729,
@@ -923,8 +923,8 @@
                 "id": 439129686,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-23T16:56:54Z",
-                "open_issues": 75,
+                "last_commit": "2026-10-24T13:09:34Z",
+                "open_issues": 74,
                 "owner": "trimble-oss",
                 "repo": "dba-dash",
                 "stars": 433,
@@ -2403,12 +2403,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Find what's slowing your database down: a free desktop app, CLI and MCP server for SQL Server, PostgreSQL, MySQ, MariaDB and SQLite performance (slow queries, execution plans, indexes, blocking, deadlocks).",
+                "description": "Find what's slowing your database down: a free desktop app, CLI and MCP server for SQL Server, PostgreSQL, YugabyteDB, TimescaleDB, MySQ, MariaDB and SQLite performance (slow queries, execution plans, indexes, blocking, deadlocks).",
                 "homepage": "https://culpritsql.com",
                 "id": 1414100535,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-23T17:22:04Z",
+                "last_commit": "2026-10-24T12:53:16Z",
                 "open_issues": 1,
                 "owner": "cristipufu",
                 "repo": "culprit-sql-studio",
@@ -2720,10 +2720,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-10-22T16:58:40Z",
-                "open_issues": 437,
+                "open_issues": 439,
                 "owner": "influxdata",
                 "repo": "telegraf",
-                "stars": 17880,
+                "stars": 17878,
                 "topics": [
                   "golang",
                   "hacktoberfest",
@@ -2757,7 +2757,7 @@
                 "id": 53698446,
                 "language": "PowerShell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-22T00:26:52Z",
+                "last_commit": "2026-10-23T23:40:37Z",
                 "open_issues": 285,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
@@ -3037,7 +3037,7 @@
             "open_issues": 131,
             "owner": "microsoft",
             "repo": "ReportingServicesTools",
-            "stars": 515,
+            "stars": 516,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:12.098Z"
@@ -3054,7 +3054,7 @@
             "id": 34022262,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-10-23T11:36:25Z",
+            "last_commit": "2026-10-24T05:19:33Z",
             "open_issues": 295,
             "owner": "dsccommunity",
             "repo": "SqlServerDsc",
@@ -3231,7 +3231,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T18:45:31.978Z",
+    "last_updated": "2026-10-24T17:39:58.816Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful links, scripts, tools and best practice for Microsoft SQL Server Database",
@@ -3243,7 +3243,7 @@
       "open_issues": 5,
       "owner": "ktaranov",
       "repo": "sqlserver-kit",
-      "stars": 2410,
+      "stars": 2411,
       "topics": [
         "awesome-list",
         "biml-resources",
