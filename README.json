@@ -52,7 +52,7 @@
                 "open_issues": 284,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11277,
+                "stars": 11280,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -85,7 +85,7 @@
                     "open_issues": 20,
                     "owner": "NUKnightLab",
                     "repo": "sql-mysteries",
-                    "stars": 2248,
+                    "stars": 2249,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.098Z"
@@ -165,7 +165,7 @@
                 "open_issues": 2607,
                 "owner": "microsoft",
                 "repo": "azuredatastudio",
-                "stars": 7678,
+                "stars": 7679,
                 "topics": [
                   "azure",
                   "azure-data-studio",
@@ -198,11 +198,11 @@
                 "id": 155790228,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-30T19:30:05Z",
-                "open_issues": 310,
+                "last_commit": "2026-10-31T03:19:41Z",
+                "open_issues": 320,
                 "owner": "sqlfluff",
                 "repo": "sqlfluff",
-                "stars": 10004,
+                "stars": 10008,
                 "topics": [
                   "hacktoberfest",
                   "pypi",
@@ -228,7 +228,7 @@
                 "open_issues": 76,
                 "owner": "opserver",
                 "repo": "Opserver",
-                "stars": 4563,
+                "stars": 4564,
                 "topics": [
                   "bosun",
                   "dotnet",
@@ -323,7 +323,7 @@
                 "open_issues": 86,
                 "owner": "mevdschee",
                 "repo": "php-crud-api",
-                "stars": 3739,
+                "stars": 3740,
                 "topics": [
                   "api-server",
                   "automatic-api",
@@ -364,7 +364,7 @@
                 "open_issues": 253,
                 "owner": "olahallengren",
                 "repo": "sql-server-maintenance-solution",
-                "stars": 3525,
+                "stars": 3526,
                 "topics": [
                   "sqlserver"
                 ]
@@ -481,7 +481,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-30T16:01:42Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "ErikEJ",
                 "repo": "EFCorePowerTools",
                 "stars": 2512,
@@ -515,7 +515,7 @@
                 "open_issues": 525,
                 "owner": "microsoft",
                 "repo": "mssql-docker",
-                "stars": 1894,
+                "stars": 1895,
                 "topics": [
                   "database",
                   "docker",
@@ -597,7 +597,7 @@
                 "open_issues": 2,
                 "owner": "ErikEJ",
                 "repo": "SqlQueryStress",
-                "stars": 1114,
+                "stars": 1115,
                 "topics": [
                   "performance",
                   "sql-server",
@@ -706,7 +706,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-07-08T17:56:22Z",
-                "open_issues": 121,
+                "open_issues": 122,
                 "owner": "microsoft",
                 "repo": "Analysis-Services",
                 "stars": 736,
@@ -730,7 +730,7 @@
                 "open_issues": 1,
                 "owner": "erikdarlingdata",
                 "repo": "DarlingData",
-                "stars": 729,
+                "stars": 730,
                 "topics": [
                   "extended-events",
                   "index",
@@ -831,8 +831,8 @@
                 "id": 84195415,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-30T17:22:11Z",
-                "open_issues": 19,
+                "last_commit": "2026-10-30T21:40:56Z",
+                "open_issues": 20,
                 "owner": "albertodonato",
                 "repo": "query-exporter",
                 "stars": 536,
@@ -923,8 +923,8 @@
                 "id": 439129686,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-30T09:53:11Z",
-                "open_issues": 74,
+                "last_commit": "2026-10-31T12:08:32Z",
+                "open_issues": 72,
                 "owner": "trimble-oss",
                 "repo": "dba-dash",
                 "stars": 434,
@@ -960,7 +960,7 @@
                 "open_issues": 14,
                 "owner": "StackExchange",
                 "repo": "StackExchange.DataExplorer",
-                "stars": 362,
+                "stars": 363,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -1959,7 +1959,7 @@
                 "id": 452760479,
                 "language": "PowerShell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-29T13:40:15Z",
+                "last_commit": "2026-10-31T16:39:00Z",
                 "open_issues": 2,
                 "owner": "lowlydba",
                 "repo": "lowlydba.sqlserver",
@@ -2699,6 +2699,34 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
+            },
+            {
+              "node_type": "item",
+              "title": "sql-server-health-check - read-only T-SQL health check (backups, CHECKDB age, security counts, configuration, top waits, index counts, tempdb, Agent failures, end of support) that collects metadata only, never table data",
+              "description": "(by Evan Barke)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Read-only T-SQL health check for SQL Server: backups, CHECKDB, security, config, waits, indexes, end of support. Collects metadata only.",
+                "homepage": "https://samix-technology.com/en/sql-server-health-score",
+                "id": 1438520797,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2026-10-29T14:18:34Z",
+                "open_issues": 0,
+                "owner": "evanbarke",
+                "repo": "sql-server-health-check",
+                "stars": 0,
+                "topics": [
+                  "database-audit",
+                  "dba",
+                  "health-check",
+                  "mssql",
+                  "sql-server",
+                  "t-sql"
+                ]
+              },
+              "first_seen": "2026-10-31T18:51:23.446Z"
             }
           ]
         },
@@ -2723,7 +2751,7 @@
                 "open_issues": 433,
                 "owner": "influxdata",
                 "repo": "telegraf",
-                "stars": 17888,
+                "stars": 17890,
                 "topics": [
                   "golang",
                   "hacktoberfest",
@@ -2761,7 +2789,7 @@
                 "open_issues": 284,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11277,
+                "stars": 11280,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -2782,7 +2810,7 @@
                 "open_issues": 2,
                 "owner": "ept",
                 "repo": "hermitage",
-                "stars": 2751,
+                "stars": 2752,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -2803,7 +2831,7 @@
                 "open_issues": 81,
                 "owner": "DbUp",
                 "repo": "DbUp",
-                "stars": 2631,
+                "stars": 2632,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -2985,7 +3013,7 @@
             "open_issues": 29,
             "owner": "dataplat",
             "repo": "dbatools",
-            "stars": 2856,
+            "stars": 2857,
             "topics": [
               "backup",
               "best-practices",
@@ -3054,8 +3082,8 @@
             "id": 34022262,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-10-29T11:00:58Z",
-            "open_issues": 295,
+            "last_commit": "2026-10-31T10:12:52Z",
+            "open_issues": 299,
             "owner": "dsccommunity",
             "repo": "SqlServerDsc",
             "stars": 386,
@@ -3231,7 +3259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T19:44:26.934Z",
+    "last_updated": "2026-10-31T18:51:23.446Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful links, scripts, tools and best practice for Microsoft SQL Server Database",
@@ -3239,8 +3267,8 @@
       "id": 24328843,
       "language": "TSQL",
       "license": "MIT",
-      "last_commit": "2026-10-15T10:40:09Z",
-      "open_issues": 6,
+      "last_commit": "2026-10-31T11:17:08Z",
+      "open_issues": 4,
       "owner": "ktaranov",
       "repo": "sqlserver-kit",
       "stars": 2410,
@@ -3258,7 +3286,7 @@
         "tsql"
       ]
     },
-    "original_repository_sha": "f65ffb62d30969cedadde501dc6e741a7e469351",
+    "original_repository_sha": "82643dabd30d08d5981861a1cd1922ae0f842116",
     "enhanced_repository": "enhansome/enhansome-sqlserver-kit",
     "enhanced_repository_description": null,
     "title": "Awesome SQL Server KIT with stars"
