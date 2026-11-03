@@ -52,7 +52,7 @@
                 "open_issues": 285,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11285,
+                "stars": 11289,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -85,7 +85,7 @@
                     "open_issues": 20,
                     "owner": "NUKnightLab",
                     "repo": "sql-mysteries",
-                    "stars": 2249,
+                    "stars": 2252,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.098Z"
@@ -165,7 +165,7 @@
                 "open_issues": 2607,
                 "owner": "microsoft",
                 "repo": "azuredatastudio",
-                "stars": 7679,
+                "stars": 7677,
                 "topics": [
                   "azure",
                   "azure-data-studio",
@@ -198,11 +198,11 @@
                 "id": 155790228,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-02T20:26:10Z",
-                "open_issues": 325,
+                "last_commit": "2026-11-03T19:02:57Z",
+                "open_issues": 320,
                 "owner": "sqlfluff",
                 "repo": "sqlfluff",
-                "stars": 10011,
+                "stars": 10012,
                 "topics": [
                   "hacktoberfest",
                   "pypi",
@@ -228,7 +228,7 @@
                 "open_issues": 76,
                 "owner": "opserver",
                 "repo": "Opserver",
-                "stars": 4565,
+                "stars": 4563,
                 "topics": [
                   "bosun",
                   "dotnet",
@@ -289,7 +289,7 @@
                 "language": "TSQL",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-30T11:40:40Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "BrentOzarULTD",
                 "repo": "SQL-Server-First-Responder-Kit",
                 "stars": 3926,
@@ -364,7 +364,7 @@
                 "open_issues": 253,
                 "owner": "olahallengren",
                 "repo": "sql-server-maintenance-solution",
-                "stars": 3527,
+                "stars": 3528,
                 "topics": [
                   "sqlserver"
                 ]
@@ -408,34 +408,6 @@
             },
             {
               "node_type": "item",
-              "title": "Bosum - Time Series Alerting Framework",
-              "description": "(by Stack Exchange)",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Time Series Alerting Framework",
-                "homepage": "http://bosun.org",
-                "id": 14410778,
-                "language": "Go",
-                "license": "MIT",
-                "last_commit": "2025-02-13T10:41:49Z",
-                "open_issues": 0,
-                "owner": "bosun-monitor",
-                "repo": "bosun",
-                "stars": 3382,
-                "topics": [
-                  "alerting",
-                  "bosun",
-                  "go",
-                  "monitoring",
-                  "scollector",
-                  "tsdb"
-                ]
-              },
-              "first_seen": "2026-08-28T23:43:12.098Z"
-            },
-            {
-              "node_type": "item",
               "title": "SQL query builder, written in C#",
               "description": "sqlkata/querybuilder",
               "children": [],
@@ -447,7 +419,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-21T11:22:17Z",
-                "open_issues": 180,
+                "open_issues": 179,
                 "owner": "sqlkata",
                 "repo": "querybuilder",
                 "stars": 3382,
@@ -470,6 +442,34 @@
             },
             {
               "node_type": "item",
+              "title": "Bosum - Time Series Alerting Framework",
+              "description": "(by Stack Exchange)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "Time Series Alerting Framework",
+                "homepage": "http://bosun.org",
+                "id": 14410778,
+                "language": "Go",
+                "license": "MIT",
+                "last_commit": "2025-02-13T10:41:49Z",
+                "open_issues": 0,
+                "owner": "bosun-monitor",
+                "repo": "bosun",
+                "stars": 3381,
+                "topics": [
+                  "alerting",
+                  "bosun",
+                  "go",
+                  "monitoring",
+                  "scollector",
+                  "tsdb"
+                ]
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
+            },
+            {
+              "node_type": "item",
               "title": "EFCorePowerTools - Reverse engineering, model visualization and migrations UI for EF Core",
               "description": "(by Erik Ejlskov Jensen)",
               "children": [],
@@ -484,7 +484,7 @@
                 "open_issues": 9,
                 "owner": "ErikEJ",
                 "repo": "EFCorePowerTools",
-                "stars": 2514,
+                "stars": 2516,
                 "topics": [
                   "dbcontext",
                   "dotnet",
@@ -515,7 +515,7 @@
                 "open_issues": 525,
                 "owner": "microsoft",
                 "repo": "mssql-docker",
-                "stars": 1895,
+                "stars": 1896,
                 "topics": [
                   "database",
                   "docker",
@@ -572,7 +572,7 @@
                 "open_issues": 22,
                 "owner": "amachanic",
                 "repo": "sp_whoisactive",
-                "stars": 1413,
+                "stars": 1414,
                 "topics": [
                   "monitoring",
                   "sql",
@@ -597,7 +597,7 @@
                 "open_issues": 2,
                 "owner": "ErikEJ",
                 "repo": "SqlQueryStress",
-                "stars": 1115,
+                "stars": 1114,
                 "topics": [
                   "performance",
                   "sql-server",
@@ -730,7 +730,7 @@
                 "open_issues": 1,
                 "owner": "erikdarlingdata",
                 "repo": "DarlingData",
-                "stars": 730,
+                "stars": 727,
                 "topics": [
                   "extended-events",
                   "index",
@@ -795,7 +795,7 @@
                 "open_issues": 61,
                 "owner": "IsNemoEqualTrue",
                 "repo": "monitor-table-change-with-sqltabledependency",
-                "stars": 667,
+                "stars": 666,
                 "topics": [
                   "audit",
                   "change",
@@ -835,7 +835,7 @@
                 "open_issues": 23,
                 "owner": "albertodonato",
                 "repo": "query-exporter",
-                "stars": 536,
+                "stars": 535,
                 "topics": [
                   "database",
                   "metrics",
@@ -864,7 +864,7 @@
                 "open_issues": 55,
                 "owner": "clinthuffman",
                 "repo": "PAL",
-                "stars": 511,
+                "stars": 512,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -923,8 +923,8 @@
                 "id": 439129686,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-02T15:49:54Z",
-                "open_issues": 72,
+                "last_commit": "2026-11-03T09:40:12Z",
+                "open_issues": 73,
                 "owner": "trimble-oss",
                 "repo": "dba-dash",
                 "stars": 435,
@@ -1300,7 +1300,7 @@
                 "open_issues": 16,
                 "owner": "microsoft",
                 "repo": "sql-server-language-extensions",
-                "stars": 118,
+                "stars": 119,
                 "topics": [
                   "csharp",
                   "dotnet-core",
@@ -2747,11 +2747,11 @@
                 "id": 33258973,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-02T22:06:35Z",
-                "open_issues": 452,
+                "last_commit": "2026-11-03T20:15:53Z",
+                "open_issues": 440,
                 "owner": "influxdata",
                 "repo": "telegraf",
-                "stars": 17893,
+                "stars": 17895,
                 "topics": [
                   "golang",
                   "hacktoberfest",
@@ -2789,7 +2789,7 @@
                 "open_issues": 285,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11285,
+                "stars": 11289,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -2831,7 +2831,7 @@
                 "open_issues": 81,
                 "owner": "DbUp",
                 "repo": "DbUp",
-                "stars": 2633,
+                "stars": 2634,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -3061,7 +3061,7 @@
             "id": 70360005,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-11-02T22:19:13Z",
+            "last_commit": "2026-11-03T16:27:34Z",
             "open_issues": 122,
             "owner": "microsoft",
             "repo": "ReportingServicesTools",
@@ -3082,7 +3082,7 @@
             "id": 34022262,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-11-02T19:49:59Z",
+            "last_commit": "2026-11-03T19:26:02Z",
             "open_issues": 299,
             "owner": "dsccommunity",
             "repo": "SqlServerDsc",
@@ -3259,7 +3259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T22:54:37.690Z",
+    "last_updated": "2026-11-03T20:40:42.568Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful links, scripts, tools and best practice for Microsoft SQL Server Database",
