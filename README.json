@@ -52,7 +52,7 @@
                 "open_issues": 285,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11292,
+                "stars": 11295,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -85,7 +85,7 @@
                     "open_issues": 20,
                     "owner": "NUKnightLab",
                     "repo": "sql-mysteries",
-                    "stars": 2253,
+                    "stars": 2254,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.098Z"
@@ -198,11 +198,11 @@
                 "id": 155790228,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-06T19:06:17Z",
-                "open_issues": 346,
+                "last_commit": "2026-11-07T09:36:07Z",
+                "open_issues": 355,
                 "owner": "sqlfluff",
                 "repo": "sqlfluff",
-                "stars": 10011,
+                "stars": 10013,
                 "topics": [
                   "hacktoberfest",
                   "pypi",
@@ -257,7 +257,7 @@
                 "open_issues": 136,
                 "owner": "borisdj",
                 "repo": "EFCore.BulkExtensions",
-                "stars": 3996,
+                "stars": 3995,
                 "topics": [
                   "batch",
                   "bulk",
@@ -288,11 +288,11 @@
                 "id": 20408831,
                 "language": "TSQL",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T20:23:30Z",
+                "last_commit": "2026-11-07T16:44:45Z",
                 "open_issues": 2,
                 "owner": "BrentOzarULTD",
                 "repo": "SQL-Server-First-Responder-Kit",
-                "stars": 3926,
+                "stars": 3925,
                 "topics": [
                   "first-responder-kit",
                   "health-checks",
@@ -364,7 +364,7 @@
                 "open_issues": 254,
                 "owner": "olahallengren",
                 "repo": "sql-server-maintenance-solution",
-                "stars": 3530,
+                "stars": 3529,
                 "topics": [
                   "sqlserver"
                 ]
@@ -456,7 +456,7 @@
                 "open_issues": 0,
                 "owner": "bosun-monitor",
                 "repo": "bosun",
-                "stars": 3381,
+                "stars": 3380,
                 "topics": [
                   "alerting",
                   "bosun",
@@ -597,7 +597,7 @@
                 "open_issues": 2,
                 "owner": "ErikEJ",
                 "repo": "SqlQueryStress",
-                "stars": 1114,
+                "stars": 1115,
                 "topics": [
                   "performance",
                   "sql-server",
@@ -653,7 +653,7 @@
                 "id": 76404,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-10-27T15:51:00Z",
+                "last_commit": "2026-11-07T15:52:43Z",
                 "open_issues": 25,
                 "owner": "rails-sqlserver",
                 "repo": "activerecord-sqlserver-adapter",
@@ -831,8 +831,8 @@
                 "id": 84195415,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-01T03:27:48Z",
-                "open_issues": 23,
+                "last_commit": "2026-11-07T15:47:19Z",
+                "open_issues": 17,
                 "owner": "albertodonato",
                 "repo": "query-exporter",
                 "stars": 535,
@@ -923,8 +923,8 @@
                 "id": 439129686,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-06T16:55:30Z",
-                "open_issues": 72,
+                "last_commit": "2026-11-07T15:50:55Z",
+                "open_issues": 74,
                 "owner": "trimble-oss",
                 "repo": "dba-dash",
                 "stars": 436,
@@ -1959,8 +1959,8 @@
                 "id": 452760479,
                 "language": "PowerShell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-31T16:39:00Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-07T04:55:41Z",
+                "open_issues": 0,
                 "owner": "lowlydba",
                 "repo": "lowlydba.sqlserver",
                 "stars": 26,
@@ -2003,27 +2003,6 @@
             },
             {
               "node_type": "item",
-              "title": "MOSL - Memory Optimized Script Library",
-              "description": "(by Niko Neugebauer) (Github)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Memory Optimized Scripts Library ",
-                "homepage": null,
-                "id": 69346863,
-                "language": "PLSQL",
-                "license": "Apache-2.0",
-                "last_commit": "2016-11-08T17:46:40Z",
-                "open_issues": 1,
-                "owner": "NikoNeugebauer",
-                "repo": "MOSL",
-                "stars": 23,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T23:43:12.098Z"
-            },
-            {
-              "node_type": "item",
               "title": "Culprit SQL Studio - desktop app, CLI and MCP server that turns Query Store, the plan cache and DMVs into ranked findings with fixes: slow queries, plan regressions, missing indexes, blocking and deadlocks",
               "description": "cristipufu/culprit-sql-studio",
               "children": [],
@@ -2034,11 +2013,11 @@
                 "id": 1414100535,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-06T17:29:53Z",
+                "last_commit": "2026-11-07T15:50:28Z",
                 "open_issues": 1,
                 "owner": "cristipufu",
                 "repo": "culprit-sql-studio",
-                "stars": 23,
+                "stars": 24,
                 "topics": [
                   "claude-code",
                   "database-performance",
@@ -2063,6 +2042,27 @@
                 ]
               },
               "first_seen": "2026-10-15T18:42:32.730Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MOSL - Memory Optimized Script Library",
+              "description": "(by Niko Neugebauer) (Github)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Memory Optimized Scripts Library ",
+                "homepage": null,
+                "id": 69346863,
+                "language": "PLSQL",
+                "license": "Apache-2.0",
+                "last_commit": "2016-11-08T17:46:40Z",
+                "open_issues": 1,
+                "owner": "NikoNeugebauer",
+                "repo": "MOSL",
+                "stars": 23,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -2748,10 +2748,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-11-06T12:44:58Z",
-                "open_issues": 443,
+                "open_issues": 447,
                 "owner": "influxdata",
                 "repo": "telegraf",
-                "stars": 17896,
+                "stars": 17897,
                 "topics": [
                   "golang",
                   "hacktoberfest",
@@ -2789,7 +2789,7 @@
                 "open_issues": 285,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11292,
+                "stars": 11295,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -2810,7 +2810,7 @@
                 "open_issues": 2,
                 "owner": "ept",
                 "repo": "hermitage",
-                "stars": 2752,
+                "stars": 2753,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -3082,11 +3082,11 @@
             "id": 34022262,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-11-04T16:42:34Z",
+            "last_commit": "2026-11-07T04:21:43Z",
             "open_issues": 301,
             "owner": "dsccommunity",
             "repo": "SqlServerDsc",
-            "stars": 386,
+            "stars": 387,
             "topics": [
               "dsc",
               "dsc-resources",
@@ -3259,7 +3259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:37:41.270Z",
+    "last_updated": "2026-11-07T19:05:00.983Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful links, scripts, tools and best practice for Microsoft SQL Server Database",
