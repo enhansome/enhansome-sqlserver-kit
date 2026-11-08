@@ -52,7 +52,7 @@
                 "open_issues": 285,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11295,
+                "stars": 11297,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -85,7 +85,7 @@
                     "open_issues": 20,
                     "owner": "NUKnightLab",
                     "repo": "sql-mysteries",
-                    "stars": 2254,
+                    "stars": 2253,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.098Z"
@@ -106,7 +106,7 @@
                     "open_issues": 0,
                     "owner": "smpetersgithub",
                     "repo": "AdvancedSQLPuzzles",
-                    "stars": 932,
+                    "stars": 931,
                     "topics": [
                       "problems",
                       "puzzles",
@@ -198,8 +198,8 @@
                 "id": 155790228,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-07T09:36:07Z",
-                "open_issues": 355,
+                "last_commit": "2026-11-08T15:32:38Z",
+                "open_issues": 358,
                 "owner": "sqlfluff",
                 "repo": "sqlfluff",
                 "stars": 10013,
@@ -288,7 +288,7 @@
                 "id": 20408831,
                 "language": "TSQL",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-07T16:44:45Z",
+                "last_commit": "2026-11-08T11:01:55Z",
                 "open_issues": 2,
                 "owner": "BrentOzarULTD",
                 "repo": "SQL-Server-First-Responder-Kit",
@@ -512,7 +512,7 @@
                 "language": "Dockerfile",
                 "license": "MIT",
                 "last_commit": "2026-10-14T20:42:31Z",
-                "open_issues": 525,
+                "open_issues": 524,
                 "owner": "microsoft",
                 "repo": "mssql-docker",
                 "stars": 1896,
@@ -709,7 +709,7 @@
                 "open_issues": 122,
                 "owner": "microsoft",
                 "repo": "Analysis-Services",
-                "stars": 737,
+                "stars": 738,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -923,8 +923,8 @@
                 "id": 439129686,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-07T15:50:55Z",
-                "open_issues": 74,
+                "last_commit": "2026-11-08T13:31:03Z",
+                "open_issues": 73,
                 "owner": "trimble-oss",
                 "repo": "dba-dash",
                 "stars": 436,
@@ -2013,7 +2013,7 @@
                 "id": 1414100535,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-07T15:50:28Z",
+                "last_commit": "2026-11-08T12:51:43Z",
                 "open_issues": 1,
                 "owner": "cristipufu",
                 "repo": "culprit-sql-studio",
@@ -2751,7 +2751,7 @@
                 "open_issues": 447,
                 "owner": "influxdata",
                 "repo": "telegraf",
-                "stars": 17897,
+                "stars": 17898,
                 "topics": [
                   "golang",
                   "hacktoberfest",
@@ -2789,7 +2789,7 @@
                 "open_issues": 285,
                 "owner": "microsoft",
                 "repo": "sql-server-samples",
-                "stars": 11295,
+                "stars": 11297,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -2831,7 +2831,7 @@
                 "open_issues": 81,
                 "owner": "DbUp",
                 "repo": "DbUp",
-                "stars": 2634,
+                "stars": 2635,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -3044,7 +3044,7 @@
             "open_issues": 26,
             "owner": "NetSPI",
             "repo": "PowerUpSQL",
-            "stars": 2748,
+            "stars": 2749,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:12.098Z"
@@ -3259,7 +3259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T19:05:00.983Z",
+    "last_updated": "2026-11-08T19:12:08.800Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful links, scripts, tools and best practice for Microsoft SQL Server Database",
