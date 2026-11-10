@@ -165,7 +165,7 @@
                 "open_issues": 2607,
                 "owner": "microsoft",
                 "repo": "azuredatastudio",
-                "stars": 7673,
+                "stars": 7674,
                 "topics": [
                   "azure",
                   "azure-data-studio",
@@ -198,11 +198,11 @@
                 "id": 155790228,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-09T23:11:33Z",
-                "open_issues": 347,
+                "last_commit": "2026-11-10T15:02:37Z",
+                "open_issues": 343,
                 "owner": "sqlfluff",
                 "repo": "sqlfluff",
-                "stars": 10018,
+                "stars": 10020,
                 "topics": [
                   "hacktoberfest",
                   "pypi",
@@ -228,7 +228,7 @@
                 "open_issues": 76,
                 "owner": "opserver",
                 "repo": "Opserver",
-                "stars": 4563,
+                "stars": 4562,
                 "topics": [
                   "bosun",
                   "dotnet",
@@ -257,7 +257,7 @@
                 "open_issues": 136,
                 "owner": "borisdj",
                 "repo": "EFCore.BulkExtensions",
-                "stars": 3996,
+                "stars": 3995,
                 "topics": [
                   "batch",
                   "bulk",
@@ -387,7 +387,7 @@
                 "open_issues": 206,
                 "owner": "fluentmigrator",
                 "repo": "fluentmigrator",
-                "stars": 3521,
+                "stars": 3520,
                 "topics": [
                   "database",
                   "database-schema",
@@ -422,7 +422,7 @@
                 "open_issues": 179,
                 "owner": "sqlkata",
                 "repo": "querybuilder",
-                "stars": 3383,
+                "stars": 3382,
                 "topics": [
                   "activerecord",
                   "c-sharp",
@@ -484,7 +484,7 @@
                 "open_issues": 10,
                 "owner": "ErikEJ",
                 "repo": "EFCorePowerTools",
-                "stars": 2518,
+                "stars": 2517,
                 "topics": [
                   "dbcontext",
                   "dotnet",
@@ -515,7 +515,7 @@
                 "open_issues": 524,
                 "owner": "microsoft",
                 "repo": "mssql-docker",
-                "stars": 1896,
+                "stars": 1895,
                 "topics": [
                   "database",
                   "docker",
@@ -730,7 +730,7 @@
                 "open_issues": 2,
                 "owner": "erikdarlingdata",
                 "repo": "DarlingData",
-                "stars": 728,
+                "stars": 729,
                 "topics": [
                   "extended-events",
                   "index",
@@ -923,8 +923,8 @@
                 "id": 439129686,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-08T13:31:03Z",
-                "open_issues": 73,
+                "last_commit": "2026-11-10T19:11:26Z",
+                "open_issues": 75,
                 "owner": "trimble-oss",
                 "repo": "dba-dash",
                 "stars": 436,
@@ -981,7 +981,7 @@
                 "open_issues": 62,
                 "owner": "sethreno",
                 "repo": "schemazen",
-                "stars": 354,
+                "stars": 355,
                 "topics": [
                   "c-sharp",
                   "database",
@@ -1008,7 +1008,7 @@
                 "open_issues": 13,
                 "owner": "bruce-dunwiddie",
                 "repo": "tsql-parser",
-                "stars": 337,
+                "stars": 338,
                 "topics": [
                   "parse",
                   "parser",
@@ -1272,8 +1272,8 @@
                 "id": 103656529,
                 "language": "TSQL",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-09T23:35:03Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-10T05:06:39Z",
+                "open_issues": 1,
                 "owner": "amtwo",
                 "repo": "dba-database",
                 "stars": 152,
@@ -1977,32 +1977,6 @@
             },
             {
               "node_type": "item",
-              "title": "SQL-Server-Permissions-Manager - a set of scripts for managing logins and permissions on SQL Server databases",
-              "description": "(by Eric Cobb)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A set of scripts for managing logins and permissions on SQL Server databases.",
-                "homepage": null,
-                "id": 104937427,
-                "language": "TSQL",
-                "license": "MIT",
-                "last_commit": "2021-06-03T13:28:37Z",
-                "open_issues": 3,
-                "owner": "ericcobb",
-                "repo": "SQL-Server-Permissions-Manager",
-                "stars": 25,
-                "topics": [
-                  "permission-manager",
-                  "sql-server",
-                  "sqlserver",
-                  "t-sql"
-                ]
-              },
-              "first_seen": "2026-08-28T23:43:12.098Z"
-            },
-            {
-              "node_type": "item",
               "title": "Culprit SQL Studio - desktop app, CLI and MCP server that turns Query Store, the plan cache and DMVs into ranked findings with fixes: slow queries, plan regressions, missing indexes, blocking and deadlocks",
               "description": "cristipufu/culprit-sql-studio",
               "children": [],
@@ -2013,11 +1987,11 @@
                 "id": 1414100535,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-09T09:13:07Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-10T18:39:07Z",
+                "open_issues": 2,
                 "owner": "cristipufu",
                 "repo": "culprit-sql-studio",
-                "stars": 25,
+                "stars": 26,
                 "topics": [
                   "claude-code",
                   "database-performance",
@@ -2042,6 +2016,32 @@
                 ]
               },
               "first_seen": "2026-10-15T18:42:32.730Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SQL-Server-Permissions-Manager - a set of scripts for managing logins and permissions on SQL Server databases",
+              "description": "(by Eric Cobb)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A set of scripts for managing logins and permissions on SQL Server databases.",
+                "homepage": null,
+                "id": 104937427,
+                "language": "TSQL",
+                "license": "MIT",
+                "last_commit": "2021-06-03T13:28:37Z",
+                "open_issues": 3,
+                "owner": "ericcobb",
+                "repo": "SQL-Server-Permissions-Manager",
+                "stars": 25,
+                "topics": [
+                  "permission-manager",
+                  "sql-server",
+                  "sqlserver",
+                  "t-sql"
+                ]
+              },
+              "first_seen": "2026-08-28T23:43:12.098Z"
             },
             {
               "node_type": "item",
@@ -2747,11 +2747,11 @@
                 "id": 33258973,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-09T22:06:36Z",
-                "open_issues": 476,
+                "last_commit": "2026-11-10T19:04:19Z",
+                "open_issues": 454,
                 "owner": "influxdata",
                 "repo": "telegraf",
-                "stars": 17900,
+                "stars": 17901,
                 "topics": [
                   "golang",
                   "hacktoberfest",
@@ -2810,7 +2810,7 @@
                 "open_issues": 2,
                 "owner": "ept",
                 "repo": "hermitage",
-                "stars": 2753,
+                "stars": 2755,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -2831,7 +2831,7 @@
                 "open_issues": 81,
                 "owner": "DbUp",
                 "repo": "DbUp",
-                "stars": 2636,
+                "stars": 2635,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.098Z"
@@ -2932,7 +2932,7 @@
                 "id": 651440436,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-26T23:55:15Z",
+                "last_commit": "2026-11-09T23:53:59Z",
                 "open_issues": 3,
                 "owner": "trimble-oss",
                 "repo": "sql-log-shipping-service",
@@ -3009,11 +3009,11 @@
             "id": 30215226,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-11-09T20:21:28Z",
-            "open_issues": 27,
+            "last_commit": "2026-11-10T19:27:30Z",
+            "open_issues": 34,
             "owner": "dataplat",
             "repo": "dbatools",
-            "stars": 2858,
+            "stars": 2859,
             "topics": [
               "backup",
               "best-practices",
@@ -3086,7 +3086,7 @@
             "open_issues": 301,
             "owner": "dsccommunity",
             "repo": "SqlServerDsc",
-            "stars": 387,
+            "stars": 388,
             "topics": [
               "dsc",
               "dsc-resources",
@@ -3259,7 +3259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:36:32.186Z",
+    "last_updated": "2026-11-10T21:02:41.847Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful links, scripts, tools and best practice for Microsoft SQL Server Database",
